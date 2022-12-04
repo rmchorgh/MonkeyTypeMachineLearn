@@ -1653,238 +1653,128 @@ timestamp,activeWord,lastChar,correctChar,source,layout,testType,testLength,test
 2022-12-04T10:47:24.844Z,the,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T10:47:25.531Z,the,h,h,monkeytype,semicolemak,words,10,english,null
 2022-12-04T10:47:25.648Z,the,e,e,monkeytype,semicolemak,words,10,english,null
+
+keypress start
+
 2022-12-04T21:30:16.561Z,write,w,w,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:16.562Z,write,w,w,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:16.772Z,write,r,r,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:16.773Z,write,r,r,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:16.894Z,write,i,i,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:16.895Z,write,i,i,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:17.593Z,write,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:17.593Z,write,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:17.693Z,write,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:17.694Z,write,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:17.910Z,state, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:17.910Z,state, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:18.360Z,state,s,s,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:18.360Z,state,s,s,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:18.824Z,state,t,t,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:18.826Z,state,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:19.102Z,state,a,a,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:19.103Z,state,a,a,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:19.256Z,state,t,t,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:19.257Z,state,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:19.456Z,state,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:19.457Z,state,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:19.712Z,no, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:19.712Z,no, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:20.023Z,no,m,n,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:20.024Z,no,m,n,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:20.917Z,no,n,n,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:20.918Z,no,n,n,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:21.391Z,no,o,o,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:21.392Z,no,o,o,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:21.568Z,turn, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:21.568Z,turn, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:22.262Z,turn,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:22.263Z,turn,t,t,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:22.814Z,turn,u,u,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:22.815Z,turn,u,u,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:23.866Z,turn,r,r,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:23.867Z,turn,r,r,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:24.358Z,turn,n,n,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:24.358Z,turn,n,n,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:24.560Z,between, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:24.561Z,between, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:25.157Z,between,b,b,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:25.158Z,between,b,b,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:25.631Z,between,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:25.631Z,between,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:26.174Z,between,w,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:26.175Z,between,w,t,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:26.983Z,between,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:26.984Z,between,t,t,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:28.151Z,between,w,w,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:28.152Z,between,w,w,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:28.583Z,between,i,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:28.584Z,between,i,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:29.990Z,between,w,w,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:29.990Z,between,w,w,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:30.101Z,between,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:30.102Z,between,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:30.302Z,between,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:30.303Z,between,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:30.519Z,between,n,n,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:30.520Z,between,n,n,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:30.671Z,make, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:30.671Z,make, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:31.119Z,make,m,m,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:31.120Z,make,m,m,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:31.233Z,make,a,a,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:31.234Z,make,a,a,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:32.135Z,make,h,k,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:32.136Z,make,h,k,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:32.337Z,make,e,k,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:32.337Z,make,e,k,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:32.510Z,know, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:32.510Z,know, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:33.823Z,know,k,k,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:33.823Z,know,k,k,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:34.694Z,know,n,n,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:34.694Z,know,n,n,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:35.056Z,know,o,o,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:35.057Z,know,o,o,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:35.557Z,know,w,w,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:35.557Z,know,w,w,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:35.693Z,line, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:35.694Z,line, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:36.105Z,line,l,l,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:36.105Z,line,l,l,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:36.358Z,line,i,i,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:36.358Z,line,i,i,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:36.752Z,line,n,n,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:36.753Z,line,n,n,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:37.125Z,line,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:37.125Z,line,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:37.339Z,will, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:37.339Z,will, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:37.926Z,will,w,w,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:37.926Z,will,w,w,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:38.142Z,will,i,i,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:38.143Z,will,i,i,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:38.353Z,will,l,l,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:38.353Z,will,l,l,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:38.551Z,will,l,l,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:38.552Z,will,l,l,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:38.706Z,be, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:38.707Z,be, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:39.360Z,be,b,b,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:39.361Z,be,b,b,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:39.593Z,be,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:30:39.593Z,be,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:17.215Z,begin,b,b,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:17.216Z,begin,b,b,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:17.368Z,begin,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:17.368Z,begin,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:17.840Z,begin,g,g,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:17.841Z,begin,g,g,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:18.575Z,begin,i,i,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:18.576Z,begin,i,i,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:18.690Z,begin,n,n,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:18.691Z,begin,n,n,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:18.903Z,small, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:18.904Z,small, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:19.327Z,small,s,s,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:19.328Z,small,s,s,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:19.863Z,small,m,m,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:19.863Z,small,m,m,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:20.008Z,small,a,a,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:20.009Z,small,a,a,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:20.320Z,small,l,l,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:20.320Z,small,l,l,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:20.496Z,small,l,l,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:20.496Z,small,l,l,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:20.646Z,play, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:20.647Z,play, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:21.983Z,play,p,p,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:21.983Z,play,p,p,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:22.288Z,play,l,l,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:22.288Z,play,l,l,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:22.431Z,play,a,a,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:22.431Z,play,a,a,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:22.856Z,play,y,y,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:22.856Z,play,y,y,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:23.032Z,through, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:23.033Z,through, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:23.409Z,through,t,t,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:23.409Z,through,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:23.816Z,through,m,h,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:23.816Z,through,m,h,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:24.534Z,through,h,h,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:24.535Z,through,h,h,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:24.919Z,through,r,r,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:24.919Z,through,r,r,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:25.283Z,through,o,o,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:25.283Z,through,o,o,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:26.119Z,through,u,u,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:26.119Z,through,u,u,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:26.935Z,through,g,g,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:26.936Z,through,g,g,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:27.296Z,through,h,h,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:27.298Z,through,h,h,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:27.570Z,old, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:27.570Z,old, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:28.785Z,old,o,o,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:28.785Z,old,o,o,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:29.152Z,old,l,l,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:29.153Z,old,l,l,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:30.336Z,old,v,d,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:30.336Z,old,v,d,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:30.864Z,old,d,d,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:30.865Z,old,d,d,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:31.067Z,between, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:31.068Z,between, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:32.234Z,between,b,b,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:32.235Z,between,b,b,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:32.495Z,between,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:32.496Z,between,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:33.712Z,between,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:33.713Z,between,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:34.711Z,between,w,w,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:34.711Z,between,w,w,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:35.056Z,between,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:35.056Z,between,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:35.233Z,between,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:35.233Z,between,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:35.424Z,between,n,n,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:35.425Z,between,n,n,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:35.560Z,if, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:35.560Z,if, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:36.089Z,if,i,i,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:36.090Z,if,i,i,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:36.609Z,if,f,f,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:36.609Z,if,f,f,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:36.793Z,need, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:36.794Z,need, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:37.457Z,need,n,n,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:37.458Z,need,n,n,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:37.632Z,need,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:37.633Z,need,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:37.792Z,need,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:37.793Z,need,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:38.658Z,need,d,d,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:38.658Z,need,d,d,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:38.809Z,another, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:38.810Z,another, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:39.384Z,another,a,a,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:39.385Z,another,a,a,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:39.610Z,another,n,n,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:39.610Z,another,n,n,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:40.001Z,another,i,o,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:40.002Z,another,i,o,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:41.192Z,another,o,o,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:41.192Z,another,o,o,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:42.080Z,another,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:42.080Z,another,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:42.425Z,another,h,h,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:42.425Z,another,h,h,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:42.695Z,another,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:42.696Z,another,e,e,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:43.367Z,another,r,r,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:43.368Z,another,r,r,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:43.520Z,system, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:43.520Z,system, , ,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:43.704Z,system,s,s,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:43.704Z,system,s,s,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:44.400Z,system,y,y,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:44.400Z,system,y,y,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:44.735Z,system,s,s,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:44.735Z,system,s,s,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:45.282Z,system,t,t,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:45.282Z,system,t,t,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:45.513Z,system,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:45.514Z,system,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:48.066Z,system,m,m,monkeytype,semicolemak,words,10,english,null
-2022-12-04T21:31:48.066Z,system,m,m,monkeytype,semicolemak,words,10,english,null
+
+keypress end
+
 2022-12-04T21:33:14.021Z,when,p,p,monkeytype,semicolemak,words,10,python,null
 2022-12-04T21:33:14.659Z,when,y,y,monkeytype,semicolemak,words,10,python,null
 2022-12-04T21:33:25.636Z,iter,i,i,monkeytype,semicolemak,words,10,python,null
