@@ -1653,9 +1653,6 @@ timestamp,activeWord,lastChar,correctChar,source,layout,testType,testLength,test
 2022-12-04T10:47:24.844Z,the,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T10:47:25.531Z,the,h,h,monkeytype,semicolemak,words,10,english,null
 2022-12-04T10:47:25.648Z,the,e,e,monkeytype,semicolemak,words,10,english,null
-
-keypress start
-
 2022-12-04T21:30:16.561Z,write,w,w,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:16.772Z,write,r,r,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:30:16.894Z,write,i,i,monkeytype,semicolemak,words,10,english,null
@@ -1772,9 +1769,6 @@ keypress start
 2022-12-04T21:31:45.282Z,system,t,t,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:45.514Z,system,e,e,monkeytype,semicolemak,words,10,english,null
 2022-12-04T21:31:48.066Z,system,m,m,monkeytype,semicolemak,words,10,english,null
-
-keypress end
-
 2022-12-04T21:33:14.021Z,when,p,p,monkeytype,semicolemak,words,10,python,null
 2022-12-04T21:33:14.659Z,when,y,y,monkeytype,semicolemak,words,10,python,null
 2022-12-04T21:33:25.636Z,iter,i,i,monkeytype,semicolemak,words,10,python,null
