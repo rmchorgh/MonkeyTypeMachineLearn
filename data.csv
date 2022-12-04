@@ -1202,9 +1202,6 @@ timestamp,activeWord,lastChar,correctChar,source,layout,testType,testLength,test
 2022-12-04T10:38:09.018Z,set,w,s,monkeytype,semicolemak,words,10,english,null
 2022-12-04T10:38:09.593Z,under, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T10:38:09.961Z,under,e,u,monkeytype,semicolemak,words,10,english,null
-
-wikipedia
-
 2022-12-04T10:39:22.861Z,The,t,t,monkeytype,semicolemak,words,10,english,wikipedia
 2022-12-04T10:39:23.348Z,The,h,h,monkeytype,semicolemak,words,10,english,wikipedia
 2022-12-04T10:39:23.553Z,The,e,e,monkeytype,semicolemak,words,10,english,wikipedia
@@ -1280,9 +1277,6 @@ wikipedia
 2022-12-04T10:40:29.381Z,form,t,r,monkeytype,semicolemak,words,10,english,wikipedia
 2022-12-04T10:40:30.445Z,form,r,r,monkeytype,semicolemak,words,10,english,wikipedia
 2022-12-04T10:40:31.111Z,form,m,m,monkeytype,semicolemak,words,10,english,wikipedia
-
-wikipedia
-
 2022-12-04T10:40:31.311Z,so, , ,monkeytype,semicolemak,words,10,english,null
 2022-12-04T10:40:31.990Z,so,s,s,monkeytype,semicolemak,words,10,english,null
 2022-12-04T10:40:32.093Z,so,o,o,monkeytype,semicolemak,words,10,english,null
