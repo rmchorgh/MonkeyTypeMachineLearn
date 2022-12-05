@@ -1,12 +1,25 @@
-var monkeyTypeAll = ({
-	layout,
-	testType,
-	testLength,
-	testLanguage,
-	wildcards
-}) => {
+var monkeyTypeAll = () => {
 	document.addEventListener('keyup', async ({ key }) => {
 		if (key.length > 1) return;
+		var options = document
+			.getElementById('testModesNotice')
+			.querySelectorAll('[commands]');
+
+		var layout = Array.from(options).filter(
+			(e) => e.getAttribute('commands') == 'tags'
+		)[0].innerText;
+
+		var language = Array.from(options).filter(
+			(e) => e.getAttribute('commands') == 'languages'
+		)[0].innerText;
+
+		var funbox = null;
+		var funboxElements = Array.from(options).filter(
+			(e) => e.getAttribute('commands') == 'funbox'
+		);
+		if (funboxElements.length > 0) {
+			funbox = funboxElements[0].innerText;
+		}
 
 		var activeElement = document.getElementsByClassName('word active')[0];
 		var activeWord = Array.from(activeElement.children).reduce((acc, l) => {
@@ -18,58 +31,37 @@ var monkeyTypeAll = ({
 
 		var timestamp = new Date();
 
-		var lastIncorrect = activeElement.getElementsByClassName('incorrect');
-		if (lastIncorrect.length > 0) {
-			lastIncorrect = lastIncorrect[lastIncorrect.length - 1];
+		var body = {
+			timestamp,
+			activeWord,
+			lastChar: key,
+			source: 'monkeytype',
+			layout,
+			type: document.querySelector('div.mode > [mode].active').innerText,
+			length: document.querySelector('div.wordCount > [wordcount].active')
+				.innerText,
+			language,
+			funbox
+		};
+
+		// last incorrect element
+		var lie = activeElement.getElementsByClassName('incorrect');
+		if (lie.length > 0) {
 			console.log('incorrect');
-			await fetch('http://localhost:8000', {
-				method: 'post',
-				body: JSON.stringify({
-					timestamp,
-					activeWord,
-					lastChar: key,
-					correctChar: lastIncorrect.innerHTML[0],
-					source: 'monkeytype',
-					layout,
-					testType,
-					testLength,
-					testLanguage,
-					wildcards
-				})
-			});
+			lie = lie[lie.length - 1];
+			body.correctChar = lie.innerHTML[0];
 		} else {
 			console.log('correct');
-			await fetch('http://localhost:8000', {
-				method: 'post',
-				body: JSON.stringify({
-					timestamp,
-					activeWord,
-					lastChar: key,
-					correctChar: key,
-					source: 'monkeytype',
-					layout,
-					testType,
-					testLength,
-					testLanguage,
-					wildcards
-				})
-			});
+			body.correctChar = key;
 		}
+
+		console.log(body);
+
+		await fetch('http://localhost:8000', {
+			method: 'post',
+			body: JSON.stringify(body)
+		});
 	});
 };
 
-// monkeyTypeAll({
-// 	layout: 'qwerty',
-// 	testType: 'words',
-// 	testLength: 10,
-// 	testLanguage: 'english',
-// 	wildcards: null
-// });
-
-monkeyTypeAll({
-	layout: 'semicolemak',
-	testType: 'words',
-	testLength: 10,
-	testLanguage: 'english',
-	wildcards: null
-});
+monkeyTypeAll();

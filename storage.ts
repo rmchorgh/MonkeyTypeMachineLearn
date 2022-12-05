@@ -11,10 +11,10 @@ const handler = async (req: Request): Promise<Response> => {
 				correctChar,
 				source,
 				layout,
-				testType,
-				testLength,
-				testLanguage,
-				wildcards
+				type,
+				length,
+				language,
+				funbox
 			}) => {
 				let row = `${timestamp},`;
 
@@ -28,7 +28,7 @@ const handler = async (req: Request): Promise<Response> => {
 					? `"${correctChar}",`
 					: `${correctChar},`;
 
-				row += `${source},${layout},${testType},${testLength},${testLanguage},${wildcards}\n`;
+				row += `${source},${layout},${type},${length},${language},${funbox}\n`;
 				await Deno.writeTextFile('data.csv', row, {
 					append: true
 				});
