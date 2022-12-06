@@ -11990,3 +11990,1286 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-06T06:56:53.189Z,each,a,a,monkeytype,semicolemakdh,words,25,english,null
 2022-12-06T06:56:53.654Z,each,c,c,monkeytype,semicolemakdh,words,25,english,null
 2022-12-06T06:56:54.129Z,each,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:45:58.213Z,one,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:45:58.363Z,one,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:45:58.579Z,one,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:45:58.812Z,fact, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:45:59.332Z,fact,d,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:45:59.380Z,fact,r,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:45:59.532Z,fact,a,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:01.120Z,fact,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:01.409Z,fact,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:01.856Z,fact,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:02.211Z,fact,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:02.368Z,for, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:03.175Z,for,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:03.362Z,for,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:03.816Z,for,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:03.994Z,over, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:04.321Z,over,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:04.498Z,over,v,v,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:05.121Z,over,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:05.379Z,over,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:05.610Z,consider, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:06.056Z,consider,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:06.338Z,consider,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:06.482Z,consider,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:06.584Z,consider,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:06.828Z,consider,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:07.505Z,consider,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:07.698Z,consider,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:07.881Z,consider,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:08.131Z,open, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:08.537Z,open,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:08.874Z,open,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:09.129Z,open,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:09.304Z,open,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:09.483Z,state, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:09.617Z,state,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:09.873Z,state,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:10.035Z,state,s,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:10.148Z,state,a,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:10.948Z,state,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:11.081Z,state,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:11.401Z,state,r,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:11.667Z,set, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:12.593Z,set,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:12.829Z,set,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:12.915Z,set,e,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:13.083Z,before,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:13.223Z,before, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:14.916Z,before,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:15.048Z,before,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:15.465Z,before,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:15.752Z,before,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:16.364Z,before,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:16.537Z,before,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:16.768Z,make, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:17.098Z,make,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:17.210Z,make,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:17.673Z,make,h,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:18.548Z,make,k,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:18.776Z,make,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:18.938Z,many, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:19.369Z,many,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:19.547Z,many,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:20.290Z,many,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:20.411Z,many,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:20.873Z,order, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:21.119Z,order,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:21.833Z,order,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:22.306Z,order,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:22.731Z,order,r,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:23.673Z,order,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:23.732Z,order,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:23.921Z,set, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:24.122Z,set,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:24.649Z,set,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:24.921Z,face,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:25.041Z,face, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:25.817Z,face,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:26.017Z,face,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:26.481Z,face,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:26.875Z,face,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:27.089Z,without, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:27.384Z,without,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:27.673Z,without,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:28.184Z,without,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:28.617Z,without,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:28.811Z,without,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:29.065Z,without,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:29.245Z,without,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:29.427Z,she, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:29.596Z,she,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:29.864Z,she,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:30.015Z,she,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:30.273Z,such, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:30.532Z,such,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:30.864Z,such,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:31.257Z,such,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:31.584Z,such,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:31.749Z,so, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:31.897Z,so,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:32.058Z,line,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:32.129Z,line, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:32.441Z,line,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:32.681Z,line,e,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:32.698Z,line,i,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:32.898Z,line,n,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:33.015Z,linee,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:34.088Z,line,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:34.149Z,linee,n,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:34.168Z,linee,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:34.267Z,lineee,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:36.413Z,line, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:36.905Z,about, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:37.194Z,about,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:37.665Z,about,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:37.882Z,about,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:37.953Z,about,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:38.505Z,do,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:38.624Z,do, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:38.952Z,do,r,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:39.601Z,do,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:39.833Z,do,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:39.997Z,life, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:40.366Z,life,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:40.562Z,life,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:41.024Z,life,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:41.165Z,change, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:42.353Z,change,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:42.850Z,change,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:42.983Z,change,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:43.922Z,change,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:44.801Z,change,g,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:44.905Z,must,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:45.073Z,must, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:45.862Z,must,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:46.122Z,must,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:46.212Z,must,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:46.753Z,just,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:46.798Z,just, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:47.595Z,just,j,j,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:48.315Z,just,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:48.396Z,just,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:46:48.734Z,just,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:41.686Z,will,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:41.831Z,will,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:42.062Z,will,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:42.234Z,will,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:42.431Z,consider, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:42.698Z,consider,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:42.899Z,consider,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:43.037Z,consider,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:43.556Z,consider,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:43.782Z,consider,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:44.447Z,consider,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:44.833Z,consider,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:44.965Z,consider,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:45.148Z,first, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:45.831Z,first,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:46.030Z,first,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:46.831Z,first,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:47.018Z,first,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:47.277Z,first,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:47.458Z,more, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:47.831Z,more,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:47.922Z,more,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:48.582Z,more,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:48.685Z,more,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:48.921Z,use, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:49.179Z,use,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:49.306Z,use,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:49.715Z,use,r,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:50.539Z,use,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:50.660Z,there, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:51.353Z,there,f,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:51.830Z,there,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:52.159Z,there,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:52.264Z,there,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:52.474Z,there,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:52.646Z,there,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:52.922Z,thing, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:53.316Z,thing,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:53.449Z,thing,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:53.906Z,thing,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:54.082Z,thing,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:54.403Z,thing,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:54.506Z,much, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:54.955Z,much,u,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:55.970Z,much,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:56.130Z,much,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:56.514Z,much,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:56.916Z,much,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:57.106Z,so, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:57.356Z,so,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:57.472Z,up,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:57.618Z,up, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:58.316Z,up,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:58.782Z,up,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:58.986Z,turn, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:47:59.603Z,turn,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:00.274Z,turn,e,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:01.197Z,turn,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:01.363Z,turn,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:01.839Z,turn,h,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:02.524Z,turn,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:02.735Z,late, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:03.055Z,late,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:03.220Z,late,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:03.356Z,late,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:03.597Z,late,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:03.770Z,only, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:04.142Z,only,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:05.003Z,only,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:05.338Z,only,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:05.566Z,only,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:05.748Z,work, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:05.954Z,work,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:06.550Z,work,i,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:07.467Z,work,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:08.013Z,work,c,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:10.059Z,work,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:10.435Z,work,k,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:10.699Z,set, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:10.803Z,set,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:10.994Z,set,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:11.260Z,all,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:11.356Z,all, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:11.725Z,all,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:11.900Z,all,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:12.075Z,all,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:12.214Z,want, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:12.386Z,want,a,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:13.019Z,want,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:13.133Z,want,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:13.538Z,want,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:13.738Z,into,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:13.835Z,into, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:14.164Z,into,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:14.323Z,into,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:14.850Z,into,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:14.950Z,into,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:15.124Z,year, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:15.652Z,year,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:15.967Z,year,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:16.221Z,year,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:16.535Z,must,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:16.652Z,must, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:17.002Z,must,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:17.138Z,must,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:17.332Z,must,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:17.602Z,will,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:17.722Z,will, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:18.508Z,will,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:18.859Z,will,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:19.076Z,will,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:19.306Z,will,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:19.569Z,leave, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:19.918Z,leave,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:20.251Z,leave,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:20.484Z,leave,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:20.932Z,leave,v,v,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:21.148Z,leave,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:21.306Z,hold, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:21.770Z,hold,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:21.814Z,hold,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:22.301Z,hold,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:22.540Z,hold,r,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:23.018Z,hold,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:23.275Z,consider, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:23.697Z,consider,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:23.885Z,consider,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:24.196Z,consider,s,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:25.005Z,consider,h,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:25.091Z,consider,s,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:25.964Z,consider,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:26.051Z,consider,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:26.386Z,consider,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:26.951Z,consider,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:27.138Z,consider,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:27.397Z,consider,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:27.554Z,also, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:27.706Z,also,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:28.004Z,also,l,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:28.042Z,also,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:28.140Z,also,s,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:28.884Z,also,s,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:29.013Z,alsoo,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:29.901Z,also,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:30.106Z,also,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:53.574Z,more,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:53.653Z,more,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:53.755Z,more,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:53.950Z,more,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:54.140Z,work, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:55.020Z,work,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:55.251Z,work,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:55.939Z,work,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:56.307Z,work,k,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:56.583Z,if, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:56.748Z,if,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:56.860Z,if,t,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:57.403Z,if,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:57.675Z,we, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:57.840Z,we,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:58.123Z,we,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:58.339Z,first, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:58.934Z,first,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:59.303Z,first,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:48:59.852Z,first,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:00.004Z,first,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:00.319Z,first,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:00.507Z,use, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:00.879Z,use,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:00.997Z,use,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:01.291Z,use,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:01.486Z,up, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:01.859Z,up,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:02.388Z,up,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:02.559Z,and, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:02.660Z,and,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:02.971Z,and,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:03.349Z,and,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:03.539Z,nation, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:03.933Z,nation,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:04.082Z,nation,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:04.853Z,nation,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:05.044Z,nation,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:05.203Z,nation,e,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:05.435Z,nation,n,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:05.788Z,nation,0,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:06.860Z,nation,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:06.979Z,nation,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:07.136Z,down, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:07.684Z,down,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:08.205Z,down,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:08.313Z,down,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:08.619Z,down,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:08.937Z,never, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:09.287Z,never,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:09.543Z,never,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:10.523Z,never,v,v,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:10.674Z,never,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:10.951Z,never,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:11.141Z,large, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:11.452Z,large,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:11.613Z,large,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:12.108Z,large,e,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:13.101Z,large,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:13.336Z,large,v,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:13.508Z,large,e,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:14.582Z,large,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:14.689Z,large,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:14.955Z,do, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:16.296Z,do,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:16.493Z,do,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:16.736Z,the, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:17.627Z,the,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:17.708Z,the,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:17.843Z,the,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:18.469Z,but, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:19.291Z,but,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:19.820Z,but,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:20.069Z,own,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:20.187Z,own, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:20.566Z,own,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:20.767Z,own,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:21.091Z,own,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:21.268Z,if, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:21.734Z,if,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:22.252Z,if,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:22.421Z,place, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:22.916Z,place,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:24.235Z,place,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:24.554Z,place,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:25.084Z,place,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:25.236Z,place,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:25.524Z,large, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:25.804Z,large,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:25.939Z,large,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:26.550Z,large,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:26.835Z,large,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:26.987Z,large,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:27.187Z,end, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:27.582Z,end,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:27.682Z,end,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:28.051Z,end,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:28.243Z,public, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:28.814Z,public,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:29.032Z,public,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:29.708Z,public,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:29.903Z,public,i,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:30.553Z,public,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:30.765Z,public,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:31.119Z,public,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:31.292Z,come, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:31.723Z,come,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:31.860Z,come,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:32.172Z,come,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:32.367Z,come,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:32.542Z,open, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:32.907Z,open,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:33.419Z,open,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:33.598Z,open,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:33.756Z,open,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:33.947Z,on, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:34.139Z,on,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:34.357Z,on,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:34.520Z,during, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:35.003Z,during,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:35.183Z,during,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:35.750Z,during,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:36.021Z,during,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:36.215Z,during,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:36.639Z,during,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:59.491Z,point,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:59.724Z,point,u,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:49:59.752Z,point,o,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:00.340Z,point,0,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:01.350Z,point,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:01.456Z,point,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:01.800Z,that,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:01.935Z,that, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:02.150Z,that,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:02.384Z,that,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:02.520Z,that,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:02.832Z,that,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:03.016Z,come, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:03.436Z,come,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:03.615Z,come,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:03.833Z,come,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:04.045Z,come,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:04.220Z,new, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:04.622Z,new,n,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:04.789Z,new,o,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:04.983Z,new,w,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:05.768Z,new,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:05.848Z,new,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:06.055Z,real, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:06.509Z,real,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:06.756Z,real,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:06.876Z,real,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:07.271Z,realj,j,j,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:07.325Z,realj,l,j,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:08.123Z,again, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:08.421Z,again,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:08.893Z,again,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:09.004Z,again,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:09.220Z,again,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:09.772Z,again,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:09.950Z,off, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:10.804Z,off,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:11.237Z,off,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:11.432Z,off,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:11.587Z,tell, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:11.921Z,tell,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:12.199Z,tell,f,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:13.054Z,tell,i,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:13.070Z,tell,e,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:14.014Z,tell,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:14.190Z,tell,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:14.421Z,can, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:14.952Z,can,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:15.140Z,can,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:15.422Z,can,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:15.556Z,turn, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:16.182Z,turn,r,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:16.350Z,turn,u,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:17.085Z,turn,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:17.236Z,turn,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:17.572Z,turn,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:17.919Z,turn,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:18.120Z,before, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:18.671Z,before,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:18.860Z,before,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:19.292Z,before,d,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:20.444Z,before,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:20.637Z,before,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:20.988Z,before,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:21.204Z,before,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:21.476Z,show, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:21.692Z,show,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:21.909Z,show,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:22.183Z,show,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:22.366Z,show,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:22.557Z,out, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:22.788Z,out,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:23.261Z,out,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:23.645Z,out,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:23.742Z,feel, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:24.092Z,feel,r,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:24.724Z,feel,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:24.972Z,feel,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:25.173Z,feel,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:25.373Z,feel,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:25.510Z,very, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:26.368Z,very,w,v,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:26.909Z,very,v,v,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:27.109Z,very,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:27.420Z,very,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:27.868Z,very,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:28.028Z,for, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:28.653Z,for,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:29.302Z,for,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:29.416Z,for,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:29.617Z,day, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:30.487Z,day,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:30.719Z,day,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:30.999Z,day,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:31.160Z,say, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:31.324Z,say,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:31.815Z,say,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:32.036Z,govern,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:32.156Z,govern, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:32.661Z,govern,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:32.853Z,govern,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:33.086Z,govern,v,v,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:33.324Z,govern,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:33.518Z,govern,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:33.718Z,govern,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:33.972Z,set, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:34.168Z,set,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:34.424Z,set,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:34.789Z,when,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:34.908Z,when, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:35.220Z,when,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:35.669Z,when,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:35.886Z,when,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:36.020Z,when,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:36.199Z,be, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:36.693Z,be,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:36.849Z,be,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:37.061Z,that, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:37.400Z,that,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:37.703Z,that,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:37.740Z,that,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:37.877Z,that,e,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:38.486Z,that,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:38.687Z,fact, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:39.352Z,fact,p,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:39.941Z,fact,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:40.152Z,fact,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:40.444Z,fact,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:40.756Z,fact,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:40.953Z,call, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:41.664Z,call,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:41.857Z,call,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:42.087Z,call,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:50:42.232Z,call,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:24.594Z,when,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:24.678Z,when,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:24.984Z,when,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:25.044Z,when,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:25.223Z,run, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:25.823Z,run,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:25.971Z,run,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:26.182Z,run,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:26.360Z,late, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:26.633Z,late,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:26.781Z,late,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:26.992Z,late,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:27.254Z,late,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:27.435Z,come, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:27.852Z,come,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:28.077Z,come,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:28.527Z,come,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:28.780Z,come,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:29.094Z,form, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:29.478Z,form,r,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:29.580Z,form,o,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:30.295Z,form,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:30.440Z,form,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:30.629Z,form,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:31.127Z,form,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:31.286Z,nation, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:31.526Z,nation,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:31.624Z,nation,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:32.527Z,nation,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:32.943Z,nation,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:33.117Z,nation,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:33.317Z,nation,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:33.492Z,about, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:33.852Z,about,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:34.233Z,about,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:34.389Z,about,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:34.526Z,about,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:34.815Z,about,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:34.935Z,open, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:35.142Z,open,a,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:36.134Z,open,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:36.225Z,open,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:36.544Z,open,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:36.685Z,open,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:36.837Z,here, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:37.381Z,here,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:37.597Z,here,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:37.928Z,here,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:38.029Z,here,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:38.302Z,not, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:38.869Z,not,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:38.989Z,not,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:39.527Z,not,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:39.654Z,with, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:40.209Z,with,s,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:40.869Z,with,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:41.212Z,with,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:41.543Z,with,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:41.780Z,with,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:42.057Z,against, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:42.264Z,against,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:42.791Z,against,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:42.950Z,against,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:43.190Z,against,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:43.422Z,against,e,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:43.613Z,against,n,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:44.612Z,against,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:44.996Z,against,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:45.333Z,against,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:45.519Z,think, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:45.918Z,think,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:46.101Z,think,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:46.333Z,think,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:46.670Z,think,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:47.241Z,think,k,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:47.376Z,she, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:47.579Z,she,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:48.192Z,she,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:48.407Z,she,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:48.564Z,there, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:49.150Z,there,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:49.625Z,there,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:50.261Z,there,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:50.729Z,there,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:50.813Z,there,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:51.045Z,old, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:51.476Z,old,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:52.041Z,old,p,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:52.749Z,old,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:53.580Z,old,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:53.781Z,seem, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:53.932Z,seem,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:54.103Z,seem,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:54.318Z,seem,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:54.647Z,seem,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:54.798Z,through, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:55.149Z,through,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:55.349Z,through,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:55.733Z,through,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:56.136Z,through,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:56.312Z,through,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:56.809Z,through,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:57.164Z,through,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:57.317Z,feel, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:58.197Z,feel,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:58.613Z,feel,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:59.045Z,feel,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:59.254Z,feel,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:58:59.781Z,can, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:00.246Z,can,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:00.977Z,can,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:01.134Z,can,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:01.329Z,with, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:01.680Z,with,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:01.935Z,with,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:02.761Z,with,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:03.008Z,with,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:03.167Z,not, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:03.579Z,not,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:03.669Z,not,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:03.965Z,many,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:04.062Z,many, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:04.862Z,many,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:04.919Z,many,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:06.102Z,many,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:06.296Z,many,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:06.565Z,long, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:06.861Z,long,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:07.118Z,long,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:07.431Z,long,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:07.560Z,long,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:07.933Z,begin, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:08.895Z,begin,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:09.095Z,begin,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:09.378Z,begin,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:09.614Z,begin,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T14:59:10.208Z,begin,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:07.288Z,same,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:07.366Z,same,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:07.582Z,same,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:07.822Z,same,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:07.975Z,around, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:08.345Z,around,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:08.642Z,around,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:08.843Z,around,i,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:09.777Z,around,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:10.399Z,around,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:10.886Z,around,g,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:11.551Z,around,r,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:12.198Z,around,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:12.487Z,around,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:12.609Z,child, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:13.665Z,child,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:14.095Z,child,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:14.624Z,child,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:15.383Z,child,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:15.930Z,child,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:16.070Z,large, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:16.438Z,large,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:16.654Z,large,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:16.929Z,large,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:17.534Z,large,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:17.649Z,large,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:18.009Z,late, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:18.297Z,late,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:18.470Z,late,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:18.747Z,late,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:19.038Z,late,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:19.470Z,order, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:19.782Z,order,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:20.193Z,order,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:20.625Z,order,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:20.798Z,order,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:21.047Z,order,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:21.247Z,eye, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:22.047Z,eye,l,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:22.967Z,eye,e,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:23.670Z,eye,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:23.846Z,eye,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:23.961Z,eye,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:24.215Z,good, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:24.688Z,good,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:24.783Z,good,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:24.958Z,good,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:25.312Z,good,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:25.531Z,state, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:25.735Z,state,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:25.934Z,state,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:26.054Z,state,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:26.209Z,state,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:26.408Z,high,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:26.560Z,high, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:26.895Z,high,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:27.071Z,high,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:27.673Z,high,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:27.910Z,high,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:28.047Z,another, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:28.199Z,another,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:28.655Z,another,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:28.830Z,another,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:29.122Z,another,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:29.414Z,another,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:29.631Z,another,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:29.863Z,just, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:31.859Z,just,l,j,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:32.678Z,just,j,j,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:33.030Z,just,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:33.166Z,just,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:33.383Z,just,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:33.534Z,school, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:33.855Z,school,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:34.182Z,school,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:34.927Z,school,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:35.047Z,school,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:35.227Z,school,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:35.441Z,school,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:35.633Z,before, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:36.264Z,before,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:36.489Z,before,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:36.902Z,before,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:37.179Z,before,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:37.548Z,before,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:37.663Z,before,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:37.963Z,over, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:38.409Z,over,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:38.599Z,over,v,v,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:38.814Z,over,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:39.009Z,over,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:39.191Z,ask, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:39.478Z,ask,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:39.631Z,ask,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:40.183Z,ask,k,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:40.382Z,you, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:40.912Z,you,l,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:41.120Z,you,o,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:41.929Z,you,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:42.240Z,you,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:42.255Z,you,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:42.487Z,late, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:42.982Z,late,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:43.161Z,late,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:43.447Z,late,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:43.664Z,late,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:43.808Z,much, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:44.096Z,much,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:44.370Z,much,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:44.761Z,much,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:45.194Z,use,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:45.328Z,use, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:45.594Z,use,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:45.724Z,use,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:46.346Z,use,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:46.496Z,head, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:46.780Z,head,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:46.887Z,head,a,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:47.671Z,head,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:47.856Z,head,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:48.415Z,head,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:48.515Z,make, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:48.837Z,make,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:48.945Z,make,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:49.042Z,make,e,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:50.025Z,make,e,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:50.680Z,make,k,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:50.839Z,make,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:51.014Z,possible, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:51.426Z,possible,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:51.664Z,possible,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:51.796Z,possible,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:51.991Z,possible,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:52.167Z,possible,u,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:53.009Z,possible,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:53.631Z,possible,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:53.750Z,possible,e,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:54.567Z,possible,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:54.783Z,those,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:54.902Z,those, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:55.472Z,those,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:55.569Z,those,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:56.038Z,those,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:56.113Z,those,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:56.368Z,those,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:56.583Z,call, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:57.193Z,call,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:57.410Z,call,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:57.626Z,call,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:00:57.762Z,call,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:11.482Z,nation,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:11.536Z,nation,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:12.065Z,nation,i,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:12.664Z,nation,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:12.928Z,nation,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:13.120Z,nation,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:13.535Z,nation,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:13.965Z,head, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:14.473Z,head,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:14.681Z,head,a,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:15.447Z,head,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:15.562Z,head,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:15.914Z,head,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:16.076Z,mean, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:16.368Z,mean,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:16.484Z,mean,a,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:17.399Z,mean,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:17.513Z,mean,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:17.793Z,mean,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:18.032Z,you, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:18.831Z,you,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:19.103Z,you,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:19.169Z,you,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:19.381Z,program, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:20.396Z,program,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:20.799Z,program,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:21.080Z,program,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:21.426Z,program,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:21.762Z,program,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:21.881Z,program,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:22.144Z,program,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:22.332Z,if, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:22.504Z,if,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:22.638Z,if,t,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:23.200Z,if,c,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:23.713Z,if,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:23.995Z,first, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:24.183Z,first,r,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:24.747Z,first,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:25.087Z,first,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:26.219Z,first,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:26.504Z,first,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:26.643Z,first,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:26.808Z,might, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:27.215Z,might,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:27.432Z,might,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:28.249Z,might,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:28.647Z,might,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:28.992Z,might,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:29.129Z,each, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:29.665Z,each,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:29.946Z,each,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:30.377Z,each,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:30.968Z,each,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:31.137Z,both, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:31.696Z,both,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:31.816Z,both,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:32.480Z,both,h,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:32.978Z,both,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:33.199Z,both,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:33.552Z,under, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:33.767Z,under,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:34.146Z,under,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:34.615Z,under,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:34.810Z,under,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:34.977Z,under,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:35.165Z,turn, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:35.584Z,turn,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:35.799Z,turn,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:36.455Z,turn,t,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:37.426Z,turn,e,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:38.120Z,turn,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:38.384Z,turn,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:38.601Z,hand, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:38.936Z,hand,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:39.055Z,hand,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:39.584Z,hand,r,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:40.032Z,hand,d,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:41.079Z,hand,e,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:42.043Z,hand,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:42.984Z,hand,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:43.136Z,who, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:44.015Z,who,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:44.551Z,who,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:44.644Z,who,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:44.846Z,those, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:45.168Z,those,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:45.266Z,those,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:45.753Z,those,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:45.831Z,those,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:46.047Z,those,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:46.249Z,up, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:47.418Z,up,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:47.832Z,up,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:48.000Z,own, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:48.216Z,own,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:48.416Z,own,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:48.850Z,own,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:49.027Z,possible, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:49.381Z,possible,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:49.529Z,possible,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:49.715Z,possible,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:49.881Z,possible,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:50.488Z,possible,o,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:51.247Z,possible,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:51.429Z,possible,l,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:52.288Z,possible,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:52.817Z,possible,i,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:53.731Z,possible,e,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:53.951Z,possible,f,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:54.104Z,much, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:57.060Z,much,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:57.253Z,much,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:58.443Z,much,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:58.753Z,much,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:58.887Z,now, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:01:59.932Z,now,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:00.081Z,now,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:00.320Z,now,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:00.456Z,open, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:01.103Z,open,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:01.450Z,open,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:01.785Z,open,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:01.919Z,open,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:02.081Z,like, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:02.381Z,like,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:02.610Z,like,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:02.802Z,like,e,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:03.463Z,like,c,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:04.266Z,like,k,k,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:04.444Z,like,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:04.639Z,with, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:04.994Z,with,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:05.385Z,with,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:06.087Z,with,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:06.186Z,with,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:06.402Z,after, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:06.704Z,after,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:07.514Z,after,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:07.801Z,after,e,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:08.289Z,after,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:08.448Z,after,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:08.611Z,after,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:08.827Z,should, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:09.211Z,should,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:09.563Z,should,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:09.738Z,should,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:10.210Z,should,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:10.632Z,should,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:11.410Z,should,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:15.801Z,again,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:15.963Z,again,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:16.225Z,again,i,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:16.384Z,again,n,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:17.032Z,again,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:17.248Z,again,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:17.362Z,again,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:17.537Z,feel, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:17.893Z,feel,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:18.147Z,feel,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:18.320Z,feel,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:18.734Z,use, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:18.906Z,use,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:19.531Z,use,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:19.880Z,use,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:20.082Z,under, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:20.353Z,under,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:21.332Z,under,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:21.763Z,under,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:21.953Z,under,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:22.364Z,under,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:22.483Z,change, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:23.168Z,change,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:23.731Z,change,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:23.812Z,change,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:24.120Z,change,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:24.768Z,change,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:24.881Z,change,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:25.057Z,and, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:25.221Z,and,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:25.489Z,and,h,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:25.613Z,and,r,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:26.353Z,and,r,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:26.899Z,and,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:27.114Z,and,h,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:28.073Z,and,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:28.230Z,increase, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:28.617Z,increase,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:29.536Z,increase,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:30.065Z,increase,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:30.687Z,increase,e,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:30.969Z,increase,r,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:31.648Z,increase,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:31.844Z,increase,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:32.122Z,increase,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:32.727Z,increase,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:32.818Z,increase,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:33.116Z,however, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:33.497Z,however,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:33.850Z,however,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:34.057Z,however,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:34.617Z,however,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:34.889Z,however,v,v,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:35.011Z,however,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:35.196Z,however,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:35.362Z,feel, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:35.798Z,feel,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:36.066Z,feel,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:36.218Z,feel,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:36.513Z,feel,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:36.670Z,these, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:37.104Z,these,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:37.504Z,these,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:37.629Z,these,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:37.925Z,these,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:38.043Z,these,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:38.137Z,theses,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:38.330Z,fact, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:39.234Z,fact,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:39.586Z,fact,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:40.314Z,fact,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:40.633Z,under,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:40.754Z,under, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:41.537Z,under,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:41.768Z,under,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:42.412Z,under,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:42.610Z,under,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:42.797Z,under,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:43.001Z,because, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:43.610Z,because,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:43.845Z,because,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:44.570Z,because,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:44.845Z,because,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:45.174Z,because,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:45.234Z,because,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:45.504Z,because,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:45.699Z,well, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:46.115Z,well,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:46.481Z,well,u,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:46.682Z,well,l,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:46.860Z,well,l,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:47.931Z,well,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:48.282Z,well,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:48.458Z,well,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:48.611Z,the, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:48.881Z,the,t,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:48.965Z,the,n,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:50.156Z,the,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:50.259Z,the,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:50.490Z,hand, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:51.330Z,hand,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:51.465Z,hand,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:52.346Z,hand,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:52.780Z,hand,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:52.931Z,during, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:53.661Z,during,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:53.866Z,during,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:54.714Z,during,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:54.948Z,during,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:55.138Z,during,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:55.706Z,possible,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:55.802Z,possible, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:56.435Z,possible,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:56.753Z,possible,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:56.846Z,possible,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:57.048Z,possible,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:57.413Z,possible,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:58.154Z,possible,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:58.682Z,possible,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:58.888Z,possible,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:59.033Z,between, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:59.737Z,between,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:02:59.946Z,between,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:00.769Z,between,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:00.985Z,between,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:01.514Z,between,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:01.689Z,between,n,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:01.883Z,open, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:03.382Z,open,p,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:04.431Z,open,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:05.365Z,open,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:05.753Z,open,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:05.874Z,open,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:06.026Z,public, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:06.402Z,public,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:06.833Z,public,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:07.716Z,public,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:08.098Z,public,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:08.748Z,public,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:08.949Z,public,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:09.317Z,end, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:09.629Z,end,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:09.779Z,end,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:10.099Z,end,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:10.228Z,may, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:10.622Z,may,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:10.704Z,may,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:11.105Z,may,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:11.283Z,little, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:11.618Z,little,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:11.813Z,little,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:12.049Z,little,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:12.248Z,little,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:12.537Z,little,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:12.811Z,develop,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:12.906Z,develop, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:13.066Z,develop,r,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:13.796Z,develop,v,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:14.165Z,develop,e,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:14.812Z,develop,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:15.033Z,develop,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:15.548Z,develop,v,v,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:15.642Z,develop,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:16.468Z,develop,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:16.641Z,develop,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:17.249Z,develop,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:19.538Z,new,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:19.634Z,new,f,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:20.583Z,new,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:20.691Z,new,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:20.829Z,so, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:21.034Z,so,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:21.162Z,so,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:21.277Z,which, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:21.748Z,which,w,w,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:22.116Z,which,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:22.196Z,which,e,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:23.074Z,which,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:23.724Z,which,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:23.801Z,which,e,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:24.459Z,which,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:24.579Z,the, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:24.785Z,the,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:24.834Z,the,n,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:25.459Z,the,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:25.556Z,the,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:25.689Z,more, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:26.027Z,more,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:26.161Z,more,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:27.098Z,more,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:27.218Z,more,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:27.411Z,interest, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:27.748Z,interest,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:27.828Z,interest,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:28.195Z,interest,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:28.369Z,interest,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:29.249Z,interest,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:29.443Z,interest,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:29.874Z,interest,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:30.076Z,interest,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:30.266Z,must, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:30.660Z,must,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:30.798Z,must,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:30.917Z,must,s,s,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:31.243Z,face,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:31.337Z,face, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:31.932Z,face,c,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:32.461Z,face,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:32.705Z,face,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:32.985Z,face,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:33.122Z,face,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:33.397Z,only, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:33.613Z,only,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:34.684Z,only,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:35.291Z,only,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:35.523Z,only,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:35.739Z,around, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:36.136Z,around,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:36.723Z,around,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:37.047Z,around,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:37.146Z,around,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:37.732Z,around,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:38.090Z,around,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:38.217Z,up, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:38.516Z,up,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:39.283Z,up,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:39.489Z,or, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:39.672Z,or,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:40.071Z,or,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:40.198Z,plan, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:40.614Z,plan,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:40.873Z,plan,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:41.044Z,plan,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:41.267Z,plan,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:41.469Z,over, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:41.682Z,over,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:42.154Z,over,v,v,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:42.366Z,over,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:42.737Z,over,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:43.051Z,off, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:43.261Z,off,o,o,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:43.917Z,off,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:44.089Z,off,f,f,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:44.338Z,much, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:44.984Z,much,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:45.299Z,much,u,u,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:45.597Z,much,c,c,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:46.115Z,much,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:46.234Z,then, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:46.569Z,then,t,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:46.641Z,then,n,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:47.484Z,then,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:47.818Z,then,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:47.965Z,then,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:48.130Z,hand, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:49.337Z,hand,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:49.447Z,hand,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:50.677Z,hand,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:51.027Z,hand,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:51.206Z,little, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:51.575Z,little,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:51.938Z,little,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:52.179Z,little,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:52.379Z,little,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:52.764Z,little,i,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:53.506Z,little,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:53.916Z,little,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:54.118Z,begin, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:54.630Z,begin,b,b,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:54.851Z,begin,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:56.619Z,begin,g,g,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:56.907Z,begin,i,i,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:57.100Z,begin,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:57.287Z,many, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:57.597Z,many,m,m,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:57.674Z,many,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:58.139Z,many,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:58.413Z,many,y,y,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:58.667Z,hand, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:59.331Z,hand,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:03:59.491Z,hand,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:00.180Z,hand,r,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:00.715Z,hand,n,n,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:00.954Z,hand,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:01.132Z,lead, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:01.553Z,lead,l,l,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:01.755Z,lead,a,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:02.613Z,lead,e,e,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:02.696Z,lead,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:03.123Z,lead,d,d,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:03.317Z,part, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:03.851Z,part,p,p,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:04.099Z,part,a,a,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:04.315Z,part,r,r,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:04.547Z,part,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:04.723Z,the, , ,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:05.613Z,the,t,t,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:05.922Z,the,h,h,monkeytype,semicolemakdh,words,25,english,null
+2022-12-06T15:04:05.942Z,the,e,e,monkeytype,semicolemakdh,words,25,english,null
