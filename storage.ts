@@ -1,40 +1,39 @@
+// import the webserver in the deno way
 import { serve } from 'https://deno.land/std@0.157.0/http/server.ts';
 
 const handler = async (req: Request): Promise<Response> => {
-	await req
-		.json()
-		.then(
-			async ({
-				timestamp,
-				activeWord,
-				lastChar,
-				correctChar,
-				source,
-				layout,
-				type,
-				length,
-				language,
-				funbox
-			}) => {
-				let row = `${timestamp},`;
+	// extract the json body from the request sent from the browser
+	await req.json().then(
+		// destructure the contents of the json
+		async ({
+			timestamp,
+			activeWord,
+			lastChar,
+			correctChar,
+			source,
+			layout,
+			type,
+			length,
+			language,
+			funbox
+		}) => {
+			// handle potential commas in strings
+			const hasComma = (word: string) =>
+				word.includes(',') ? `"${word}"` : word;
 
-				row += activeWord.includes(',')
-					? `"${activeWord}",`
-					: `${activeWord},`;
-				row += lastChar.includes(',')
-					? `"${lastChar}",`
-					: `${lastChar},`;
-				row += correctChar.includes(',')
-					? `"${correctChar}",`
-					: `${correctChar},`;
+			// build the csv row
+			let row = `${timestamp},${hasComma(activeWord)},${hasComma(
+				lastChar
+			)},${correctChar},${source},${layout},${type},${length},${language},${funbox}\n`;
 
-				row += `${source},${layout},${type},${length},${language},${funbox}\n`;
-				await Deno.writeTextFile('data.csv', row, {
-					append: true
-				});
-			}
-		);
+			// update data file
+			await Deno.writeTextFile('data.csv', row, {
+				append: true
+			});
+		}
+	);
 
+	// respond to browser
 	return new Response(JSON.stringify({ hi: 'hi' }), {
 		status: 200,
 		headers: {
@@ -45,4 +44,6 @@ const handler = async (req: Request): Promise<Response> => {
 };
 
 console.log('Listening on http://localhost:8000');
+
+// start localserver
 serve(handler);
