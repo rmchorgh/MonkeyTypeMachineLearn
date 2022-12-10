@@ -19,7 +19,11 @@ const handler = async (req: Request): Promise<Response> => {
 		}) => {
 			// handle potential commas in strings
 			const hasComma = (word: string) =>
-				word.includes(',') ? `"${word}"` : word;
+				word.includes(',')
+					? `"${word}"`
+					: word.includes('"')
+					? word.replace('"', '\\"')
+					: word;
 
 			// build the csv row
 			let row = `${timestamp},${hasComma(activeWord)},${hasComma(

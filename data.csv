@@ -8829,13 +8829,13 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-06T06:25:21.045Z,contains("foo"),n,n,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:21.214Z,contains("foo"),s,s,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:21.923Z,contains("foo"),(,(,monkeytype,semicolemakdh,words,25,code rust,null
-2022-12-06T06:25:22.450Z,contains("foo"),",",monkeytype,semicolemakdh,words,25,code rust,null
+2022-12-06T06:25:22.450Z,contains("foo"),\",\",monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:22.970Z,contains("foo"),t,f,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:23.690Z,contains("foo"),p,f,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:24.371Z,contains("foo"),f,f,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:24.635Z,contains("foo"),o,o,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:24.818Z,contains("foo"),o,o,monkeytype,semicolemakdh,words,25,code rust,null
-2022-12-06T06:25:25.734Z,contains("foo"),",",monkeytype,semicolemakdh,words,25,code rust,null
+2022-12-06T06:25:25.734Z,contains("foo"),\",\",monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:26.610Z,contains("foo"),),),monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:27.103Z,expect("fail"), , ,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:27.766Z,expect("fail"),e,e,monkeytype,semicolemakdh,words,25,code rust,null
@@ -8845,12 +8845,12 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-06T06:25:31.259Z,expect("fail"),c,c,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:31.572Z,expect("fail"),t,t,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:32.320Z,expect("fail"),(,(,monkeytype,semicolemakdh,words,25,code rust,null
-2022-12-06T06:25:32.669Z,expect("fail"),",",monkeytype,semicolemakdh,words,25,code rust,null
+2022-12-06T06:25:32.669Z,expect("fail"),\",\",monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:34.269Z,expect("fail"),f,f,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:34.854Z,expect("fail"),a,a,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:35.797Z,expect("fail"),i,i,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:35.995Z,expect("fail"),l,l,monkeytype,semicolemakdh,words,25,code rust,null
-2022-12-06T06:25:36.515Z,expect("fail"),",",monkeytype,semicolemakdh,words,25,code rust,null
+2022-12-06T06:25:36.515Z,expect("fail"),\",\",monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:37.107Z,expect("fail"),),),monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:37.557Z,async, , ,monkeytype,semicolemakdh,words,25,code rust,null
 2022-12-06T06:25:37.948Z,async,a,a,monkeytype,semicolemakdh,words,25,code rust,null
