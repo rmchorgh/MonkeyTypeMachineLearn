@@ -14660,7 +14660,8 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<img class='myimg' src='/Users/richard/Documents/umd/cmsc320/final/img/kb.jpg'/>
+<img class='myimg' alt='A picture of the completed keyboard' src='/Users/richard/Documents/umd/cmsc320/final/img/kb_hat.jpg'/>
+<p><em>A picture of the completed keyboard</em></p>
 
 </div>
 </div>
@@ -14672,7 +14673,20 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Furthermore, strain on the fingers, wrists, and back is reduced by the keyboard being split into halves between the positions of the 5 and 6 keys. Traditional keyboards require their users’ hands to be unnaturally close together, forcing their wrists to be at 120-degree angles, whereas, with a split keyboard, one’s hands can be as far apart as the cable joining the two halves allows. Arms being in their natural position translates to hands being straight and in as comfortable of a position as possible, especially during long typing sessions.</p>
+<p>Furthermore, strain on the fingers, wrists, and back is reduced by the keyboard being split into halves between the positions of the 5 and 6 keys. Traditional keyboards require their users’ hands to be unnaturally close together, forcing their wrists to be at an angle, whereas, with a split keyboard, one’s hands can be straight and as far apart as the cable joining the two halves allows. Arms being in their natural position translates to hands being straight and in as comfortable of a position as possible, especially during long typing sessions.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<img class='myimg' src='/Users/richard/Documents/umd/cmsc320/final/img/strain.jpg'/>
+<p><em>Hand angles while using a row staggered keyboard and a split keyboard</em></p>
 
 </div>
 </div>
@@ -14720,8 +14734,31 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Although SemiColemak is among the easiest layouts for a transition from QWERTY, the relearning process has been as strenuous for my muscle memory as QWERTY was for my hands and wrists. Even now, in my third week of solely using the keyboard, my typing speed in SemiColemak is barely approaching half of my average on QWERTY. Thankfully, I set a new personal best speed almost daily. My average accuracy between the two layouts is also the same.</p>
+<p>Although SemiColemak is among the easiest layouts for a transition from QWERTY, the relearning process has been as strenuous for my muscle memory as QWERTY was for my hands and wrists. Even now, in my third week of solely using the keyboard, my typing speed in SemiColemak is barely approaching half of my average on QWERTY.</p>
 
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>The object of this tutorial is to identify the points of error in typing the words that I use most frequently and use that data to classify words featuring my weaknesses. Practicing this set of words, and other words that will help to increase my speed and accuracy typing on my keyboard.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Collecting-the-raw-data">Collecting the raw data<a class="anchor-link" href="#Collecting-the-raw-data">&#182;</a></h2>
 </div>
 </div>
 </div>
@@ -14920,7 +14957,11 @@ const handler <span class="ansi-blue-fg">=</span> <span class="ansi-green-fg">as
                 <span class="ansi-blue-fg">}</span><span class="ansi-blue-fg">)</span> <span class="ansi-blue-fg">=</span><span class="ansi-blue-fg">&gt;</span> <span class="ansi-blue-fg">{</span>
                         <span class="ansi-blue-fg">//</span> handle potential commas <span class="ansi-green-fg">in</span> strings
                         const hasComma <span class="ansi-blue-fg">=</span> <span class="ansi-blue-fg">(</span>word<span class="ansi-blue-fg">:</span> string<span class="ansi-blue-fg">)</span> <span class="ansi-blue-fg">=</span><span class="ansi-blue-fg">&gt;</span>
-                                word<span class="ansi-blue-fg">.</span>includes<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">&#39;,&#39;</span><span class="ansi-blue-fg">)</span><span class="ansi-red-fg"> </span><span class="ansi-red-fg">?</span><span class="ansi-red-fg"> </span><span class="ansi-red-fg">`</span><span class="ansi-blue-fg">&#34;${word}&#34;</span><span class="ansi-red-fg">`</span> <span class="ansi-blue-fg">:</span> word<span class="ansi-blue-fg">;</span>
+                                word<span class="ansi-blue-fg">.</span>includes<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">&#39;,&#39;</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg">?</span><span class="ansi-red-fg"> </span><span class="ansi-red-fg">`</span><span class="ansi-blue-fg">&#34;${word}&#34;</span><span class="ansi-red-fg">`</span>
+                                        <span class="ansi-blue-fg">:</span> word<span class="ansi-blue-fg">.</span>includes<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">&#39;&#34;&#39;</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg"> </span><span class="ansi-red-fg">?</span> word<span class="ansi-blue-fg">.</span>replace<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">&#39;&#34;&#39;</span><span class="ansi-blue-fg">,</span> <span class="ansi-blue-fg">&#39;\\&#34;&#39;</span><span class="ansi-blue-fg">)</span>
+                                        <span class="ansi-blue-fg">:</span> word<span class="ansi-blue-fg">;</span>
 
                         <span class="ansi-blue-fg">//</span> build the csv row
                         let row <span class="ansi-blue-fg">=</span><span class="ansi-red-fg"> </span><span class="ansi-red-fg">`</span><span class="ansi-red-fg">$</span><span class="ansi-blue-fg">{</span>timestamp<span class="ansi-blue-fg">}</span><span class="ansi-blue-fg">,</span><span class="ansi-red-fg">$</span><span class="ansi-blue-fg">{</span>hasComma<span class="ansi-blue-fg">(</span>activeWord<span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">}</span><span class="ansi-blue-fg">,</span><span class="ansi-red-fg">$</span><span class="ansi-blue-fg">{</span>hasComma<span class="ansi-blue-fg">(</span>
@@ -14963,8 +15004,7 @@ serve<span class="ansi-blue-fg">(</span>handler<span class="ansi-blue-fg">)</spa
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Monkey Type can generate typing tests in many different languages, so, in order to emulate the words that I use from day to day, [PERCENTAGE] of the tests that I took were comprised of English words, but since I write a lot of Python, JavaScript, and Swift, as well as French and Rust, to a lesser degree, those languages were added to the test mix.</p>
-
+<h2 id="Understanding-the-data">Understanding the data<a class="anchor-link" href="#Understanding-the-data">&#182;</a></h2>
 </div>
 </div>
 </div>
@@ -14975,8 +15015,7 @@ serve<span class="ansi-blue-fg">(</span>handler<span class="ansi-blue-fg">)</spa
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><strong>Imports</strong></p>
-
+<h3 id="Required-Imports">Required Imports<a class="anchor-link" href="#Required-Imports">&#182;</a></h3>
 </div>
 </div>
 </div>
@@ -14996,7 +15035,7 @@ serve<span class="ansi-blue-fg">(</span>handler<span class="ansi-blue-fg">)</spa
 </div>
 </div>
 
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -15004,8 +15043,172 @@ serve<span class="ansi-blue-fg">(</span>handler<span class="ansi-blue-fg">)</spa
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[4]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;data.csv&#39;</span><span class="p">)</span>
-<span class="n">df</span><span class="o">.</span><span class="n">tail</span><span class="p">()</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;data.csv&quot;</span><span class="p">,</span> <span class="n">keep_default_na</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="N-Grams">N-Grams<a class="anchor-link" href="#N-Grams">&#182;</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Although it rarely outputs actual words, the <strong>Pseudolang</strong> funbox option generates words by algorithmically combining the common n-grams of the selected language. An n-gram is a sequence of two adjacent elements from a collection of tokens, and in this context, they are the likeliest letter sets. In English, some of the most common bigrams, or 2-grams, include:</p>
+<ul>
+<li>th</li>
+<li>he</li>
+<li>in</li>
+<li>er</li>
+<li>an</li>
+<li>re</li>
+<li>nd</li>
+<li>at</li>
+<li>on</li>
+<li>nt</li>
+</ul>
+
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Ingraining frequent n-grams into muscle memory is crucial to improving typing accuracy and speed. SemiColemak positions a few of these bigrams near each other, specifically in, he, at, and on, but underneath different fingers of the same hand. By avoiding the use of the same finger to type the n-gram, one can prime the finger assigned to the next letter in the sequence before the key is actually pressed, and as a product, decrease the time needed to type the whole word.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<img class='myimg' src='/Users/richard/Documents/umd/cmsc320/final/img/kb_legend.jpg'/>
+<p><em>An image of the legend of the keyboard</em></p>
+
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[5]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Calculate the percentage of words with a listed n-gram in the entire dataset</span>
+
+<span class="n">ngrams</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;er&quot;</span><span class="p">,</span> <span class="s2">&quot;re&quot;</span><span class="p">,</span> <span class="s2">&quot;th&quot;</span><span class="p">,</span> <span class="s2">&quot;in&quot;</span><span class="p">,</span><span class="s2">&quot;an&quot;</span><span class="p">,</span> <span class="s2">&quot;at&quot;</span><span class="p">,</span> <span class="s2">&quot;he&quot;</span><span class="p">,</span> <span class="s2">&quot;on&quot;</span><span class="p">,</span> <span class="s2">&quot;nd&quot;</span><span class="p">,</span>  <span class="s2">&quot;nt&quot;</span><span class="p">]</span>
+<span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">ngrams</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span>
+        <span class="sa">f</span><span class="s2">&quot;Percentage of rows with </span><span class="si">{</span><span class="n">x</span><span class="si">}</span><span class="s2"> bigram:</span><span class="se">\t</span><span class="si">{</span><span class="nb">round</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="n">df</span><span class="o">.</span><span class="n">activeWord</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">contains</span><span class="p">(</span><span class="n">x</span><span class="p">)])</span> <span class="o">*</span> <span class="mi">100</span> <span class="o">/</span> <span class="nb">len</span><span class="p">(</span><span class="n">df</span><span class="p">))</span><span class="si">}</span><span class="s2">%&quot;</span>
+    <span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
+<pre>Percentage of rows with er bigram:	10%
+Percentage of rows with re bigram:	8%
+Percentage of rows with th bigram:	7%
+Percentage of rows with in bigram:	7%
+Percentage of rows with an bigram:	5%
+Percentage of rows with at bigram:	5%
+Percentage of rows with he bigram:	5%
+Percentage of rows with on bigram:	4%
+Percentage of rows with nd bigram:	4%
+Percentage of rows with nt bigram:	3%
+</pre>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Languages">Languages<a class="anchor-link" href="#Languages">&#182;</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Monkey Type can generate typing tests in many different languages, so, in order to emulate the words that I use from day to day, [PERCENTAGE] of the tests that I took were comprised of English words, but since I write a lot of Python, JavaScript, and Swift, as well as French and Rust, to a lesser degree, those languages were added to the test mix.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Since all of the programming languages included use English-based syntax, they share many of the n-grams with English, however regular English does not train your fingers for coding paradigms like camel or snake case or using parentheses, equal signs, or comparators frequently.</p>
+
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[6]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Words generated in all of the languages included in the dataset</span>
+
+<span class="n">df</span><span class="o">.</span><span class="n">iloc</span><span class="p">[[</span><span class="mi">300</span><span class="p">,</span> <span class="mi">1770</span><span class="p">,</span> <span class="mi">19386</span><span class="p">,</span> <span class="mi">9141</span><span class="p">,</span> <span class="mi">3307</span><span class="p">,</span> <span class="mi">8967</span><span class="p">]]</span>
 </pre></div>
 
      </div>
@@ -15021,7 +15224,7 @@ serve<span class="ansi-blue-fg">(</span>handler<span class="ansi-blue-fg">)</spa
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[4]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[6]:</div>
 
 
 
@@ -15058,69 +15261,590 @@ serve<span class="ansi-blue-fg">(</span>handler<span class="ansi-blue-fg">)</spa
   </thead>
   <tbody>
     <tr>
-      <th>19310</th>
-      <td>2022-12-08T16:10:04.823Z</td>
-      <td>him</td>
+      <th>300</th>
+      <td>2022-12-04T10:02:36.901Z</td>
+      <td>house</td>
+      <td>s</td>
+      <td>s</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <th>1770</th>
+      <td>2022-12-04T21:33:14.021Z</td>
+      <td>when</td>
+      <td>p</td>
+      <td>p</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>code python</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <th>19386</th>
+      <td>2022-12-10T01:50:15.912Z</td>
+      <td>null</td>
+      <td>l</td>
+      <td>l</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>25</td>
+      <td>code javascript</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <th>9141</th>
+      <td>2022-12-06T06:28:40.049Z</td>
+      <td>didSet</td>
+      <td>i</td>
+      <td>i</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>25</td>
+      <td>code swift</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <th>3307</th>
+      <td>2022-12-04T22:25:43.375Z</td>
+      <td>lieu</td>
+      <td>l</td>
+      <td>l</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>french</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <th>8967</th>
+      <td>2022-12-06T06:26:46.674Z</td>
+      <td>BTreeMap</td>
       <td>m</td>
       <td>m</td>
       <td>monkeytype</td>
       <td>semicolemakdh</td>
       <td>words</td>
       <td>25</td>
-      <td>english 1k</td>
-      <td>NaN</td>
+      <td>code rust</td>
+      <td>null</td>
     </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Punctuation">Punctuation<a class="anchor-link" href="#Punctuation">&#182;</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>When spoken languages are transcribed, punctuation marks are added. Monkey Type does not add these marks by default, so the <strong>Quote</strong> test mode, in addition to the <strong>Wikipedia</strong> and <strong>Poetry</strong> funbox options, were used to introduce them.</p>
+
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[7]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Words with punctuation</span>
+
+<span class="n">df</span><span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="s2">&quot;activeWord&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">contains</span><span class="p">(</span><span class="s2">&quot;&#39;&quot;</span><span class="p">)]</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[7]:</div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>timestamp</th>
+      <th>activeWord</th>
+      <th>lastChar</th>
+      <th>correctChar</th>
+      <th>source</th>
+      <th>layout</th>
+      <th>type</th>
+      <th>length</th>
+      <th>language</th>
+      <th>funbox</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
-      <th>19311</th>
-      <td>2022-12-08T16:10:05.016Z</td>
-      <td>say</td>
+      <th>8522</th>
+      <td>2022-12-06T06:21:26.190Z</td>
+      <td>bestrewin'</td>
       <td></td>
       <td></td>
       <td>monkeytype</td>
       <td>semicolemakdh</td>
       <td>words</td>
       <td>25</td>
-      <td>english 1k</td>
-      <td>NaN</td>
+      <td>english</td>
+      <td>poetry</td>
     </tr>
     <tr>
-      <th>19312</th>
-      <td>2022-12-08T16:10:05.201Z</td>
-      <td>say</td>
+      <th>8523</th>
+      <td>2022-12-06T06:21:27.085Z</td>
+      <td>bestrewin'</td>
+      <td>b</td>
+      <td>b</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>25</td>
+      <td>english</td>
+      <td>poetry</td>
+    </tr>
+    <tr>
+      <th>8524</th>
+      <td>2022-12-06T06:21:27.438Z</td>
+      <td>bestrewin'</td>
+      <td>e</td>
+      <td>e</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>25</td>
+      <td>english</td>
+      <td>poetry</td>
+    </tr>
+    <tr>
+      <th>8525</th>
+      <td>2022-12-06T06:21:27.609Z</td>
+      <td>bestrewin'</td>
       <td>s</td>
       <td>s</td>
       <td>monkeytype</td>
       <td>semicolemakdh</td>
       <td>words</td>
       <td>25</td>
-      <td>english 1k</td>
-      <td>NaN</td>
+      <td>english</td>
+      <td>poetry</td>
     </tr>
     <tr>
-      <th>19313</th>
-      <td>2022-12-08T16:10:05.393Z</td>
-      <td>say</td>
-      <td>a</td>
-      <td>a</td>
+      <th>8526</th>
+      <td>2022-12-06T06:21:28.211Z</td>
+      <td>bestrewin'</td>
+      <td>t</td>
+      <td>t</td>
       <td>monkeytype</td>
       <td>semicolemakdh</td>
       <td>words</td>
       <td>25</td>
-      <td>english 1k</td>
-      <td>NaN</td>
+      <td>english</td>
+      <td>poetry</td>
     </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Test-Length">Test Length<a class="anchor-link" href="#Test-Length">&#182;</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Depending on the type of test, the values recorded in the length column of the table can represent two kinds of data. When taking a <strong>Words</strong> test, it represents the cardinality of the set of words generated for the typing test, but in the case of a <strong>Time</strong> test, it indicates the amount of time allotted to type as many words as possible.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Monkey Type ranks performance in timed tests daily on their leaderboards by speed and accuracy. As a result, taking timed tests induces more stress, but in turn estimates real-world performance better than a word count test, which is primarily used for improving accuracy.</p>
+
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[8]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Characters typed during a timed test xor a word count test</span>
+
+<span class="n">df</span><span class="o">.</span><span class="n">iloc</span><span class="p">[[</span><span class="mi">6942</span><span class="p">,</span> <span class="mi">6944</span><span class="p">]]</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[8]:</div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>timestamp</th>
+      <th>activeWord</th>
+      <th>lastChar</th>
+      <th>correctChar</th>
+      <th>source</th>
+      <th>layout</th>
+      <th>type</th>
+      <th>length</th>
+      <th>language</th>
+      <th>funbox</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
-      <th>19314</th>
-      <td>2022-12-08T16:10:05.658Z</td>
-      <td>say</td>
-      <td>y</td>
-      <td>y</td>
+      <th>6942</th>
+      <td>2022-12-06T06:00:51.023Z</td>
+      <td>high</td>
+      <td>g</td>
+      <td>g</td>
       <td>monkeytype</td>
       <td>semicolemakdh</td>
       <td>words</td>
-      <td>25</td>
-      <td>english 1k</td>
-      <td>NaN</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <th>6944</th>
+      <td>2022-12-06T06:01:19.071Z</td>
+      <td>still</td>
+      <td>s</td>
+      <td>s</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>time</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Feature-Engineering">Feature Engineering<a class="anchor-link" href="#Feature-Engineering">&#182;</a></h2>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Required-Imports">Required Imports<a class="anchor-link" href="#Required-Imports">&#182;</a></h3>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[9]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">datetime</span> <span class="kn">import</span> <span class="n">datetime</span> <span class="k">as</span> <span class="n">dt</span><span class="p">,</span> <span class="n">timedelta</span>
+<span class="kn">from</span> <span class="nn">pandas</span> <span class="kn">import</span> <span class="n">NaT</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Speed">Speed<a class="anchor-link" href="#Speed">&#182;</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Typing speed is calculated in characters per minute rather than the customary unit of measurement, words per minute. Since there is a high variance in the length of words, using wpm would require some sort averaging, which would invite loss of data. Measuring character per minute does not necessitate averaging because it relies on the smallest non-temporal piece of data, the character.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Character per minute is calculated by subtracting timestamps between two adjacent characters. This strategy works well when every letter typed is correct, however, since I am still learning, correctly typed characters inevitably precede mistypes. Instead of returning an accurate measurement of the useful characters typed per unit of time, it returns raw typing speed. To remedy this, the speed of incorrectly typed characters is replaced with the mean of over the active word.</p>
+
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Converting timestamps to python&#39;s date object</span>
+
+<span class="n">df</span><span class="o">.</span><span class="n">timestamp</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">timestamp</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">dt</span><span class="o">.</span><span class="n">fromisoformat</span><span class="p">(</span><span class="n">x</span><span class="p">[:</span><span class="o">-</span><span class="mi">1</span><span class="p">]))</span>
+<span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[10]:</div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>timestamp</th>
+      <th>activeWord</th>
+      <th>lastChar</th>
+      <th>correctChar</th>
+      <th>source</th>
+      <th>layout</th>
+      <th>type</th>
+      <th>length</th>
+      <th>language</th>
+      <th>funbox</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>2022-12-04 09:44:12.191</td>
+      <td>get</td>
+      <td>g</td>
+      <td>g</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2022-12-04 09:44:12.368</td>
+      <td>get</td>
+      <td>e</td>
+      <td>e</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>2022-12-04 09:44:12.986</td>
+      <td>down</td>
+      <td>t</td>
+      <td>t</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>2022-12-04 09:44:13.154</td>
+      <td>down</td>
+      <td></td>
+      <td></td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>2022-12-04 09:44:14.400</td>
+      <td>down</td>
+      <td>d</td>
+      <td>d</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
     </tr>
   </tbody>
 </table>
@@ -15138,7 +15862,563 @@ serve<span class="ansi-blue-fg">(</span>handler<span class="ansi-blue-fg">)</spa
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[11]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Subtract the intervals</span>
+
+<span class="n">df</span><span class="p">[</span><span class="s2">&quot;cpm&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">timestamp</span>
+<span class="n">df</span><span class="o">.</span><span class="n">cpm</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">cpm</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="n">df</span><span class="o">.</span><span class="n">timestamp</span><span class="o">.</span><span class="n">shift</span><span class="p">())</span>
+
+<span class="n">df</span><span class="p">[[</span><span class="s2">&quot;timestamp&quot;</span><span class="p">,</span> <span class="s2">&quot;lastChar&quot;</span><span class="p">,</span> <span class="s2">&quot;cpm&quot;</span><span class="p">]]</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[11]:</div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>timestamp</th>
+      <th>lastChar</th>
+      <th>cpm</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>2022-12-04 09:44:12.191</td>
+      <td>g</td>
+      <td>NaT</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2022-12-04 09:44:12.368</td>
+      <td>e</td>
+      <td>0 days 00:00:00.177000</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>2022-12-04 09:44:12.986</td>
+      <td>t</td>
+      <td>0 days 00:00:00.618000</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>2022-12-04 09:44:13.154</td>
+      <td></td>
+      <td>0 days 00:00:00.168000</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>2022-12-04 09:44:14.400</td>
+      <td>d</td>
+      <td>0 days 00:00:01.246000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>The intervals between letters in the same word and in the same test are correct, but since tests were not taken consecutively, some intervals are much too large.</p>
+
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[20]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">iloc</span><span class="p">[[</span><span class="mi">6829</span><span class="p">,</span> <span class="mi">6830</span><span class="p">]]</span> <span class="c1">#[[&#39;timestamp&#39;, &#39;activeWord&#39;, &#39;cpm&#39;]]</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[20]:</div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>timestamp</th>
+      <th>activeWord</th>
+      <th>lastChar</th>
+      <th>correctChar</th>
+      <th>source</th>
+      <th>layout</th>
+      <th>type</th>
+      <th>length</th>
+      <th>language</th>
+      <th>funbox</th>
+      <th>cpm</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>6829</th>
+      <td>2022-12-05 22:50:38.087</td>
+      <td>these</td>
+      <td>e</td>
+      <td>e</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 00:00:00.118000</td>
+    </tr>
+    <tr>
+      <th>6830</th>
+      <td>2022-12-06 05:59:56.702</td>
+      <td>old</td>
+      <td>l</td>
+      <td>l</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 07:09:18.615000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Although these letters were recorded successively, moving my fingers from the <em>e</em> to <em>o</em> key to begin the word <em>old</em> did not take 7 hours. To ensure accuracy of the data, the beginning of the interval must align with the start of each test.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Word count tests are separated after the number of completed words reaches the value in the length column. Separating on complete words is important because Monkey Type allows the user to regenerate a new set of words if they decide that they have made too many mistakes with the current set.</p>
+
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[21]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="n">df</span><span class="o">.</span><span class="n">type</span> <span class="o">==</span> <span class="s1">&#39;words&#39;</span><span class="p">]</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[21]:</div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>timestamp</th>
+      <th>activeWord</th>
+      <th>lastChar</th>
+      <th>correctChar</th>
+      <th>source</th>
+      <th>layout</th>
+      <th>type</th>
+      <th>length</th>
+      <th>language</th>
+      <th>funbox</th>
+      <th>cpm</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>2022-12-04 09:44:12.191</td>
+      <td>get</td>
+      <td>g</td>
+      <td>g</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>NaT</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2022-12-04 09:44:12.368</td>
+      <td>get</td>
+      <td>e</td>
+      <td>e</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 00:00:00.177000</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>2022-12-04 09:44:12.986</td>
+      <td>down</td>
+      <td>t</td>
+      <td>t</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 00:00:00.618000</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>2022-12-04 09:44:13.154</td>
+      <td>down</td>
+      <td></td>
+      <td></td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 00:00:00.168000</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>2022-12-04 09:44:14.400</td>
+      <td>down</td>
+      <td>d</td>
+      <td>d</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 00:00:01.246000</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>19977</th>
+      <td>2022-12-10 15:36:49.665</td>
+      <td>first</td>
+      <td>r</td>
+      <td>r</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 00:00:00.296000</td>
+    </tr>
+    <tr>
+      <th>19978</th>
+      <td>2022-12-10 15:36:49.959</td>
+      <td>first</td>
+      <td>s</td>
+      <td>s</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 00:00:00.294000</td>
+    </tr>
+    <tr>
+      <th>19979</th>
+      <td>2022-12-10 15:36:50.288</td>
+      <td>first</td>
+      <td>t</td>
+      <td>t</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 00:00:00.329000</td>
+    </tr>
+    <tr>
+      <th>19980</th>
+      <td>2022-12-10 16:26:09.400</td>
+      <td>general</td>
+      <td>r</td>
+      <td>r</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 00:49:19.112000</td>
+    </tr>
+    <tr>
+      <th>19981</th>
+      <td>2022-12-10 16:26:09.483</td>
+      <td>general</td>
+      <td>s</td>
+      <td>s</td>
+      <td>monkeytype</td>
+      <td>semicolemakdh</td>
+      <td>words</td>
+      <td>10</td>
+      <td>english</td>
+      <td>null</td>
+      <td>0 days 00:00:00.083000</td>
+    </tr>
+  </tbody>
+</table>
+<p>19047 rows × 11 columns</p>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Timed tests are separated after the alotted time in the length column is reached. Splitting on complete words is not neccessary here as it is with word count tests because the timer may cut the user off from typing all the letters in a word.</p>
+
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span> 
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Consistency">Consistency<a class="anchor-link" href="#Consistency">&#182;</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Accuracy">Accuracy<a class="anchor-link" href="#Accuracy">&#182;</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Reach-Length">Reach Length<a class="anchor-link" href="#Reach-Length">&#182;</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Aggregate-Typing-Score">Aggregate Typing Score<a class="anchor-link" href="#Aggregate-Typing-Score">&#182;</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Analysis">Analysis<a class="anchor-link" href="#Analysis">&#182;</a></h2>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Remove-later">Remove later<a class="anchor-link" href="#Remove-later">&#182;</a></h2>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[12]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span>jupyter nbconvert --to html main.ipynb --output-dir<span class="o">=</span><span class="s1">&#39;docs&#39;</span> --output<span class="o">=</span><span class="s1">&#39;index.html&#39;</span>
@@ -15162,7 +16442,7 @@ serve<span class="ansi-blue-fg">(</span>handler<span class="ansi-blue-fg">)</spa
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
 <pre>[NbConvertApp] Converting notebook main.ipynb to html
-[NbConvertApp] Writing 613047 bytes to docs/index.html
+[NbConvertApp] Writing 647905 bytes to docs/index.html
 </pre>
 </div>
 </div>
