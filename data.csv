@@ -19268,11 +19268,6 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-08T16:10:05.201Z,say,s,s,monkeytype,semicolemakdh,words,25,english 1k,null
 2022-12-08T16:10:05.393Z,say,a,a,monkeytype,semicolemakdh,words,25,english 1k,null
 2022-12-08T16:10:05.658Z,say,y,y,monkeytype,semicolemakdh,words,25,english 1k,null
-2022-12-10T01:49:40.345Z,say,j,j,monkeytype,semicolemakdh,words,25,english 1k,null
-2022-12-10T01:49:40.531Z,say,a,a,monkeytype,semicolemakdh,words,25,english 1k,null
-2022-12-10T01:49:49.167Z,var,v,v,monkeytype,semicolemakdh,words,25,code javascript,null
-2022-12-10T01:49:49.301Z,var,a,a,monkeytype,semicolemakdh,words,25,code javascript,null
-2022-12-10T01:49:49.462Z,var,r,r,monkeytype,semicolemakdh,words,25,code javascript,null
 2022-12-10T01:49:49.640Z,object, , ,monkeytype,semicolemakdh,words,25,code javascript,null
 2022-12-10T01:49:49.933Z,object,o,o,monkeytype,semicolemakdh,words,25,code javascript,null
 2022-12-10T01:49:50.501Z,object,m,b,monkeytype,semicolemakdh,words,25,code javascript,null
