@@ -8249,7 +8249,7 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-06T06:19:13.332Z,Gila,i,i,monkeytype,semicolemakdh,words,25,english,wikipedia
 2022-12-06T06:19:14.252Z,Gila,l,l,monkeytype,semicolemakdh,words,25,english,wikipedia
 2022-12-06T06:19:14.396Z,Gila,a,a,monkeytype,semicolemakdh,words,25,english,wikipedia
-2022-12-06T06:19:22.294Z,Gila,s,s,monkeytype,semicolemakdh,words,25,english,wikipedia
+2022-12-06T06:19:22.294Z,Snailwell,s,s,monkeytype,semicolemakdh,words,25,english,wikipedia
 2022-12-06T06:19:22.471Z,Snailwell,n,n,monkeytype,semicolemakdh,words,25,english,wikipedia
 2022-12-06T06:19:22.559Z,Snailwell,a,a,monkeytype,semicolemakdh,words,25,english,wikipedia
 2022-12-06T06:19:23.047Z,Snailwell,i,i,monkeytype,semicolemakdh,words,25,english,wikipedia
@@ -8415,7 +8415,7 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-06T06:20:42.133Z,is,s,s,monkeytype,semicolemakdh,words,25,english,wikipedia
 2022-12-06T06:20:42.243Z,a, , ,monkeytype,semicolemakdh,words,25,english,wikipedia
 2022-12-06T06:20:42.699Z,a,a,a,monkeytype,semicolemakdh,words,25,english,wikipedia
-2022-12-06T06:20:58.319Z,a,o,o,monkeytype,semicolemakdh,words,25,english,poetry
+2022-12-06T06:20:58.319Z,Once,o,o,monkeytype,semicolemakdh,words,25,english,poetry
 2022-12-06T06:20:59.130Z,Once,n,n,monkeytype,semicolemakdh,words,25,english,poetry
 2022-12-06T06:20:59.620Z,Once,c,c,monkeytype,semicolemakdh,words,25,english,poetry
 2022-12-06T06:20:59.778Z,Once,e,e,monkeytype,semicolemakdh,words,25,english,poetry
@@ -8546,7 +8546,7 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-06T06:21:58.892Z,apostrophisin',i,i,monkeytype,semicolemakdh,words,25,english,poetry
 2022-12-06T06:21:59.774Z,apostrophisin',n,n,monkeytype,semicolemakdh,words,25,english,poetry
 2022-12-06T06:22:00.172Z,apostrophisin',',',monkeytype,semicolemakdh,words,25,english,poetry
-2022-12-06T06:22:10.614Z,apostrophisin',z,S,monkeytype,semicolemakdh,words,25,english,poetry
+2022-12-06T06:22:10.614Z,Speak,z,S,monkeytype,semicolemakdh,words,25,english,poetry
 2022-12-06T06:22:12.472Z,Speak,s,s,monkeytype,semicolemakdh,words,25,english,poetry
 2022-12-06T06:22:13.782Z,Speak,p,p,monkeytype,semicolemakdh,words,25,english,poetry
 2022-12-06T06:22:14.669Z,Speak,e,e,monkeytype,semicolemakdh,words,25,english,poetry
