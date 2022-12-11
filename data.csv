@@ -840,22 +840,6 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-04T10:22:04.106Z,who,o,o,monkeytype,semicolemakdh,words,10,english,null
 2022-12-04T10:22:04.660Z,a, , ,monkeytype,semicolemakdh,words,10,english,null
 2022-12-04T10:22:04.881Z,a,a,a,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:22:05.012Z,a, , ,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:41.831Z,must,s,s,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:41.901Z,must,e,e,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:43.341Z,must,m,m,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:43.653Z,must,i,i,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:45.157Z,must,c,c,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:46.006Z,must,o,o,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:46.413Z,must,l,l,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:46.741Z,must,e,e,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:47.374Z,must,m,m,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:47.597Z,must,a,a,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:49.015Z,must,k,k,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:50.493Z,must,d,d,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:23:51.006Z,must,h,h,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:30:40.344Z,play,p,p,monkeytype,semicolemakdh,words,10,english,null
-2022-12-04T10:30:40.791Z,play,s,s,monkeytype,semicolemakdh,words,10,english,null
 2022-12-04T10:30:58.263Z,Alas!,a,a,monkeytype,semicolemakdh,words,10,english,null
 2022-12-04T10:30:58.936Z,Alas!,l,l,monkeytype,semicolemakdh,words,10,english,null
 2022-12-04T10:30:59.095Z,Alas!,a,a,monkeytype,semicolemakdh,words,10,english,null
