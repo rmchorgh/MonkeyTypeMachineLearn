@@ -5302,7 +5302,6 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-05T21:02:21.733Z,little, , ,monkeytype,semicolemakdh,words,10,english,null
 2022-12-05T21:02:22.027Z,little,l,l,monkeytype,semicolemakdh,words,10,english,null
 2022-12-05T21:02:22.314Z,little,i,i,monkeytype,semicolemakdh,words,10,english,null
-
 2022-12-05T21:02:23.157Z,little,t,t,monkeytype,semicolemakdh,words,10,english,null
 2022-12-05T21:02:23.390Z,little,t,t,monkeytype,semicolemakdh,words,10,english,null
 2022-12-05T21:02:23.587Z,little,l,l,monkeytype,semicolemakdh,words,10,english,null
@@ -6563,7 +6562,6 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-05T22:37:57.870Z,not,n,n,monkeytype,semicolemakdh,words,10,english,null
 2022-12-05T22:37:57.966Z,not,o,o,monkeytype,semicolemakdh,words,10,english,null
 2022-12-05T22:37:58.281Z,not,t,t,monkeytype,semicolemakdh,words,10,english,null
-
 2022-12-05T22:37:58.398Z,leave, , ,monkeytype,semicolemakdh,words,10,english,null
 2022-12-05T22:37:58.887Z,leave,l,l,monkeytype,semicolemakdh,words,10,english,null
 2022-12-05T22:37:59.378Z,leave,e,e,monkeytype,semicolemakdh,words,10,english,null
@@ -8101,7 +8099,6 @@ timestamp,activeWord,lastChar,correctChar,source,layout,type,length,language,fun
 2022-12-06T06:17:03.991Z,fx,c,x,monkeytype,semicolemakdh,words,25,english,gibberish
 2022-12-06T06:17:04.720Z,fx,x,x,monkeytype,semicolemakdh,words,25,english,gibberish
 2022-12-06T06:17:59.979Z,Eric,e,e,monkeytype,semicolemakdh,words,25,english,wikipedia
-
 2022-12-06T06:18:01.153Z,Eric,r,r,monkeytype,semicolemakdh,words,25,english,wikipedia
 2022-12-06T06:18:01.304Z,Eric,i,i,monkeytype,semicolemakdh,words,25,english,wikipedia
 2022-12-06T06:18:01.954Z,Eric,c,c,monkeytype,semicolemakdh,words,25,english,wikipedia
