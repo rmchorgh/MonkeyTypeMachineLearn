@@ -30,6 +30,8 @@ const handler = async (req: Request) => {
 				funbox,
 				testNum
 			} of test) {
+				if (correctChar == undefined) return;
+
 				// handle potential commas in strings
 				const hasComma = (word: string) => {
 					if (word == undefined) {
