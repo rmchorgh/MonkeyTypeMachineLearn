@@ -49,8 +49,8 @@ var monkeyTypeAll = () => {
 
 		// build the request body
 		var body = {
-			timestamp,
 			activeWord,
+			timestamp,
 			lastChar: key,
 			source: 'monkeytype',
 			layout,

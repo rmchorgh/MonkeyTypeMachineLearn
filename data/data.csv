@@ -1,0 +1,1579 @@
+timestamp,activeWord,lastChar,correctChar,layout,testNum,type,length,language,funbox
+2022-12-12T07:45:16.438Z,ninth ,n,n,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:16.527Z,ninth ,i,i,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:16.650Z,ninth ,n,n,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:16.881Z,ninth ,t,t,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:17.005Z,ninth ,h,h,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:17.249Z,ninth , , ,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:18.050Z,droop ,c,d,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:18.698Z,droop ,d,d,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:18.992Z,droop ,r,r,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:19.212Z,droop ,o,o,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:19.401Z,droop ,o,o,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:19.752Z,droop ,p,p,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:19.906Z,droop , , ,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:20.119Z,agile ,a,a,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:20.394Z,agile ,g,g,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:20.656Z,agile ,i,i,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:20.873Z,agile ,l,l,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:21.336Z,agile ,e,e,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:21.536Z,agile , , ,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:21.840Z,rocky ,r,r,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:22.042Z,rocky ,o,o,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:22.314Z,rocky ,c,c,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:23.114Z,rocky ,k,k,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:23.447Z,rocky ,y,y,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:23.626Z,rocky , , ,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:24.009Z,boxer ,b,b,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:24.154Z,boxer ,o,o,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:24.480Z,boxer ,x,x,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:24.698Z,boxer ,e,e,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:24.904Z,boxer ,r,r,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:25.072Z,boxer , , ,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:25.319Z,shift ,s,s,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:25.521Z,shift ,h,h,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:25.914Z,shift ,i,i,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:26.239Z,shift ,f,f,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:26.569Z,shift ,t,t,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:26.720Z,shift , , ,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:27.121Z,comfy ,c,c,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:27.267Z,comfy ,o,o,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:27.538Z,comfy ,m,m,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:28.466Z,comfy ,f,f,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:29.039Z,comfy ,y,y,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:29.322Z,comfy , , ,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:29.721Z,drool ,d,d,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:30.074Z,drool ,r,r,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:30.273Z,drool ,o,o,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:30.473Z,drool ,o,o,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:30.650Z,drool ,l,l,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:30.804Z,drool , , ,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:31.065Z,space ,s,s,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:31.404Z,space ,p,p,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:31.557Z,space ,a,a,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:31.728Z,space ,c,c,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:31.976Z,space ,e,e,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:32.373Z,space , , ,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:33.053Z,jumbo,j,j,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:33.248Z,jumbo,u,u,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:33.544Z,jumbo,m,m,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:34.182Z,jumbo,b,b,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:34.209Z,jumbo,o,o,semicolemakdh,1,words,10,wordle,null
+2022-12-12T07:45:47.348Z,rearm ,r,r,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:47.488Z,rearm ,e,e,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:47.641Z,rearm ,a,a,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:47.918Z,rearm ,r,r,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:48.402Z,rearm ,m,m,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:48.619Z,rearm , , ,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:48.762Z,smash ,s,s,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:49.169Z,smash ,m,m,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:49.484Z,smash ,a,a,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:49.777Z,smash ,s,s,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:50.070Z,smash ,h,h,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:50.224Z,smash , , ,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:50.512Z,horde ,h,h,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:50.636Z,horde ,o,o,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:51.242Z,horde ,r,r,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:51.441Z,horde ,d,d,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:51.804Z,horde ,e,e,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:52.006Z,horde , , ,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:52.371Z,groom ,g,g,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:52.577Z,groom ,r,r,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:52.841Z,groom ,o,o,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:53.019Z,groom ,o,o,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:53.192Z,groom ,m,m,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:53.330Z,groom , , ,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:53.473Z,swath ,s,s,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:53.824Z,swath ,w,w,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:54.122Z,swath ,a,a,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:54.419Z,swath ,t,t,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:54.522Z,swath ,h,h,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:54.658Z,swath , , ,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:55.316Z,junto ,j,j,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:55.523Z,junto ,u,u,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:55.912Z,junto ,n,n,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:56.074Z,junto ,t,t,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:56.187Z,junto ,o,o,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:56.339Z,junto , , ,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:56.713Z,young ,y,y,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:56.991Z,young ,o,o,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:57.226Z,young ,u,u,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:57.555Z,young ,n,n,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:57.776Z,young ,g,g,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:57.924Z,young , , ,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:58.418Z,space ,s,s,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:58.756Z,space ,p,p,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:58.907Z,space ,a,a,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:59.229Z,space ,c,c,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:59.332Z,space ,e,e,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:59.508Z,space , , ,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:59.740Z,wider ,w,w,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:45:59.924Z,wider ,i,i,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:46:00.250Z,wider ,d,d,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:46:00.410Z,wider ,e,e,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:46:00.571Z,wider ,r,r,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:46:00.783Z,wider , , ,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:46:01.025Z,wager,w,w,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:46:01.178Z,wager,a,a,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:46:01.395Z,wager,g,g,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:46:01.546Z,wager,e,e,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:46:01.883Z,wager,r,r,semicolemakdh,2,words,10,wordle,null
+2022-12-12T07:46:13.411Z,maple ,m,m,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:13.538Z,maple ,a,a,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:13.778Z,maple ,p,p,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:14.033Z,maple ,l,l,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:14.218Z,maple ,e,e,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:14.378Z,maple , , ,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:14.673Z,locus ,l,l,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:14.882Z,locus ,o,o,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:15.012Z,locus ,c,c,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:15.276Z,locus ,u,u,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:15.378Z,locus ,s,s,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:15.545Z,locus , , ,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:16.082Z,dryer ,d,d,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:16.771Z,dryer ,p,r,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:17.076Z,dryer ,y,r,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:17.729Z,dryer ,r,r,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:17.891Z,dryer ,y,y,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:18.445Z,dryer ,e,e,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:18.649Z,dryer ,r,r,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:18.782Z,dryer , , ,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:18.979Z,shove ,s,s,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:19.187Z,shove ,h,h,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:19.365Z,shove ,o,o,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:19.699Z,shove ,e,v,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:20.330Z,shove ,d,v,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:20.460Z,shove ,e,v,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:20.651Z,shove , ,v,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:20.781Z,agile ,a,a,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:21.213Z,agile ,g,g,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:21.666Z,agile ,i,i,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:22.313Z,agile ,l,l,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:22.427Z,agile ,e,e,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:22.646Z,agile , , ,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:24.850Z,beard ,b,b,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:25.011Z,beard ,e,e,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:25.531Z,beard ,a,a,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:26.098Z,beard ,r,r,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:26.234Z,beard ,d,d,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:26.458Z,beard , , ,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:26.907Z,iliac ,i,i,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:27.057Z,iliac ,l,l,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:27.157Z,iliac ,i,i,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:27.702Z,iliac ,a,a,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:27.977Z,iliac ,c,c,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:28.149Z,iliac , , ,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:28.404Z,aglow ,a,a,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:28.687Z,aglow ,g,g,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:28.977Z,aglow ,l,l,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:29.073Z,aglow ,o,o,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:29.275Z,aglow ,w,w,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:29.394Z,aglow , , ,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:29.593Z,skate ,s,s,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:29.938Z,skate ,k,k,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:30.146Z,skate ,a,a,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:30.716Z,skate ,t,t,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:30.794Z,skate ,e,e,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:30.973Z,skate , , ,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:31.379Z,while,w,w,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:31.933Z,while,h,h,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:32.242Z,while,i,i,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:32.578Z,while,u,l,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:33.459Z,while,l,l,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:33.662Z,while,e,e,semicolemakdh,3,words,10,wordle,null
+2022-12-12T07:46:41.687Z,jumbo ,j,j,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:41.749Z,jumbo ,u,u,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:42.216Z,jumbo ,g,m,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:43.493Z,jumbo ,m,m,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:43.834Z,jumbo ,g,b,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:43.954Z,jumbo ,k,b,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:44.077Z,jumbo ,o,b,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:44.916Z,jumbo ,b,b,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:45.073Z,jumbo ,o,o,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:45.214Z,jumbo , , ,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:45.483Z,poise ,y,p,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:46.218Z,poise ,p,p,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:46.442Z,poise ,o,o,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:46.618Z,poise ,u,i,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:47.458Z,poise ,i,i,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:47.555Z,poise ,s,s,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:47.735Z,poise ,e,e,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:47.890Z,poise , , ,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:48.333Z,bully ,b,b,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:48.475Z,bully ,u,u,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:48.950Z,bully ,j,l,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:49.123Z,bully ,j,l,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:50.318Z,bully ,l,l,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:50.490Z,bully ,l,l,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:50.627Z,bully ,y,y,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:50.842Z,bully , , ,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:51.290Z,penal ,p,p,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:51.426Z,penal ,e,e,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:51.579Z,penal ,n,n,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:51.755Z,penal ,a,a,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:51.996Z,penal ,l,l,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:52.211Z,penal , , ,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:53.227Z,blunt ,b,b,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:53.502Z,blunt ,l,l,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:53.703Z,blunt ,u,u,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:54.258Z,blunt ,n,n,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:54.420Z,blunt ,t,t,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:54.601Z,blunt , , ,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:54.826Z,annoy ,a,a,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:54.933Z,annoy ,n,n,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:55.126Z,annoy ,n,n,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:55.356Z,annoy ,y,o,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:56.178Z,annoy ,o,o,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:56.292Z,annoy ,y,y,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:56.473Z,annoy , , ,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:57.242Z,beard ,b,b,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:57.377Z,beard ,e,e,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:57.644Z,beard ,a,a,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:58.227Z,beard ,r,r,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:58.362Z,beard ,d,d,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:58.741Z,beard , , ,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:59.796Z,breed ,b,b,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:46:59.972Z,breed ,e,r,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:00.172Z,breed ,r,r,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:00.892Z,breed ,r,e,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:01.045Z,breed ,e,e,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:01.220Z,breed ,e,e,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:01.515Z,breed ,d,d,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:01.694Z,breed , , ,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:02.122Z,gaffe ,g,g,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:02.204Z,gaffe ,a,a,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:02.613Z,gaffe ,f,f,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:02.788Z,gaffe ,f,f,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:03.019Z,gaffe ,e,e,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:03.198Z,gaffe , , ,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:03.467Z,lingo,l,l,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:03.707Z,lingo,i,i,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:03.848Z,lingo,n,n,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:04.148Z,lingo,g,g,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:04.200Z,lingo,o,o,semicolemakdh,4,words,10,wordle,null
+2022-12-12T07:47:09.444Z,stern ,s,s,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:09.580Z,stern ,t,t,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:09.724Z,stern ,e,e,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:09.858Z,stern ,s,r,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:10.162Z,stern ,n,r,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:10.939Z,stern ,r,r,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:11.092Z,stern ,n,n,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:11.291Z,stern , , ,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:11.454Z,avail ,a,a,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:11.733Z,avail ,v,v,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:11.872Z,avail ,a,a,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:12.325Z,avail ,i,i,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:12.526Z,avail ,l,l,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:12.759Z,avail , , ,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:13.051Z,loyal ,l,l,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:13.206Z,loyal ,o,o,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:13.579Z,loyal ,l,y,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:14.284Z,loyal ,y,y,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:14.405Z,loyal ,a,a,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:14.595Z,loyal ,l,l,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:14.812Z,loyal , , ,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:15.051Z,shift ,s,s,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:15.195Z,shift ,h,h,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:15.495Z,shift ,i,i,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:16.204Z,shift ,f,f,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:16.379Z,shift ,t,t,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:16.612Z,shift , , ,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:16.911Z,stake ,s,s,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:17.162Z,stake ,t,t,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:17.283Z,stake ,a,a,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:17.664Z,stake ,k,k,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:17.821Z,stake ,e,e,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:18.013Z,stake , , ,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:18.208Z,short ,s,s,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:18.389Z,short ,h,h,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:18.665Z,short ,o,o,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:18.964Z,short ,r,r,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:19.100Z,short ,t,t,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:19.283Z,short , , ,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:19.614Z,rearm ,r,r,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:19.797Z,rearm ,e,e,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:20.078Z,rearm ,a,a,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:20.567Z,rearm ,r,r,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:21.125Z,rearm ,m,m,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:21.316Z,rearm , , ,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:21.604Z,dense ,d,d,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:21.749Z,dense ,e,e,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:22.003Z,dense ,n,n,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:22.215Z,dense ,s,s,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:22.357Z,dense ,e,e,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:22.549Z,dense , , ,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:22.877Z,glare ,g,g,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:23.155Z,glare ,l,l,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:23.323Z,glare ,a,a,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:23.582Z,glare ,r,r,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:23.767Z,glare ,e,e,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:23.957Z,glare , , ,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:24.133Z,annoy,a,a,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:24.388Z,annoy,n,n,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:24.588Z,annoy,n,n,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:24.821Z,annoy,o,o,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:24.971Z,annoy,y,y,semicolemakdh,5,words,10,wordle,null
+2022-12-12T07:47:33.397Z,slope ,s,s,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:33.541Z,slope ,l,l,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:33.692Z,slope ,o,o,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:34.324Z,slope ,p,p,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:34.440Z,slope ,e,e,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:34.640Z,slope , , ,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:35.012Z,draft ,d,d,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:35.774Z,draft ,r,r,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:35.909Z,draft ,a,a,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:36.027Z,draft ,t,f,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:36.827Z,draft ,f,f,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:37.323Z,draft ,t,t,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:37.452Z,draft , , ,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:37.943Z,junto ,l,j,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:38.132Z,junto ,u,j,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:39.117Z,junto ,j,j,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:39.311Z,junto ,u,u,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:39.457Z,junto ,t,n,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:39.747Z,junto ,o,n,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:39.823Z,junto , ,n,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:42.113Z,penal ,p,p,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:42.181Z,penal ,e,e,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:42.341Z,penal ,n,n,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:42.397Z,penal ,a,a,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:42.588Z,penal ,l,l,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:42.847Z,penal , , ,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:45.509Z,pixie ,p,p,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:45.862Z,pixie ,i,i,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:46.430Z,pixie ,x,x,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:46.645Z,pixie ,i,i,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:46.781Z,pixie ,e,e,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:46.972Z,pixie , , ,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:47.245Z,shalt ,s,s,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:47.366Z,shalt ,h,h,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:47.836Z,shalt ,a,a,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:48.109Z,shalt ,l,l,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:48.367Z,shalt ,t,t,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:48.580Z,shalt , , ,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:48.954Z,strap ,s,s,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:49.278Z,strap ,t,t,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:49.631Z,strap ,r,r,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:49.749Z,strap ,a,a,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:50.181Z,strap ,p,p,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:50.317Z,strap , , ,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:50.789Z,crypt ,c,c,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:51.381Z,crypt ,r,r,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:51.685Z,crypt ,y,y,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:51.957Z,crypt ,t,p,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:52.766Z,crypt ,p,p,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:52.974Z,crypt ,r,t,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:53.197Z,crypt , ,t,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:53.990Z,stake ,s,s,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:54.477Z,stake ,t,t,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:54.559Z,stake ,a,a,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:54.974Z,stake ,k,k,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:55.150Z,stake ,e,e,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:55.348Z,stake , , ,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:55.602Z,tramp,t,t,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:55.775Z,tramp,r,r,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:55.951Z,tramp,a,a,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:56.278Z,tramp,m,m,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:56.365Z,tramp,y,p,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:47:57.027Z,tramp,p,p,semicolemakdh,6,words,10,wordle,null
+2022-12-12T07:48:01.151Z,beget ,b,b,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:01.634Z,beget ,e,e,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:01.994Z,beget ,g,g,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:02.053Z,beget ,e,e,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:02.437Z,beget ,t,t,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:02.577Z,beget , , ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:02.915Z,chuck ,c,c,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:03.214Z,chuck ,h,h,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:03.406Z,chuck ,u,u,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:03.751Z,chuck ,c,c,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:04.204Z,chuck ,k,k,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:04.389Z,chuck , , ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:04.613Z,squat ,s,s,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:04.875Z,squat ,w,q,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:05.185Z,squat ,q,q,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:05.751Z,squat ,q,u,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:05.950Z,squat ,u,u,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:06.078Z,squat ,a,a,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:06.198Z,squat ,t,t,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:06.363Z,squat , , ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:06.524Z,space ,s,s,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:06.988Z,space ,p,p,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:07.122Z,space ,a,a,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:07.373Z,space ,c,c,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:07.629Z,space ,e,e,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:07.845Z,space , , ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:08.997Z,psalm ,p,p,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:09.098Z,psalm ,s,s,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:09.661Z,psalm ,a,a,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:09.798Z,psalm ,l,l,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:10.149Z,psalm ,m,m,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:10.365Z,psalm , , ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:10.662Z,arose ,a,a,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:11.029Z,arose ,r,r,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:11.175Z,arose ,o,o,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:11.245Z,arose ,s,s,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:11.518Z,arose ,f,e,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:11.871Z,arose ,e,e,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:12.693Z,arose ,e, ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:12.872Z,arose , , ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:13.414Z,loyal ,l,l,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:14.016Z,loyal ,o,o,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:14.094Z,loyal ,t,y,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:14.727Z,loyal ,y,y,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:14.845Z,loyal ,a,a,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:15.038Z,loyal ,l,l,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:15.529Z,loyal , , ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:15.998Z,coral ,c,c,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:16.104Z,coral ,o,o,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:16.695Z,coral ,r,r,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:16.797Z,coral ,a,a,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:16.981Z,coral ,l,l,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:17.177Z,coral , , ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:17.558Z,gaffe ,g,g,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:17.653Z,gaffe ,a,a,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:17.816Z,gaffe ,r,f,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:17.995Z,gaffe ,r,f,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:18.192Z,gaffe ,e,f,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:19.317Z,gaffe ,f,f,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:19.982Z,gaffe ,f,f,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:20.190Z,gaffe ,e,e,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:20.807Z,gaffe ,f, ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:21.343Z,gaffe ,e, ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:21.669Z,gaffe , , ,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:22.452Z,tweet,t,t,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:22.527Z,tweet,w,w,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:22.902Z,tweet,e,e,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:23.080Z,tweet,e,e,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:23.351Z,tweet,t,t,semicolemakdh,7,words,10,wordle,null
+2022-12-12T07:48:29.877Z,dense ,d,d,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:29.941Z,dense ,e,e,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:30.136Z,dense ,s,n,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:30.201Z,dense ,n,n,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:31.141Z,dense ,n,s,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:31.189Z,dense ,s,s,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:31.365Z,dense ,e,e,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:31.719Z,dense , , ,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:32.077Z,hitch ,h,h,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:32.459Z,hitch ,i,i,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:32.814Z,hitch ,t,t,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:33.109Z,hitch ,c,c,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:33.542Z,hitch ,h,h,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:33.718Z,hitch , , ,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:34.631Z,forty ,f,f,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:34.759Z,forty ,o,o,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:34.982Z,forty ,r,r,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:35.144Z,forty ,t,t,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:35.440Z,forty ,y,y,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:35.657Z,forty , , ,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:35.988Z,maple ,m,m,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:36.070Z,maple ,a,a,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:36.959Z,maple ,p,p,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:37.182Z,maple ,l,l,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:37.334Z,maple ,e,e,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:37.774Z,maple , , ,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:38.014Z,rocky ,r,r,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:38.160Z,rocky ,o,o,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:38.329Z,rocky ,c,c,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:38.851Z,rocky ,k,k,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:39.214Z,rocky ,y,y,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:39.376Z,rocky , , ,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:39.912Z,quack ,q,q,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:40.039Z,quack ,u,u,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:40.408Z,quack ,a,a,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:40.791Z,quack ,c,c,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:41.503Z,quack ,k,k,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:41.680Z,quack , , ,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:41.808Z,afoot ,a,a,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:41.945Z,afoot ,r,f,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:42.454Z,afoot ,f,f,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:42.808Z,afoot ,o,o,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:42.991Z,afoot ,o,o,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:43.119Z,afoot ,t,t,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:43.248Z,afoot , , ,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:43.801Z,rocky ,p,r,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:44.102Z,rocky ,o,r,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:44.679Z,rocky ,r,r,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:44.807Z,rocky ,o,o,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:44.945Z,rocky ,c,c,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:45.453Z,rocky ,k,k,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:45.776Z,rocky ,y,y,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:45.927Z,rocky , , ,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:46.342Z,psalm ,p,p,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:46.489Z,psalm ,s,s,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:46.870Z,psalm ,a,a,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:47.062Z,psalm ,l,l,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:47.337Z,psalm ,m,m,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:47.763Z,psalm , , ,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:47.881Z,stunt,s,s,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:48.005Z,stunt,t,t,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:48.272Z,stunt,u,u,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:48.743Z,stunt,n,n,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:49.011Z,stunt,t,t,semicolemakdh,8,words,10,wordle,null
+2022-12-12T07:48:54.365Z,shuck ,s,s,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:54.426Z,shuck ,h,h,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:54.671Z,shuck ,u,u,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:54.993Z,shuck ,c,c,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:55.199Z,shuck ,k,k,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:55.610Z,shuck , , ,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:55.729Z,aware ,a,a,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:55.830Z,aware ,w,w,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:56.031Z,aware ,a,a,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:56.147Z,aware ,s,r,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:56.318Z,aware ,r,r,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:56.927Z,aware ,r,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:57.008Z,aware ,t,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:57.152Z,aware ,e,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:57.409Z,aware , , ,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:58.431Z,racer ,r,r,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:58.561Z,racer ,e,a,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:58.728Z,racer ,a,a,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:58.887Z,racer ,c,c,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:59.727Z,racer ,a,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:48:59.886Z,racer ,c,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:00.376Z,racer ,a,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:00.497Z,racer ,c,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:00.653Z,racer ,e,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:01.271Z,racer ,r,r,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:01.449Z,racer , , ,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:01.649Z,squat ,s,s,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:02.255Z,squat ,q,q,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:02.423Z,squat ,u,u,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:02.623Z,squat ,a,a,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:02.854Z,squat ,r,t,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:03.407Z,squat ,t,t,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:03.562Z,squat , , ,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:03.682Z,swish ,s,s,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:04.126Z,swish ,w,w,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:04.273Z,swish ,o,i,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:05.034Z,swish ,i,i,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:05.049Z,swish ,s,s,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:05.264Z,swish ,h,h,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:05.438Z,swish , , ,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:05.631Z,along ,a,a,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:05.878Z,along ,l,l,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:06.068Z,along ,o,o,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:06.255Z,along ,n,n,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:06.510Z,along ,g,g,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:06.606Z,along , , ,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:06.832Z,serum ,s,s,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:07.064Z,serum ,e,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:07.331Z,serum ,r,r,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:07.864Z,serum ,u,u,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:08.159Z,serum ,m,m,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:08.311Z,serum , , ,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:08.824Z,breed ,b,b,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:09.030Z,breed ,e,r,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:09.232Z,breed ,r,r,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:09.391Z,breed ,r,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:09.586Z,breed ,d,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:10.506Z,breed ,r,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:10.775Z,breed ,e,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:10.952Z,breed ,e,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:11.073Z,breed ,d,d,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:11.183Z,breed , , ,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:11.560Z,stint ,s,s,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:11.733Z,stint ,t,t,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:12.149Z,stint ,i,i,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:12.490Z,stint ,n,n,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:12.943Z,stint ,t,t,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:13.195Z,stint , , ,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:13.481Z,agile,a,a,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:13.695Z,agile,g,g,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:13.896Z,agile,i,i,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:14.328Z,agile,l,l,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:14.634Z,agile,e,e,semicolemakdh,9,words,10,wordle,null
+2022-12-12T07:49:18.751Z,tempo ,t,t,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:18.815Z,tempo ,a,e,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:19.064Z,tempo ,m,e,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:19.918Z,tempo ,e,e,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:20.270Z,tempo ,m,m,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:20.698Z,tempo ,p,p,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:20.799Z,tempo ,o,o,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:20.979Z,tempo , , ,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:21.440Z,bloat ,b,b,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:21.746Z,bloat ,l,l,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:21.920Z,bloat ,o,o,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:22.104Z,bloat ,a,a,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:22.298Z,bloat ,t,t,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:22.466Z,bloat , , ,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:22.718Z,overt ,o,o,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:22.865Z,overt ,v,v,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:23.055Z,overt ,e,e,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:23.255Z,overt ,r,r,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:23.375Z,overt ,t,t,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:23.547Z,overt , , ,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:23.703Z,dryly ,r,d,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:24.081Z,dryly ,d,d,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:24.744Z,dryly ,d,r,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:25.099Z,dryly ,r,r,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:25.401Z,dryly ,y,y,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:25.737Z,dryly ,l,l,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:25.930Z,dryly ,y,y,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:26.129Z,dryly , , ,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:27.220Z,young ,y,y,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:27.471Z,young ,o,o,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:27.566Z,young ,u,u,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:27.745Z,young , ,n,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:27.943Z,datum ,g,d,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:29.335Z,datum ,d,d,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:29.419Z,datum ,a,a,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:29.591Z,datum ,r,t,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:30.553Z,datum ,t,t,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:30.640Z,datum ,u,u,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:30.839Z,datum ,m,m,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:31.143Z,datum , , ,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:31.424Z,ester ,e,e,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:31.527Z,ester ,s,s,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:31.849Z,ester ,t,t,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:32.007Z,ester ,e,e,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:32.273Z,ester ,r,r,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:32.418Z,ester , , ,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:32.769Z,waist ,w,w,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:33.337Z,waist ,a,a,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:33.480Z,waist ,i,i,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:33.648Z,waist ,s,s,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:33.895Z,waist ,t,t,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:34.042Z,waist , , ,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:34.519Z,baggy ,b,b,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:34.628Z,baggy ,a,a,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:34.841Z,baggy ,g,g,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:35.033Z,baggy ,g,g,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:35.242Z,baggy ,y,y,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:35.340Z,baggy , , ,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:35.554Z,offer,o,o,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:36.055Z,offer,f,f,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:36.210Z,offer,f,f,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:36.409Z,offer,e,e,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:36.563Z,offer,r,r,semicolemakdh,10,words,10,wordle,null
+2022-12-12T07:49:44.090Z,fetch ,f,f,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:44.232Z,fetch ,e,e,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:44.543Z,fetch ,t,t,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:44.895Z,fetch ,c,c,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:45.271Z,fetch ,h,h,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:45.400Z,fetch , , ,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:45.654Z,align ,a,a,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:46.209Z,align ,l,l,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:46.384Z,align ,i,i,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:46.631Z,align ,g,g,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:46.888Z,align ,n,n,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:47.077Z,align , , ,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:47.262Z,slang ,s,s,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:47.511Z,slang ,l,l,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:47.648Z,slang ,a,a,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:47.847Z,slang ,n,n,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:47.983Z,slang ,t,g,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:48.105Z,slang , ,g,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:49.111Z,iliac ,i,i,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:49.241Z,iliac ,l,l,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:49.473Z,iliac ,i,i,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:49.626Z,iliac ,l,a,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:49.937Z,iliac ,a,a,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:50.543Z,iliac ,a,c,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:50.745Z,iliac ,c,c,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:50.879Z,iliac , , ,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:51.548Z,lodge ,o,l,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:52.121Z,lodge ,l,l,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:52.249Z,lodge ,o,o,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:52.562Z,lodge ,d,d,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:52.984Z,lodge ,g,g,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:53.090Z,lodge ,e,e,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:53.292Z,lodge , , ,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:53.577Z,stole ,s,s,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:53.674Z,stole ,t,t,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:54.169Z,stole ,o,o,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:54.362Z,stole ,l,l,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:54.536Z,stole ,e,e,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:54.967Z,stole , , ,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:55.301Z,baggy ,b,b,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:55.533Z,baggy ,a,a,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:55.748Z,baggy ,g,g,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:55.920Z,baggy ,g,g,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:56.162Z,baggy ,y,y,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:56.299Z,baggy , , ,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:57.072Z,tarot ,b,t,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:57.259Z,tarot ,o,t,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:57.859Z,tarot ,t,t,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:58.000Z,tarot ,o,a,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:58.152Z,tarot ,r,a,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:58.930Z,tarot ,a,a,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:59.033Z,tarot ,r,r,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:59.624Z,tarot ,o,o,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:59.769Z,tarot ,t,t,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:49:59.915Z,tarot , , ,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:00.378Z,psalm ,p,p,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:00.748Z,psalm ,s,s,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:00.961Z,psalm ,a,a,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:01.168Z,psalm ,l,l,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:01.913Z,psalm ,m,m,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:02.088Z,psalm , , ,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:02.507Z,dense,d,d,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:02.655Z,dense,e,e,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:02.967Z,dense,n,n,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:03.100Z,dense,s,s,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:03.372Z,dense,e,e,semicolemakdh,11,words,10,wordle,null
+2022-12-12T07:50:05.156Z,seven ,s,s,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:05.221Z,seven ,e,e,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:05.525Z,seven ,v,v,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:05.590Z,seven ,e,e,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:05.804Z,seven ,n,n,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:05.938Z,seven , , ,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:06.084Z,shelf ,s,s,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:06.313Z,shelf ,h,h,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:06.645Z,shelf ,e,e,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:06.939Z,shelf ,l,l,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:07.339Z,shelf ,f,f,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:07.480Z,shelf , , ,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:08.176Z,credo ,c,c,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:08.744Z,credo ,r,r,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:08.872Z,credo ,e,e,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:09.370Z,credo ,t,d,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:09.616Z,credo ,o,d,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:10.247Z,credo ,d,d,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:10.361Z,credo ,o,o,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:10.497Z,credo , , ,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:10.912Z,dryer ,d,d,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:11.576Z,dryer ,r,r,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:11.921Z,dryer ,l,y,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:12.713Z,dryer ,r,y,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:13.184Z,dryer ,',y,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:14.113Z,dryer ,y,y,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:14.242Z,dryer ,r,e,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:15.309Z,dryer ,e,e,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:15.394Z,dryer ,r,r,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:15.578Z,dryer , , ,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:15.968Z,medal ,m,m,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:16.647Z,medal ,r,e,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:16.962Z,medal ,d,e,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:17.753Z,medal ,e,e,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:17.857Z,medal ,d,d,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:17.920Z,medal ,a,a,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:18.179Z,medal ,l,l,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:18.449Z,medal , , ,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:18.784Z,hitch ,h,h,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:19.644Z,hitch ,i,i,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:19.873Z,hitch ,t,t,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:20.482Z,hitch ,c,c,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:20.721Z,hitch ,h,h,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:20.953Z,hitch , , ,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:21.853Z,draft ,d,d,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:22.083Z,draft ,r,r,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:22.298Z,draft ,a,a,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:22.498Z,draft ,t,f,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:23.552Z,draft ,f,f,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:23.905Z,draft ,t,t,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:24.067Z,draft , , ,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:24.763Z,realm ,r,r,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:24.929Z,realm ,e,e,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:25.034Z,realm ,a,a,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:25.173Z,realm ,t,l,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:26.010Z,realm ,l,l,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:26.241Z,realm ,m,m,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:26.366Z,realm , , ,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:26.715Z,drank ,d,d,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:27.010Z,drank ,r,r,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:27.171Z,drank ,a,a,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:28.841Z,drank ,n,n,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:29.333Z,drank ,k,k,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:29.509Z,drank , , ,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:29.770Z,afoul,a,a,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:30.042Z,afoul,f,f,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:30.249Z,afoul,o,o,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:30.425Z,afoul,u,u,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:30.659Z,afoul,l,l,semicolemakdh,12,words,10,wordle,null
+2022-12-12T07:50:33.129Z,young ,y,y,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:33.291Z,young ,o,o,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:33.443Z,young ,u,u,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:33.995Z,young ,g,n,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:34.674Z,young ,n,n,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:34.780Z,young ,g,g,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:34.876Z,young , , ,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:35.363Z,racer ,r,r,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:35.553Z,racer ,a,a,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:35.811Z,racer ,c,c,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:36.026Z,racer ,e,e,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:36.242Z,racer ,r,r,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:36.380Z,racer , , ,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:36.689Z,grope ,g,g,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:37.300Z,grope ,r,r,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:37.631Z,grope ,o,o,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:38.101Z,grope ,p,p,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:38.288Z,grope ,e,e,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:38.521Z,grope , , ,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:39.120Z,frond ,f,f,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:39.509Z,frond ,r,r,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:39.794Z,frond ,o,o,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:39.954Z,frond ,n,n,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:40.268Z,frond ,d,d,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:40.425Z,frond , , ,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:40.852Z,cedar ,c,c,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:41.149Z,cedar ,e,e,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:41.651Z,cedar ,r,d,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:41.869Z,cedar ,a,d,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:43.371Z,cedar ,d,d,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:43.689Z,cedar ,a,a,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:43.842Z,cedar ,r,r,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:44.113Z,cedar , , ,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:44.644Z,young ,y,y,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:44.859Z,young ,o,o,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:44.970Z,young ,u,u,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:45.310Z,young ,g,n,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:45.929Z,young ,n,n,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:46.034Z,young ,g,g,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:46.161Z,young , , ,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:46.540Z,lodge ,l,l,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:46.675Z,lodge ,o,o,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:47.850Z,lodge ,d,d,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:48.082Z,lodge ,r,g,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:48.946Z,lodge ,g,g,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:49.293Z,lodge ,e,e,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:49.525Z,lodge , , ,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:49.710Z,stock ,s,s,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:49.907Z,stock ,t,t,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:50.159Z,stock ,o,o,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:50.897Z,stock ,c,c,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:51.146Z,stock ,h,k,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:51.955Z,stock ,k,k,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:52.094Z,stock , , ,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:52.250Z,cause ,c,c,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:52.663Z,cause ,a,a,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:52.785Z,cause ,s,u,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:53.697Z,cause ,u,u,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:53.780Z,cause ,s,s,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:53.988Z,cause ,e,e,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:54.164Z,cause , , ,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:54.460Z,agile,a,a,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:54.650Z,agile,g,g,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:54.922Z,agile,i,i,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:55.802Z,agile,l,l,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:50:55.967Z,agile,e,e,semicolemakdh,13,words,10,wordle,null
+2022-12-12T07:51:35.950Z,cause ,c,c,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:36.031Z,cause ,a,a,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:36.253Z,cause ,u,u,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:36.355Z,cause ,s,s,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:36.583Z,cause ,e,e,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:36.782Z,cause , , ,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:37.324Z,joust ,j,j,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:37.534Z,joust ,o,o,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:37.619Z,joust ,u,u,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:37.748Z,joust ,s,s,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:37.884Z,joust ,t,t,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:38.031Z,joust , , ,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:38.307Z,shape ,s,s,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:38.501Z,shape ,h,h,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:38.633Z,shape ,a,a,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:39.076Z,shape ,p,p,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:39.219Z,shape ,e,e,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:39.454Z,shape , , ,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:39.583Z,arose ,a,a,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:40.002Z,arose ,r,r,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:40.119Z,arose ,o,o,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:40.286Z,arose ,s,s,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:40.750Z,arose ,e,e,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:40.939Z,arose , , ,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:41.574Z,tramp ,t,t,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:41.907Z,tramp ,f,r,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:42.572Z,tramp ,r,r,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:42.691Z,tramp ,a,a,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:43.053Z,tramp ,m,m,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:43.589Z,tramp ,p,p,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:43.724Z,tramp , , ,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:43.955Z,offer ,o,o,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:44.120Z,offer ,f,f,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:44.293Z,offer ,f,f,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:44.507Z,offer ,r,e,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:44.580Z,offer ,e,e,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:45.459Z,offer ,e,r,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:45.547Z,offer ,r,r,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:45.659Z,offer , , ,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:45.837Z,least ,l,l,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:46.039Z,least ,s,e,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:46.212Z,least ,e,e,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:46.327Z,least ,a,a,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:47.243Z,least ,e,s,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:47.404Z,least ,a,s,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:47.501Z,least ,s,s,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:47.983Z,least ,t,t,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:48.126Z,least , , ,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:48.493Z,thief ,t,t,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:48.574Z,thief ,h,h,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:49.021Z,thief ,i,i,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:49.211Z,thief ,e,e,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:49.668Z,thief ,f,f,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:49.844Z,thief , , ,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:50.179Z,credo ,c,c,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:50.732Z,credo ,r,r,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:51.223Z,credo ,f,e,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:51.390Z,credo ,e,e,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:52.190Z,credo ,e,d,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:52.803Z,credo ,d,d,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:52.886Z,credo ,o,o,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:53.083Z,credo , , ,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:53.446Z,crypt,c,c,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:53.996Z,crypt,r,r,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:54.300Z,crypt,y,y,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:54.543Z,crypt,t,p,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:55.757Z,crypt,p,p,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:56.016Z,crypt,t,t,semicolemakdh,14,words,10,wordle,null
+2022-12-12T07:51:59.398Z,skate ,s,s,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:51:59.501Z,skate ,k,k,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:51:59.635Z,skate ,a,a,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:00.221Z,skate ,t,t,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:00.302Z,skate ,e,e,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:00.534Z,skate , , ,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:00.939Z,poise ,p,p,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:01.124Z,poise ,o,o,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:01.244Z,poise ,u,i,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:01.991Z,poise ,i,i,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:02.054Z,poise ,s,s,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:02.220Z,poise ,e,e,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:02.589Z,poise , , ,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:03.321Z,horde ,h,h,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:03.428Z,horde ,o,o,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:03.688Z,horde ,r,r,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:03.974Z,horde ,d,d,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:04.157Z,horde ,e,e,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:04.375Z,horde , , ,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:05.397Z,shape ,s,s,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:05.566Z,shape ,h,h,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:05.812Z,shape ,a,a,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:06.169Z,shape ,p,p,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:06.287Z,shape ,e,e,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:06.542Z,shape ,e, ,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:07.288Z,shape , , ,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:08.009Z,bevel ,b,b,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:08.165Z,bevel ,e,e,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:08.453Z,bevel ,v,v,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:08.814Z,bevel ,e,e,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:09.044Z,bevel ,l,l,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:09.236Z,bevel , , ,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:09.620Z,plunk ,p,p,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:10.044Z,plunk ,l,l,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:10.358Z,plunk ,u,u,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:11.196Z,plunk ,n,n,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:12.098Z,plunk ,k,k,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:12.252Z,plunk , , ,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:13.402Z,beget ,b,b,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:13.541Z,beget ,e,e,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:13.788Z,beget ,g,g,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:13.894Z,beget ,e,e,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:14.281Z,beget ,t,t,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:14.445Z,beget , , ,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:14.757Z,loyal ,l,l,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:15.285Z,loyal ,o,o,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:16.156Z,loyal ,y,y,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:16.509Z,loyal ,a,a,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:16.956Z,loyal ,l,l,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:17.292Z,loyal , , ,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:18.055Z,grope ,g,g,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:18.446Z,grope ,r,r,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:18.905Z,grope ,o,o,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:19.308Z,grope ,p,p,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:19.487Z,grope ,e,e,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:19.724Z,grope , , ,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:19.909Z,snaky,s,s,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:20.108Z,snaky,h,n,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:20.260Z,snaky,a,n,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:21.071Z,snaky,n,n,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:21.108Z,snaky,a,a,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:21.324Z,snaky,k,k,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:21.641Z,snaky,y,y,semicolemakdh,15,words,10,wordle,null
+2022-12-12T07:52:55.809Z,drank ,d,d,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:55.885Z,drank ,r,r,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:55.966Z,drank ,a,a,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:56.270Z,drank ,n,n,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:56.662Z,drank ,k,k,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:56.895Z,drank , , ,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:57.237Z,grown ,g,g,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:57.670Z,grown ,r,r,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:58.071Z,grown ,o,o,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:58.453Z,grown ,w,w,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:58.582Z,grown ,n,n,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:58.774Z,grown , , ,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:59.470Z,quoth ,q,q,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:52:59.735Z,quoth ,u,u,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:00.183Z,quoth ,o,o,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:00.446Z,quoth ,t,t,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:00.614Z,quoth ,h,h,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:00.829Z,quoth , , ,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:01.208Z,locus ,l,l,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:01.343Z,locus ,o,o,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:01.543Z,locus ,c,c,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:01.710Z,locus ,u,u,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:01.831Z,locus ,s,s,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:02.006Z,locus , , ,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:02.222Z,swish ,s,s,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:02.504Z,swish ,w,w,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:02.754Z,swish ,i,i,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:03.087Z,swish ,s,s,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:03.351Z,swish ,h,h,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:03.591Z,swish , , ,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:04.024Z,quack ,q,q,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:04.133Z,quack ,u,u,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:04.398Z,quack ,a,a,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:04.888Z,quack ,d,c,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:05.565Z,quack ,c,c,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:05.911Z,quack ,k,k,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:06.111Z,quack , , ,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:06.350Z,credo ,c,c,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:06.996Z,credo ,e,r,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:07.449Z,credo ,r,r,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:07.593Z,credo ,e,e,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:07.918Z,credo ,d,d,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:08.008Z,credo ,o,o,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:08.199Z,credo , , ,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:08.607Z,prank ,p,p,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:09.056Z,prank ,r,r,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:09.192Z,prank ,a,a,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:09.446Z,prank ,n,n,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:09.838Z,prank ,k,k,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:10.097Z,prank , , ,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:10.801Z,micro ,m,m,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:11.031Z,micro ,i,i,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:11.364Z,micro ,c,c,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:12.238Z,micro ,r,r,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:12.344Z,micro ,o,o,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:12.583Z,micro , , ,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:12.827Z,steep,s,s,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:13.022Z,steep,t,t,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:13.502Z,steep,e,e,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:13.670Z,steep,e,e,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:13.905Z,steep,p,p,semicolemakdh,16,words,10,wordle,null
+2022-12-12T07:53:19.308Z,bleak ,b,b,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:19.574Z,bleak ,l,l,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:19.791Z,bleak ,e,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:19.910Z,bleak ,a,a,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:20.385Z,bleak ,k,k,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:20.541Z,bleak , , ,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:21.124Z,jumbo ,n,j,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:21.807Z,jumbo ,j,j,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:22.434Z,jumbo ,u,u,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:22.810Z,jumbo ,m,m,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:23.425Z,jumbo ,b,b,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:23.550Z,jumbo ,o,o,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:23.771Z,jumbo , , ,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:24.462Z,debit ,d,d,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:24.646Z,debit ,e,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:25.073Z,debit ,b,b,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:25.342Z,debit ,i,i,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:25.559Z,debit ,t,t,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:25.662Z,debit , , ,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:26.325Z,deity ,r,d,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:26.892Z,deity ,d,d,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:27.210Z,deity ,e,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:27.519Z,deity ,i,i,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:28.096Z,deity ,t,t,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:28.382Z,deity ,y,y,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:28.563Z,deity , , ,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:28.881Z,conch ,c,c,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:29.022Z,conch ,o,o,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:29.202Z,conch ,n,n,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:29.486Z,conch ,c,c,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:29.810Z,conch ,h,h,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:29.998Z,conch , , ,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:30.311Z,three ,t,t,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:30.471Z,three ,h,h,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:31.072Z,three ,r,r,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:31.177Z,three ,e,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:31.335Z,three ,e,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:31.530Z,three , , ,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:31.762Z,theta ,t,t,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:31.839Z,theta ,h,h,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:32.083Z,theta ,e,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:32.398Z,theta ,t,t,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:32.438Z,theta ,a,a,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:32.653Z,theta , , ,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:32.888Z,skate ,s,s,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:33.167Z,skate ,k,k,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:33.422Z,skate ,e,a,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:33.710Z,skate ,a,a,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:34.318Z,skate ,a,t,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:34.464Z,skate ,e,t,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:34.592Z,skate ,t,t,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:34.729Z,skate ,f,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:36.151Z,skate ,t,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:36.336Z,skate ,e,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:36.449Z,skate ,f, ,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:37.254Z,skate , , ,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:37.819Z,maple ,m,m,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:37.869Z,maple ,a,a,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:38.192Z,maple ,p,p,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:38.536Z,maple ,l,l,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:38.984Z,maple ,i,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:39.190Z,maple , ,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:40.082Z,medal,m,m,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:40.455Z,medal,a,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:40.926Z,medal,r,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:41.872Z,medal,e,e,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:42.094Z,medal,d,d,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:42.159Z,medal,a,a,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:42.424Z,medal,l,l,semicolemakdh,17,words,10,wordle,null
+2022-12-12T07:53:44.982Z,boxer ,b,b,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:45.041Z,boxer ,o,o,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:45.351Z,boxer ,x,x,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:45.689Z,boxer ,e,e,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:45.775Z,boxer ,r,r,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:46.138Z,boxer , , ,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:46.447Z,ninth ,n,n,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:46.585Z,ninth ,i,i,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:47.072Z,ninth ,n,n,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:47.444Z,ninth ,t,t,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:47.561Z,ninth ,h,h,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:47.760Z,ninth , , ,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:48.062Z,comfy ,c,c,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:48.209Z,comfy ,o,o,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:48.793Z,comfy ,g,m,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:49.591Z,comfy ,m,m,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:50.185Z,comfy ,p,f,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:50.377Z,comfy ,y,f,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:51.191Z,comfy ,p,f,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:51.865Z,comfy ,f,f,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:52.406Z,comfy ,y,y,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:52.619Z,comfy , , ,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:52.783Z,steak ,s,s,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:52.963Z,steak ,t,t,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:53.256Z,steak ,e,e,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:53.448Z,steak ,a,a,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:54.025Z,steak ,k,k,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:54.233Z,steak , , ,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:54.561Z,mayor ,m,m,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:54.672Z,mayor ,a,a,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:54.974Z,mayor ,y,y,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:55.249Z,mayor ,o,o,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:55.680Z,mayor ,r,r,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:55.849Z,mayor , , ,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:56.166Z,stint ,s,s,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:56.348Z,stint ,t,t,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:56.539Z,stint ,i,i,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:56.713Z,stint ,n,n,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:57.202Z,stint ,e,t,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:57.359Z,stint ,t,t,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:58.103Z,stint ,t, ,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:58.239Z,stint , , ,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:58.578Z,strap ,s,s,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:58.785Z,strap ,t,t,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:59.247Z,strap ,a,r,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:59.727Z,strap ,r,r,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:53:59.785Z,strap ,a,a,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:00.256Z,strap ,p,p,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:00.434Z,strap , , ,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:00.857Z,young ,y,y,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:01.076Z,young ,o,o,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:01.173Z,young ,u,u,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:01.624Z,young ,g,n,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:01.759Z,young , ,n,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:02.912Z,rebel ,r,r,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:02.939Z,rebel ,e,e,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:04.873Z,rebel ,b,b,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:04.968Z,rebel ,e,e,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:05.400Z,rebel ,l,l,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:06.002Z,rebel , , ,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:06.144Z,space,s,s,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:06.825Z,space,p,p,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:06.945Z,space,a,a,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:07.552Z,space,c,c,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:07.687Z,space,e,e,semicolemakdh,18,words,10,wordle,null
+2022-12-12T07:54:18.810Z,bonus ,b,b,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:18.928Z,bonus ,o,o,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:19.480Z,bonus ,n,n,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:19.634Z,bonus ,u,u,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:19.688Z,bonus ,s,s,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:19.900Z,bonus , , ,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:20.104Z,shove ,s,s,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:20.296Z,shove ,h,h,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:20.409Z,shove ,o,o,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:20.610Z,shove ,v,v,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:20.745Z,shove ,e,e,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:20.949Z,shove , , ,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:21.257Z,frond ,r,f,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:21.803Z,frond ,f,f,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:22.018Z,frond ,r,r,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:22.232Z,frond ,o,o,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:22.328Z,frond ,n,n,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:22.804Z,frond ,d,d,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:22.957Z,frond , , ,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:23.155Z,deity ,r,d,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:23.742Z,deity ,d,d,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:23.928Z,deity ,e,e,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:24.266Z,deity ,i,i,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:24.523Z,deity ,t,t,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:24.714Z,deity ,y,y,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:24.932Z,deity , , ,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:25.065Z,seven ,s,s,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:25.360Z,seven ,e,e,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:25.705Z,seven ,v,v,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:25.849Z,seven ,e,e,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:26.080Z,seven ,n,n,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:26.217Z,seven , , ,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:27.217Z,dryer ,d,d,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:27.416Z,dryer ,r,r,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:27.791Z,dryer ,y,y,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:28.547Z,dryer ,e,e,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:28.627Z,dryer ,r,r,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:28.859Z,dryer , , ,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:28.977Z,ester ,s,e,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:29.129Z,ester ,e,e,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:29.232Z,ester ,s,s,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:30.168Z,ester ,e,t,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:30.736Z,ester ,s,t,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:31.249Z,ester ,t,t,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:31.379Z,ester ,e,e,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:31.562Z,ester ,r,r,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:31.774Z,ester , , ,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:32.177Z,young ,y,y,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:32.336Z,young ,o,o,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:32.552Z,young ,u,u,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:32.984Z,young ,n,n,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:33.203Z,young ,g,g,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:33.330Z,young , , ,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:33.689Z,savoy ,s,s,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:33.841Z,savoy ,a,a,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:33.986Z,savoy ,v,v,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:34.274Z,savoy ,o,o,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:34.467Z,savoy ,l,y,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:35.446Z,savoy ,y,y,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:35.699Z,savoy , , ,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:35.883Z,slang,s,s,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:36.089Z,slang,l,l,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:36.564Z,slang,a,a,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:37.810Z,slang,n,n,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:54:37.971Z,slang,g,g,semicolemakdh,19,words,10,wordle,null
+2022-12-12T07:55:03.112Z,loyal ,l,l,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:03.344Z,loyal ,o,o,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:03.466Z,loyal ,y,y,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:04.434Z,loyal ,a,a,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:04.697Z,loyal ,j,l,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:05.049Z,loyal , ,l,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:06.125Z,junto ,j,j,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:06.281Z,junto ,u,u,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:06.665Z,junto ,n,n,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:06.828Z,junto ,t,t,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:06.950Z,junto ,o,o,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:07.142Z,junto , , ,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:07.369Z,aware ,a,a,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:07.585Z,aware ,w,w,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:07.737Z,aware ,a,a,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:08.331Z,aware ,e,r,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:08.951Z,aware ,r,r,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:09.077Z,aware ,e,e,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:09.249Z,aware , , ,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:09.514Z,stern ,s,s,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:09.682Z,stern ,t,t,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:09.851Z,stern ,e,e,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:10.398Z,stern ,r,r,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:10.598Z,stern ,n,n,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:10.814Z,stern , , ,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:10.984Z,shirk ,s,s,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:11.186Z,shirk ,h,h,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:11.381Z,shirk ,i,i,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:12.083Z,shirk ,r,r,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:12.516Z,shirk ,k,k,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:12.674Z,shirk , , ,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:12.985Z,loyal ,l,l,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:13.084Z,loyal ,o,o,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:13.786Z,loyal ,y,y,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:14.057Z,loyal ,a,a,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:14.219Z,loyal ,l,l,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:14.452Z,loyal , , ,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:14.917Z,bible ,b,b,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:15.139Z,bible ,i,i,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:15.537Z,bible ,b,b,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:15.860Z,bible ,l,l,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:15.995Z,bible ,e,e,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:16.254Z,bible , , ,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:16.945Z,fishy ,f,f,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:17.716Z,fishy ,f,i,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:17.821Z,fishy ,e,i,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:18.562Z,fishy ,i,i,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:18.653Z,fishy ,s,s,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:18.853Z,fishy ,h,h,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:19.203Z,fishy ,y,y,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:19.379Z,fishy , , ,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:20.088Z,forty ,f,f,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:20.542Z,forty ,o,o,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:20.804Z,forty ,r,r,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:21.193Z,forty ,t,t,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:21.587Z,forty ,y,y,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:21.768Z,forty , , ,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:22.021Z,frond,f,f,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:22.393Z,frond,r,r,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:22.683Z,frond,o,o,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:22.762Z,frond,n,n,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:23.267Z,frond,d,d,semicolemakdh,20,words,10,wordle,null
+2022-12-12T07:55:37.885Z,swath ,t,s,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:37.940Z,swath ,h,s,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:38.022Z,swath ,o,s,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:38.076Z,swath ,s,s,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:38.739Z,swath ,e,w,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:38.899Z,swath , ,w,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:39.252Z,wager ,l,w,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:39.346Z,wager ,o,w,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:39.525Z,wager ,o,w,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:39.758Z,wager ,k,w,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:39.913Z,wager , ,w,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:40.282Z,seven ,n,s,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:40.389Z,seven ,o,s,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:40.498Z,seven ,t,s,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:40.638Z,seven , ,s,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:41.012Z,horde ,o,h,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:41.227Z,horde ,v,h,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:41.326Z,horde ,e,h,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:41.498Z,horde ,r,h,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:41.637Z,horde , ,h,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:42.077Z,locus ,k,l,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:42.125Z,locus ,a,l,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:42.947Z,locus ,h,l,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:43.002Z,locus ,a,l,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:43.195Z,locus ,v,l,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:43.278Z,locus ,e,l,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:43.450Z,locus , ,l,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:43.710Z,puppy ,s,p,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:43.876Z,puppy ,h,p,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:43.996Z,puppy ,o,p,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:44.212Z,puppy ,u,p,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:44.427Z,puppy ,l,p,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:44.972Z,puppy ,d,p,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:45.078Z,puppy , ,p,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:45.515Z,ready ,s,r,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:45.665Z,ready ,h,r,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:45.700Z,ready ,o,r,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:46.099Z,ready ,w,r,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:46.212Z,ready , ,r,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:46.563Z,mammy ,s,m,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:46.692Z,mammy ,h,m,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:46.800Z,mammy ,e,m,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:47.031Z,mammy , ,m,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:47.206Z,debit ,w,d,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:47.324Z,debit ,o,d,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:47.525Z,debit ,u,d,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:47.851Z,debit ,l,d,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:48.268Z,debit ,d,d,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:48.445Z,debit , ,e,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:48.587Z,micro,a,m,semicolemakdh,21,words,10,wordle,null
+2022-12-12T07:55:50.752Z,again ,a,a,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:50.923Z,again ,g,g,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:51.029Z,again ,a,a,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:51.275Z,again ,i,i,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:51.454Z,again ,n,n,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:51.616Z,again , , ,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:52.118Z,just ,l,j,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:52.122Z,just ,j,j,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:53.059Z,just ,j,u,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:53.196Z,just ,u,u,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:53.335Z,just ,s,s,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:53.469Z,just ,t,t,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:53.624Z,just , , ,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:54.202Z,find ,f,f,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:54.539Z,find ,i,i,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:54.703Z,find ,n,n,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:55.038Z,find ,d,d,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:55.195Z,find , , ,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:55.293Z,ask ,a,a,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:55.422Z,ask ,s,s,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:55.856Z,ask ,k,k,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:56.043Z,ask , , ,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:56.286Z,take ,t,t,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:56.339Z,take ,a,a,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:56.692Z,take ,e,k,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:56.963Z,take ,k,k,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:57.660Z,take ,k,e,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:57.765Z,take ,e,e,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:57.926Z,take , , ,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:58.316Z,while ,s,w,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:59.140Z,while ,w,w,semicolemakdh,22,words,10,english,null
+2022-12-12T07:55:59.332Z,while ,h,h,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:00.023Z,while ,i,i,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:00.173Z,while ,l,l,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:00.346Z,while ,e,e,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:00.547Z,while , , ,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:00.682Z,any ,s,a,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:01.250Z,any ,a,a,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:02.148Z,any ,n,n,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:02.283Z,any ,y,y,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:02.557Z,any , , ,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:03.027Z,know ,h,k,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:03.084Z,know ,o,k,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:03.884Z,know ,e,k,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:04.494Z,know ,k,k,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:04.965Z,know ,n,n,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:05.006Z,know ,o,o,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:05.261Z,know ,w,w,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:05.380Z,know , , ,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:05.710Z,group ,g,g,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:05.926Z,group ,p,r,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:06.531Z,group ,r,r,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:06.727Z,group ,o,o,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:07.020Z,group ,u,u,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:07.588Z,group ,p,p,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:07.737Z,group , , ,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:08.078Z,life,l,l,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:08.306Z,life,i,i,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:08.781Z,life,f,f,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:08.971Z,life,e,e,semicolemakdh,22,words,10,english,null
+2022-12-12T07:56:10.862Z,late ,l,l,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:10.988Z,late ,a,a,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:11.179Z,late ,t,t,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:11.533Z,late ,e,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:11.632Z,late , , ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:11.883Z,leave ,l,l,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:12.139Z,leave ,e,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:12.476Z,leave ,a,a,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:12.803Z,leave ,v,v,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:12.901Z,leave ,e,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:13.058Z,leave , , ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:13.255Z,look ,l,l,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:13.429Z,look ,o,o,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:13.652Z,look ,o,o,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:14.117Z,look ,k,k,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:14.372Z,look , , ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:14.587Z,see ,s,s,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:14.701Z,see ,e,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:14.875Z,see ,e,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:15.083Z,see , , ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:15.271Z,use ,u,u,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:15.371Z,use ,s,s,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:15.539Z,use ,e,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:15.741Z,use , , ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:15.999Z,with ,w,w,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:16.231Z,with ,i,i,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:16.587Z,with ,t,t,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:16.653Z,with ,h,h,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:16.796Z,with , , ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:17.398Z,need ,n,n,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:17.598Z,need ,f,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:17.781Z,need ,f,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:18.589Z,need ,e,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:18.748Z,need ,e,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:18.947Z,need ,d,d,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:19.043Z,need , , ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:19.805Z,more ,m,m,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:19.859Z,more ,o,o,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:20.021Z,more ,r,r,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:20.238Z,more ,e,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:20.443Z,more , , ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:20.873Z,number ,m,n,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:20.981Z,number ,u,n,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:21.780Z,number ,n,n,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:21.895Z,number ,u,u,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:22.053Z,number ,m,m,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:22.988Z,number ,m,b,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:23.678Z,number ,b,b,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:23.852Z,number ,e,e,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:23.988Z,number ,r,r,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:24.068Z,number ,t, ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:24.835Z,number ,w, ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:25.803Z,number , , ,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:26.035Z,with,w,w,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:26.155Z,with,i,i,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:26.633Z,with,t,t,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:26.662Z,with,h,h,semicolemakdh,23,words,10,english,null
+2022-12-12T07:56:38.947Z,just ,j,j,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:39.085Z,just ,u,u,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:39.180Z,just ,s,s,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:39.496Z,just ,t,t,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:39.670Z,just , , ,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:40.241Z,but ,b,b,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:40.427Z,but ,u,u,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:40.644Z,but ,t,t,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:40.747Z,but , , ,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:40.995Z,world ,w,w,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:41.484Z,world ,o,o,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:42.254Z,world ,r,r,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:42.527Z,world ,l,l,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:42.838Z,world ,d,d,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:42.962Z,world , , ,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:43.229Z,the ,t,t,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:43.382Z,the ,h,h,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:43.462Z,the ,e,e,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:43.649Z,the , , ,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:43.761Z,see ,s,s,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:43.900Z,see ,e,e,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:44.068Z,see ,e,e,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:44.219Z,see , , ,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:44.420Z,program ,p,p,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:45.114Z,program ,r,r,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:45.264Z,program ,o,o,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:45.532Z,program ,g,g,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:46.182Z,program ,r,r,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:46.358Z,program ,a,a,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:46.548Z,program ,m,m,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:46.788Z,program , , ,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:47.029Z,than ,t,t,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:47.140Z,than ,h,h,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:47.340Z,than ,a,a,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:47.551Z,than ,n,n,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:47.767Z,than , , ,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:48.061Z,group ,g,g,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:48.470Z,group ,r,r,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:48.757Z,group ,o,o,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:49.016Z,group ,u,u,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:49.132Z,group ,y,p,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:49.623Z,group ,p,p,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:49.892Z,group , , ,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:50.285Z,leave ,l,l,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:50.519Z,leave ,e,e,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:50.877Z,leave ,a,a,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:51.032Z,leave ,v,v,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:51.324Z,leave ,e,e,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:51.476Z,leave , , ,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:51.924Z,between,b,b,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:52.104Z,between,e,e,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:52.524Z,between,t,t,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:52.756Z,between,w,w,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:52.924Z,between,e,e,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:53.125Z,between,e,e,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:53.358Z,between,n,n,semicolemakdh,24,words,10,english,null
+2022-12-12T07:56:55.041Z,word ,w,w,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:55.172Z,word ,o,o,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:55.909Z,word ,r,r,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:56.142Z,word ,d,d,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:56.310Z,word , , ,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:56.611Z,in ,i,i,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:56.767Z,in ,n,n,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:56.892Z,in , , ,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:57.172Z,it ,i,i,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:57.428Z,it ,t,t,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:57.543Z,it , , ,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:58.260Z,both ,b,b,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:58.440Z,both ,o,o,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:58.612Z,both ,t,t,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:58.790Z,both ,h,h,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:58.935Z,both , , ,semicolemakdh,25,words,10,english,null
+2022-12-12T07:56:59.773Z,feel ,f,f,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:00.008Z,feel ,e,e,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:00.172Z,feel ,e,e,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:00.358Z,feel ,l,l,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:00.521Z,feel , , ,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:00.657Z,work ,w,w,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:00.764Z,work ,o,o,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:01.277Z,work ,d,r,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:01.628Z,work ,k,r,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:02.439Z,work ,t,r,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:02.705Z,work ,k,r,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:03.333Z,work ,r,r,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:03.510Z,work ,k,k,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:03.704Z,work , , ,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:04.173Z,play ,p,p,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:04.505Z,play ,l,l,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:04.624Z,play ,a,a,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:04.813Z,play ,y,y,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:04.992Z,play , , ,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:05.310Z,against ,a,a,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:05.519Z,against ,g,g,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:05.612Z,against ,a,a,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:05.830Z,against ,i,i,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:06.180Z,against ,n,n,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:06.598Z,against ,s,s,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:06.797Z,against ,t,t,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:06.984Z,against , , ,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:07.343Z,problem ,p,p,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:07.652Z,problem ,o,r,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:08.383Z,problem ,r,r,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:08.646Z,problem ,o,o,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:09.100Z,problem ,b,b,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:09.374Z,problem ,l,l,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:09.647Z,problem ,e,e,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:09.820Z,problem ,n,m,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:10.077Z,problem , ,m,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:11.074Z,you,y,y,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:11.225Z,you,o,o,semicolemakdh,25,words,10,english,null
+2022-12-12T07:57:11.310Z,you,u,u,semicolemakdh,25,words,10,english,null
