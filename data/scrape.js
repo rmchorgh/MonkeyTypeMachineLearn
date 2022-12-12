@@ -72,7 +72,7 @@ var monkeyListen = () => {
 
 			if (key.length == 1) monkeyList.push(row);
 
-			if (monkeyQueue[0][0] == key) {
+			if (monkeyQueue[0][0].toLowerCase() == key) {
 				monkeyQueue[0] = monkeyQueue[0].substring(1);
 			}
 
