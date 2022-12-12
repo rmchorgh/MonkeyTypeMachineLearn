@@ -8841,3 +8841,1277 @@ timestamp,activeWord,lastChar,correctChar,layout,testNum,type,length,language,fu
 2022-12-12T09:11:48.501Z,other,l,o,semicolemakdh,49,words,10,english,null
 2022-12-12T09:11:48.590Z,other,a,o,semicolemakdh,49,words,10,english,null
 2022-12-12T09:11:48.797Z,other,n,o,semicolemakdh,49,words,10,english,null
+2022-12-12T09:11:58.542Z,play ,p,p,semicolemakdh,50,words,10,english,null
+2022-12-12T09:11:58.717Z,play ,a,l,semicolemakdh,50,words,10,english,null
+2022-12-12T09:11:58.899Z,play ,y,l,semicolemakdh,50,words,10,english,null
+2022-12-12T09:11:59.036Z,play , ,l,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:00.524Z,little ,l,l,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:00.582Z,little ,i,i,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:01.004Z,little ,t,t,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:01.220Z,little ,t,t,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:01.421Z,little ,l,l,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:01.564Z,little ,e,e,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:01.733Z,little , , ,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:02.164Z,real ,r,r,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:02.396Z,real ,a,e,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:03.302Z,real ,e,e,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:03.355Z,real ,a,a,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:03.556Z,real ,l,l,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:03.654Z,real , , ,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:03.860Z,after ,a,a,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:04.589Z,after ,f,f,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:04.841Z,after ,t,t,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:05.096Z,after ,e,e,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:05.270Z,after ,r,r,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:05.764Z,after , , ,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:05.895Z,around ,a,a,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:06.515Z,around ,p,r,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:07.125Z,around ,r,r,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:07.324Z,around ,o,o,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:07.501Z,around ,u,u,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:07.732Z,around ,n,n,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:08.007Z,around ,d,d,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:08.166Z,around , , ,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:08.523Z,think ,t,t,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:08.709Z,think ,h,h,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:08.912Z,think ,i,i,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:09.733Z,think ,k,n,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:10.805Z,think ,n,n,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:11.035Z,think ,k,k,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:11.132Z,think , , ,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:11.444Z,many ,m,m,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:11.515Z,many ,a,a,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:12.308Z,many ,n,n,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:12.429Z,many ,y,y,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:12.582Z,many , , ,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:12.819Z,such ,s,s,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:12.916Z,such ,u,u,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:13.134Z,such ,c,c,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:13.502Z,such ,h,h,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:13.678Z,such , , ,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:14.248Z,feel ,f,f,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:14.478Z,feel ,e,e,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:14.694Z,feel ,e,e,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:14.911Z,feel ,l,l,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:15.031Z,feel , , ,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:15.279Z,each,e,e,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:15.588Z,each,a,a,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:16.004Z,each,c,c,semicolemakdh,50,words,10,english,null
+2022-12-12T09:12:16.087Z,each,h,h,semicolemakdh,50,words,10,english,null
+2022-12-12T09:13:10.034Z,now ,n,n,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:10.111Z,now ,o,o,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:10.498Z,now ,w,w,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:10.629Z,now , , ,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:10.934Z,life ,l,l,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:11.166Z,life ,i,i,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:11.448Z,life ,f,f,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:11.679Z,life ,e,e,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:11.891Z,life , , ,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:12.166Z,move ,m,m,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:12.222Z,move ,o,o,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:12.350Z,move ,v,v,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:12.499Z,move ,e,e,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:12.670Z,move , , ,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:13.054Z,run ,f,r,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:13.198Z,run ,u,r,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:13.934Z,run ,r,r,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:14.102Z,run ,u,u,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:14.296Z,run ,n,n,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:14.576Z,run , , ,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:14.837Z,follow ,p,f,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:14.944Z,follow ,o,f,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:15.734Z,follow ,f,f,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:16.014Z,follow ,o,o,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:16.206Z,follow ,l,l,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:16.370Z,follow ,l,l,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:16.667Z,follow ,o,o,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:16.850Z,follow ,w,w,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:16.990Z,follow , , ,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:17.450Z,lead ,l,l,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:17.640Z,lead ,e,e,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:17.807Z,lead ,a,a,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:18.077Z,lead ,d,d,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:18.249Z,lead , , ,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:18.527Z,against ,a,a,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:18.787Z,against ,g,g,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:18.909Z,against ,a,a,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:18.956Z,against ,i,i,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:19.601Z,against ,n,n,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:19.785Z,against ,s,s,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:19.937Z,against ,t,t,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:20.106Z,against , , ,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:20.488Z,these ,t,t,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:20.575Z,these ,h,h,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:20.676Z,these ,e,e,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:20.775Z,these ,s,s,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:20.942Z,these ,e,e,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:21.383Z,these , , ,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:21.543Z,after ,a,a,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:21.993Z,after ,f,f,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:22.290Z,after ,r,t,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:22.816Z,after ,t,t,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:22.990Z,after ,e,e,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:23.106Z,after ,r,r,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:23.433Z,after , , ,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:23.757Z,old,o,o,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:23.894Z,old,l,l,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:24.359Z,old,d,d,semicolemakdh,51,words,10,english,null
+2022-12-12T09:13:34.372Z,very ,v,v,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:34.470Z,very ,e,e,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:34.665Z,very ,r,r,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:35.026Z,very ,y,y,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:35.210Z,very , , ,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:35.423Z,work ,w,w,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:35.566Z,work ,o,o,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:37.253Z,work ,r,r,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:37.570Z,work ,k,k,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:37.720Z,work , , ,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:37.935Z,order ,o,o,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:38.115Z,order ,r,r,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:38.505Z,order ,d,d,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:38.654Z,order ,e,e,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:38.791Z,order ,r,r,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:38.969Z,order , , ,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:39.167Z,will ,w,w,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:39.400Z,will ,i,i,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:39.612Z,will ,l,l,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:39.928Z,will ,l,l,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:40.169Z,will , , ,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:40.607Z,run ,r,r,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:40.790Z,run ,u,u,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:40.985Z,run ,n,n,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:41.170Z,run , , ,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:41.375Z,call ,c,c,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:41.512Z,call ,a,a,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:41.754Z,call ,l,l,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:41.942Z,call ,l,l,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:42.040Z,call , , ,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:42.214Z,so ,s,s,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:42.335Z,so ,o,o,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:42.473Z,so , , ,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:42.784Z,will ,w,w,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:43.057Z,will ,i,i,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:43.256Z,will ,l,l,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:43.407Z,will ,l,l,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:43.526Z,will , , ,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:43.758Z,need ,n,n,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:43.864Z,need ,e,e,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:44.066Z,need ,e,e,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:44.233Z,need ,d,d,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:44.370Z,need , , ,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:44.774Z,what,w,w,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:45.192Z,what,h,h,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:45.265Z,what,a,a,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:45.444Z,what,t,t,semicolemakdh,52,words,10,english,null
+2022-12-12T09:13:51.298Z,not ,n,n,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:51.376Z,not ,o,o,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:51.481Z,not ,t,t,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:51.606Z,not , , ,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:51.822Z,need ,n,n,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:51.976Z,need ,e,e,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:52.176Z,need ,e,e,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:52.284Z,need ,d,d,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:52.451Z,need , , ,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:52.776Z,for ,f,f,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:52.977Z,for ,o,o,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:53.157Z,for ,r,r,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:53.292Z,for , , ,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:53.655Z,they ,t,t,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:53.776Z,they ,h,h,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:54.170Z,they ,e,e,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:54.369Z,they ,y,y,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:54.504Z,they , , ,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:54.903Z,form ,f,f,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:55.117Z,form ,o,o,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:55.256Z,form ,r,r,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:55.943Z,form ,m,m,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:56.105Z,form , , ,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:56.456Z,not ,n,n,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:56.552Z,not ,o,o,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:56.788Z,not ,t,t,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:56.891Z,not , , ,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:57.104Z,other ,o,o,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:57.451Z,other ,t,t,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:57.787Z,other ,e,h,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:58.072Z,other ,r,h,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:58.785Z,other ,h,h,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:58.921Z,other ,e,e,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:59.050Z,other ,r,r,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:59.265Z,other , , ,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:59.463Z,too ,t,t,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:59.527Z,too ,o,o,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:59.679Z,too ,o,o,semicolemakdh,53,words,10,english,null
+2022-12-12T09:13:59.843Z,too , , ,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:00.028Z,what ,s,w,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:00.140Z,what ,h,w,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:00.225Z,what ,a,w,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:01.120Z,what ,w,w,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:01.343Z,what ,h,h,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:02.175Z,what ,a,a,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:02.395Z,what ,t,t,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:02.539Z,what , , ,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:02.943Z,how,h,h,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:02.986Z,how,o,o,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:03.146Z,how,w,w,semicolemakdh,53,words,10,english,null
+2022-12-12T09:14:04.909Z,use ,u,u,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:05.000Z,use ,s,s,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:05.234Z,use ,e,e,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:05.398Z,use , , ,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:05.736Z,great ,g,g,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:05.980Z,great ,e,r,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:06.168Z,great ,r,r,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:06.818Z,great ,r,e,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:06.979Z,great ,e,e,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:07.077Z,great ,a,a,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:07.453Z,great ,t,t,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:07.551Z,great , , ,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:07.799Z,here ,h,h,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:07.896Z,here ,e,e,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:08.063Z,here ,r,r,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:08.213Z,here ,e,e,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:08.706Z,here , , ,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:08.837Z,general ,g,g,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:08.984Z,general ,e,e,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:09.267Z,general ,h,n,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:09.446Z,general ,e,n,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:10.298Z,general ,n,n,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:10.434Z,general ,e,e,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:10.595Z,general ,r,r,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:10.767Z,general ,a,a,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:10.983Z,general ,l,l,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:11.135Z,general , , ,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:11.449Z,he ,h,h,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:11.648Z,he ,e,e,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:11.869Z,he , , ,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:12.222Z,part ,p,p,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:12.249Z,part ,a,a,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:12.423Z,part ,r,r,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:12.585Z,part ,t,t,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:12.781Z,part , , ,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:13.073Z,would ,w,w,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:13.210Z,would ,o,o,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:13.384Z,would ,u,u,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:13.624Z,would ,l,l,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:13.935Z,would ,d,d,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:14.115Z,would , , ,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:14.467Z,with ,w,w,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:14.722Z,with ,i,i,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:14.934Z,with ,t,t,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:15.050Z,with ,h,h,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:15.168Z,with , , ,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:15.440Z,what ,w,w,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:15.919Z,what ,h,h,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:15.985Z,what ,a,a,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:16.205Z,what ,t,t,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:16.360Z,what , , ,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:16.786Z,because,b,b,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:16.995Z,because,e,e,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:17.728Z,because,c,c,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:18.299Z,because,a,a,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:18.392Z,because,u,u,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:18.504Z,because,s,s,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:18.711Z,because,e,e,semicolemakdh,54,words,10,english,null
+2022-12-12T09:14:26.970Z,through ,t,t,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:27.080Z,through ,h,h,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:27.447Z,through ,r,r,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:27.626Z,through ,o,o,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:27.857Z,through ,u,u,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:28.248Z,through ,g,g,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:28.345Z,through ,h,h,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:28.544Z,through , , ,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:29.427Z,develop ,d,d,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:29.816Z,develop ,r,e,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:30.496Z,develop ,e,e,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:30.599Z,develop ,v,v,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:30.768Z,develop ,e,e,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:31.459Z,develop ,l,l,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:31.888Z,develop ,l,o,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:32.096Z,develop ,o,o,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:32.898Z,develop ,o,p,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:33.177Z,develop ,p,p,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:33.352Z,develop , , ,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:33.681Z,too ,t,t,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:33.761Z,too ,o,o,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:33.982Z,too ,o,o,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:34.019Z,too , , ,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:34.625Z,you ,l,y,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:35.425Z,you ,o,y,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:35.585Z,you ,u,y,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:36.347Z,you ,y,y,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:36.561Z,you ,o,o,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:36.714Z,you ,u,u,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:37.072Z,you , , ,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:37.170Z,small ,s,s,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:37.872Z,small ,h,m,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:38.050Z,small ,a,m,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:39.124Z,small ,m,m,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:39.280Z,small ,a,a,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:39.456Z,small ,l,l,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:39.634Z,small ,l,l,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:39.746Z,small , , ,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:40.438Z,number ,n,n,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:40.571Z,number ,u,u,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:40.824Z,number ,m,m,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:41.290Z,number ,k,b,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:42.139Z,number ,b,b,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:42.273Z,number ,e,e,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:42.425Z,number ,r,r,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:42.604Z,number , , ,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:42.881Z,since ,s,s,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:43.158Z,since ,i,i,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:43.346Z,since ,n,n,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:43.586Z,since ,d,c,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:43.739Z,since ,e,c,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:44.523Z,since ,c,c,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:44.681Z,since ,e,e,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:44.802Z,since , , ,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:44.994Z,just ,n,j,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:45.329Z,just ,u,j,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:46.282Z,just ,j,j,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:46.538Z,just ,u,u,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:46.746Z,just ,s,s,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:46.906Z,just ,t,t,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:47.044Z,just , , ,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:47.734Z,time ,t,t,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:47.785Z,time ,i,i,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:48.016Z,time ,m,m,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:48.081Z,time ,e,e,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:48.259Z,time , , ,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:48.457Z,good,g,g,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:48.531Z,good,o,o,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:48.690Z,good,o,o,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:48.901Z,good,d,d,semicolemakdh,55,words,10,english,null
+2022-12-12T09:14:50.901Z,other ,i,o,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:51.073Z,other ,t,o,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:51.169Z,other ,h,o,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:51.178Z,other ,k,o,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:52.349Z,other ,o,o,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:52.537Z,other ,t,t,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:52.702Z,other ,h,h,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:52.817Z,other ,e,e,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:53.304Z,other ,r,r,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:53.402Z,other , , ,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:53.595Z,on ,o,o,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:53.717Z,on ,n,n,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:53.889Z,on , , ,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:54.104Z,under ,u,u,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:54.888Z,under ,n,n,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:55.235Z,under ,d,d,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:55.394Z,under ,e,e,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:55.585Z,under ,r,r,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:55.772Z,under , , ,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:56.408Z,each ,e,e,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:56.587Z,each ,a,a,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:56.819Z,each ,c,c,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:56.977Z,each ,h,h,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:57.179Z,each , , ,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:57.545Z,from ,f,f,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:57.706Z,from ,o,r,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:58.252Z,from ,r,r,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:58.425Z,from ,o,o,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:58.603Z,from ,m,m,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:58.781Z,from , , ,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:58.994Z,year ,y,y,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:59.443Z,year ,e,e,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:59.592Z,year ,r,a,semicolemakdh,56,words,10,english,null
+2022-12-12T09:14:59.714Z,year ,a,a,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:00.540Z,year ,a,r,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:00.674Z,year ,e,r,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:01.409Z,year ,r,r,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:01.573Z,year , , ,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:01.986Z,nation ,n,n,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:02.114Z,nation ,a,a,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:02.277Z,nation ,t,t,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:02.514Z,nation ,i,i,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:02.745Z,nation ,o,o,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:02.908Z,nation ,n,n,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:03.080Z,nation , , ,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:03.509Z,show ,s,s,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:03.711Z,show ,h,h,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:04.193Z,show ,o,o,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:04.387Z,show ,w,w,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:04.508Z,show , , ,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:05.012Z,form ,f,f,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:05.682Z,form ,o,o,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:06.570Z,form ,r,r,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:06.833Z,form ,m,m,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:07.013Z,form , , ,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:07.492Z,back,b,b,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:07.980Z,back,a,a,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:08.139Z,back,c,c,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:08.561Z,back,k,k,semicolemakdh,56,words,10,english,null
+2022-12-12T09:15:15.538Z,early ,e,e,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:15.700Z,early ,a,a,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:16.025Z,early ,r,r,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:16.244Z,early ,l,l,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:16.635Z,early ,y,y,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:16.812Z,early , , ,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:17.195Z,point ,p,p,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:17.338Z,point ,o,o,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:17.457Z,point ,u,i,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:18.180Z,point ,i,i,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:18.434Z,point ,n,n,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:18.588Z,point ,t,t,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:18.690Z,point , , ,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:19.139Z,because ,b,b,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:19.275Z,because ,e,e,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:20.060Z,because ,c,c,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:20.273Z,because ,a,a,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:20.425Z,because ,u,u,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:20.546Z,because ,s,s,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:21.156Z,because ,e,e,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:21.283Z,because , , ,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:21.507Z,into ,i,i,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:21.588Z,into ,n,n,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:21.761Z,into ,t,t,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:21.860Z,into ,o,o,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:21.941Z,into , , ,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:22.171Z,see ,e,s,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:22.683Z,see ,s,s,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:22.835Z,see ,e,e,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:23.010Z,see ,e,e,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:23.139Z,see , , ,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:23.255Z,since ,s,s,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:23.514Z,since ,i,i,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:24.043Z,since ,n,n,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:24.187Z,since ,d,c,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:24.355Z,since ,e,c,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:24.513Z,since , ,c,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:25.595Z,state ,r,s,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:26.044Z,state ,s,s,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:26.178Z,state ,t,t,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:26.314Z,state ,a,a,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:26.458Z,state ,t,t,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:26.571Z,state ,e,e,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:26.787Z,state , , ,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:27.195Z,much ,m,m,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:27.292Z,much ,u,u,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:27.495Z,much ,c,c,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:27.588Z,much ,e,h,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:27.902Z,much ,h,h,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:28.739Z,much ,h, ,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:28.836Z,much , , ,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:28.996Z,work ,w,w,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:29.499Z,work ,o,o,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:30.210Z,work ,r,r,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:30.499Z,work ,k,k,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:30.658Z,work , , ,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:30.943Z,right,r,r,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:31.241Z,right,i,i,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:31.499Z,right,g,g,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:31.923Z,right,h,h,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:32.222Z,right,t,t,semicolemakdh,57,words,10,english,null
+2022-12-12T09:15:38.594Z,those ,t,t,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:38.691Z,those ,h,h,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:38.747Z,those ,o,o,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:38.830Z,those ,s,s,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:39.024Z,those ,e,e,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:39.362Z,those , , ,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:39.446Z,a ,a,a,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:39.611Z,a , , ,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:39.746Z,go ,g,g,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:39.842Z,go ,o,o,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:39.943Z,go , , ,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:40.221Z,get ,g,g,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:40.372Z,get ,e,e,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:40.746Z,get ,t,t,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:40.914Z,get , , ,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:41.330Z,late ,l,l,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:41.467Z,late ,a,a,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:41.667Z,late ,t,t,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:41.836Z,late ,e,e,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:42.051Z,late , , ,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:42.236Z,we ,w,w,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:42.403Z,we ,e,e,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:42.562Z,we , , ,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:42.876Z,both ,b,b,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:43.027Z,both ,o,o,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:43.482Z,both ,t,t,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:43.835Z,both ,h,h,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:43.977Z,both , , ,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:44.250Z,general ,g,g,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:44.403Z,general ,e,e,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:44.771Z,general ,n,n,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:45.125Z,general ,e,e,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:45.499Z,general ,r,r,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:45.596Z,general ,a,a,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:45.829Z,general ,l,l,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:46.018Z,general , , ,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:46.419Z,from ,f,f,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:46.680Z,from ,r,r,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:46.845Z,from ,o,o,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:47.018Z,from ,m,m,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:47.323Z,from , , ,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:47.547Z,if,i,i,semicolemakdh,58,words,10,english,null
+2022-12-12T09:15:47.772Z,if,f,f,semicolemakdh,58,words,10,english,null
+2022-12-12T09:16:45.202Z,pharmacy ,p,p,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:45.301Z,pharmacy ,h,h,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:45.477Z,pharmacy ,a,a,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:45.848Z,pharmacy ,r,r,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:46.168Z,pharmacy ,m,m,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:46.348Z,pharmacy ,a,a,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:46.606Z,pharmacy ,c,c,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:46.926Z,pharmacy ,y,y,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:47.082Z,pharmacy , , ,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:47.490Z,congressional ,c,c,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:47.879Z,congressional ,o,o,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:47.998Z,congressional ,n,n,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:48.370Z,congressional ,g,g,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:48.717Z,congressional ,r,r,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:49.150Z,congressional ,e,e,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:49.341Z,congressional ,s,s,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:49.557Z,congressional ,s,s,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:49.802Z,congressional ,o,i,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:50.599Z,congressional ,i,i,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:50.815Z,congressional ,o,o,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:50.952Z,congressional ,n,n,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:51.204Z,congressional ,a,a,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:51.436Z,congressional ,l,l,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:51.708Z,congressional , , ,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:52.141Z,advocacy ,a,a,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:52.404Z,advocacy ,d,d,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:52.967Z,advocacy ,v,v,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:53.204Z,advocacy ,o,o,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:53.452Z,advocacy ,c,c,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:53.604Z,advocacy ,a,a,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:54.001Z,advocacy ,c,c,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:54.319Z,advocacy ,y,y,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:54.493Z,advocacy , , ,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:54.808Z,motivation ,m,m,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:54.878Z,motivation ,o,o,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:55.140Z,motivation ,t,t,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:55.351Z,motivation ,i,i,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:55.677Z,motivation ,v,v,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:56.231Z,motivation ,a,a,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:56.384Z,motivation ,t,t,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:56.678Z,motivation ,i,i,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:56.893Z,motivation ,o,o,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:57.093Z,motivation ,n,n,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:57.271Z,motivation , , ,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:57.832Z,pavement ,p,p,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:57.992Z,pavement ,a,a,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:58.277Z,pavement ,v,v,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:58.437Z,pavement ,e,e,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:58.721Z,pavement ,m,m,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:58.951Z,pavement ,e,e,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:59.108Z,pavement ,n,n,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:59.256Z,pavement ,t,t,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:59.423Z,pavement , , ,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:16:59.936Z,performer ,p,p,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:00.110Z,performer ,e,e,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:00.257Z,performer ,r,r,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:00.958Z,performer ,f,f,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:01.125Z,performer ,o,o,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:01.308Z,performer ,r,r,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:01.656Z,performer ,m,m,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:01.871Z,performer ,e,e,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:02.072Z,performer ,r,r,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:02.396Z,performer , , ,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:02.813Z,publicity ,p,p,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:03.238Z,publicity ,u,u,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:03.750Z,publicity ,b,b,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:04.158Z,publicity ,l,l,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:04.471Z,publicity ,i,i,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:05.359Z,publicity ,c,c,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:05.503Z,publicity ,i,i,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:06.080Z,publicity ,t,t,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:06.406Z,publicity ,y,y,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:06.607Z,publicity , , ,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:07.153Z,jade ,l,j,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:07.917Z,jade ,j,j,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:08.016Z,jade ,a,a,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:08.254Z,jade ,d,d,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:08.399Z,jade ,e,e,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:08.563Z,jade , , ,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:08.663Z,anchor ,a,a,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:09.102Z,anchor ,n,n,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:09.447Z,anchor ,c,c,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:09.710Z,anchor ,h,h,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:09.847Z,anchor ,o,o,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:10.129Z,anchor ,r,r,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:10.280Z,anchor , , ,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:10.933Z,touched,t,t,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:11.037Z,touched,o,o,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:11.231Z,touched,u,u,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:11.437Z,touched,c,c,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:11.959Z,touched,h,h,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:12.760Z,touched,e,e,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:13.264Z,touched,d,d,semicolemakdh,59,words,10,english 10k,null
+2022-12-12T09:17:25.622Z,mortgage ,m,m,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:25.665Z,mortgage ,o,o,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:25.896Z,mortgage ,r,r,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:26.037Z,mortgage ,t,t,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:26.299Z,mortgage , ,g,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:26.518Z,formulation ,g,f,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:27.656Z,formulation ,f,f,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:27.854Z,formulation ,o,o,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:28.400Z,formulation ,r,r,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:28.838Z,formulation ,m,m,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:28.953Z,formulation ,u,u,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:29.453Z,formulation ,l,l,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:29.712Z,formulation ,a,a,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:29.931Z,formulation ,t,t,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:30.237Z,formulation ,i,i,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:30.475Z,formulation ,o,o,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:30.615Z,formulation ,n,n,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:30.821Z,formulation , , ,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:31.232Z,premature ,p,p,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:31.821Z,premature ,r,r,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:31.973Z,premature ,e,e,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:32.255Z,premature ,m,m,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:32.405Z,premature ,a,a,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:32.584Z,premature ,t,t,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:32.800Z,premature ,u,u,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:33.189Z,premature ,r,r,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:33.313Z,premature ,e,e,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:33.488Z,premature , , ,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:33.761Z,sip ,s,s,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:34.569Z,sip ,i,i,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:35.073Z,sip ,p,p,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:35.262Z,sip , , ,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:35.546Z,maternal ,m,m,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:35.679Z,maternal ,a,a,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:35.994Z,maternal ,t,t,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:36.104Z,maternal ,e,e,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:36.358Z,maternal ,n,r,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:37.200Z,maternal ,r,r,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:37.925Z,maternal ,m,n,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:38.047Z,maternal ,a,n,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:39.058Z,maternal ,n,n,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:39.159Z,maternal ,a,a,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:39.375Z,maternal ,l,l,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:39.566Z,maternal , , ,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:40.277Z,hi ,h,h,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:40.473Z,hi ,i,i,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:40.730Z,hi , , ,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:41.351Z,defined ,d,d,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:41.736Z,defined ,e,e,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:41.911Z,defined ,r,f,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:42.679Z,defined ,f,f,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:42.951Z,defined ,i,i,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:43.112Z,defined ,n,n,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:43.347Z,defined ,e,e,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:43.629Z,defined ,d,d,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:43.807Z,defined , , ,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:44.243Z,humanity ,h,h,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:44.418Z,humanity ,u,u,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:44.688Z,humanity ,m,m,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:44.766Z,humanity ,a,a,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:45.165Z,humanity ,n,n,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:45.334Z,humanity ,i,i,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:46.000Z,humanity ,t,t,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:46.097Z,humanity ,y,y,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:46.253Z,humanity , , ,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:46.908Z,driving ,d,d,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:47.415Z,driving ,r,r,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:47.638Z,driving ,i,i,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:48.255Z,driving ,v,v,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:48.448Z,driving ,i,i,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:48.681Z,driving ,n,n,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:49.081Z,driving ,g,g,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:49.166Z,driving , , ,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:49.349Z,shopper,s,s,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:49.559Z,shopper,i,h,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:49.576Z,shopper,h,h,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:50.439Z,shopper,o,o,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:50.799Z,shopper,p,p,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:50.973Z,shopper,p,p,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:51.144Z,shopper,e,e,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:51.366Z,shopper,r,r,semicolemakdh,60,words,10,english 10k,null
+2022-12-12T09:17:53.120Z,investigate ,i,i,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:53.271Z,investigate ,n,n,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:53.558Z,investigate ,v,v,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:53.692Z,investigate ,e,e,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:53.832Z,investigate ,s,s,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:54.087Z,investigate ,t,t,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:54.191Z,investigate ,i,i,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:54.558Z,investigate ,g,g,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:54.654Z,investigate ,a,a,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:55.265Z,investigate ,t,t,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:55.385Z,investigate ,e,e,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:55.611Z,investigate , , ,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:55.727Z,acres ,a,a,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:55.893Z,acres ,c,c,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:56.359Z,acres ,r,r,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:56.799Z,acres ,e,e,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:56.907Z,acres ,s,s,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:57.088Z,acres , , ,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:57.526Z,flags ,p,f,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:58.352Z,flags ,t,f,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:58.649Z,flags ,l,f,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:17:59.330Z,flags ,g,f,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:00.209Z,flags ,f,f,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:00.433Z,flags ,l,l,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:00.753Z,flags ,a,a,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:00.954Z,flags ,g,g,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:01.080Z,flags ,e,s,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:01.184Z,flags ,s,s,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:01.351Z,flags , , ,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:02.123Z,positioning ,p,p,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:02.287Z,positioning ,o,o,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:02.376Z,positioning ,s,s,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:02.625Z,positioning ,i,i,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:04.046Z,positioning ,t,t,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:04.167Z,positioning ,i,i,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:04.398Z,positioning ,o,o,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:04.576Z,positioning ,n,n,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:05.007Z,positioning ,i,i,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:05.472Z,positioning ,n,n,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:05.788Z,positioning ,g,g,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:05.891Z,positioning , , ,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:06.112Z,straw ,s,s,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:06.469Z,straw ,t,t,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:06.679Z,straw ,a,r,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:07.889Z,straw ,r,r,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:08.023Z,straw ,a,a,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:08.183Z,straw ,w,w,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:08.354Z,straw , , ,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:08.575Z,aside ,a,a,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:08.671Z,aside ,s,s,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:08.918Z,aside ,i,i,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:09.336Z,aside ,c,d,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:09.990Z,aside ,d,d,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:10.169Z,aside ,e,e,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:10.522Z,aside , , ,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:11.057Z,reactions ,r,r,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:11.439Z,reactions ,e,e,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:11.687Z,reactions ,a,a,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:11.896Z,reactions ,c,c,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:12.190Z,reactions ,t,t,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:12.591Z,reactions ,i,i,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:12.824Z,reactions ,o,o,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:13.039Z,reactions ,n,n,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:13.424Z,reactions ,s,s,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:13.569Z,reactions , , ,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:13.975Z,homeland ,h,h,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:14.393Z,homeland ,o,o,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:14.570Z,homeland ,m,m,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:14.800Z,homeland ,e,e,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:15.094Z,homeland ,l,l,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:15.278Z,homeland ,a,a,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:15.472Z,homeland ,n,n,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:15.808Z,homeland ,d,d,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:15.950Z,homeland , , ,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:16.289Z,headlines ,h,h,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:16.429Z,headlines ,e,e,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:16.743Z,headlines ,a,a,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:17.377Z,headlines ,d,d,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:17.874Z,headlines ,l,l,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:18.063Z,headlines ,i,i,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:18.226Z,headlines ,n,n,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:18.376Z,headlines ,e,e,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:18.568Z,headlines ,s,s,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:18.727Z,headlines , , ,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:19.122Z,mortality,o,m,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:20.078Z,mortality,m,m,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:20.193Z,mortality,o,o,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:20.482Z,mortality,r,r,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:20.889Z,mortality,t,t,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:20.952Z,mortality,a,a,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:21.815Z,mortality,l,l,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:22.088Z,mortality,i,i,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:22.593Z,mortality,t,t,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:22.615Z,mortality,o,y,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:23.616Z,mortality,y,y,semicolemakdh,61,words,10,english 10k,null
+2022-12-12T09:18:29.544Z,every ,e,e,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:29.677Z,every ,v,v,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:29.791Z,every ,e,e,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:29.929Z,every ,r,r,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:30.344Z,every ,y,y,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:30.457Z,every , , ,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:30.808Z,proceeds ,p,p,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:31.024Z,proceeds ,o,r,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:31.866Z,proceeds ,r,r,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:32.127Z,proceeds ,o,o,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:32.192Z,proceeds ,c,c,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:32.592Z,proceeds ,e,e,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:32.771Z,proceeds ,e,e,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:32.905Z,proceeds ,d,d,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:33.137Z,proceeds ,s,s,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:33.312Z,proceeds , , ,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:33.668Z,headers ,h,h,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:33.743Z,headers ,e,e,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:34.139Z,headers ,a,a,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:34.450Z,headers ,d,d,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:34.623Z,headers ,e,e,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:34.778Z,headers ,r,r,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:35.057Z,headers ,s,s,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:35.237Z,headers , , ,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:35.895Z,exception ,e,e,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:36.263Z,exception ,x,x,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:36.602Z,exception ,c,c,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:37.091Z,exception ,e,e,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:37.458Z,exception ,p,p,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:37.866Z,exception ,t,t,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:38.009Z,exception ,i,i,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:38.264Z,exception ,o,o,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:38.495Z,exception ,n,n,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:38.675Z,exception , , ,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:39.154Z,notices ,n,n,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:39.258Z,notices ,o,o,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:40.477Z,notices ,t,t,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:40.572Z,notices ,i,i,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:40.843Z,notices ,c,c,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:40.962Z,notices ,e,e,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:41.123Z,notices ,s,s,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:41.388Z,notices , , ,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:42.115Z,cuba ,c,c,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:42.296Z,cuba ,u,u,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:43.321Z,cuba ,b,b,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:43.443Z,cuba ,a,a,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:43.627Z,cuba , , ,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:43.850Z,essay ,e,e,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:43.930Z,essay ,s,s,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:44.129Z,essay ,s,s,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:44.284Z,essay ,a,a,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:44.480Z,essay ,y,y,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:44.617Z,essay , , ,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:44.930Z,modifying ,m,m,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:44.968Z,modifying ,o,o,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:45.399Z,modifying ,c,d,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:46.000Z,modifying ,d,d,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:46.162Z,modifying ,i,i,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:46.433Z,modifying ,t,f,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:47.289Z,modifying ,f,f,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:47.554Z,modifying ,y,y,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:47.960Z,modifying ,i,i,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:48.119Z,modifying ,n,n,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:48.389Z,modifying ,g,g,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:48.514Z,modifying , , ,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:48.724Z,sum ,s,s,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:48.801Z,sum ,u,u,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:49.056Z,sum ,m,m,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:49.236Z,sum , , ,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:49.502Z,profitability,p,p,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:49.839Z,profitability,o,r,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:50.688Z,profitability,r,r,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:51.304Z,profitability,o,o,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:52.313Z,profitability,f,f,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:52.497Z,profitability,i,i,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:52.689Z,profitability,t,t,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:52.770Z,profitability,a,a,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:53.163Z,profitability,k,b,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:53.536Z,profitability,i,b,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:54.154Z,profitability,b,b,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:54.432Z,profitability,i,i,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:55.162Z,profitability,l,l,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:55.408Z,profitability,i,i,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:55.735Z,profitability,t,t,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:18:55.804Z,profitability,y,y,semicolemakdh,62,words,10,english 10k,null
+2022-12-12T09:19:01.401Z,myths ,m,m,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:01.514Z,myths ,y,y,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:01.584Z,myths ,t,t,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:01.768Z,myths ,h,h,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:01.898Z,myths ,s,s,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:02.121Z,myths , , ,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:02.752Z,dioxide ,d,d,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:02.948Z,dioxide ,i,i,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:03.395Z,dioxide ,o,o,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:03.536Z,dioxide ,x,x,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:03.881Z,dioxide ,i,i,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:04.167Z,dioxide ,d,d,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:04.314Z,dioxide ,e,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:04.875Z,dioxide , , ,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:05.223Z,certified ,c,c,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:05.425Z,certified ,e,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:05.673Z,certified ,r,r,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:05.888Z,certified ,t,t,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:06.209Z,certified ,i,i,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:06.553Z,certified ,f,f,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:07.069Z,certified ,i,i,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:07.441Z,certified ,e,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:07.747Z,certified ,d,d,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:07.938Z,certified , , ,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:08.663Z,render ,r,r,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:08.757Z,render ,e,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:08.930Z,render ,n,n,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:09.225Z,render ,d,d,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:09.402Z,render ,e,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:09.504Z,render ,r,r,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:09.716Z,render , , ,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:10.341Z,analyses ,n,a,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:10.914Z,analyses ,a,a,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:11.083Z,analyses ,n,n,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:11.971Z,analyses ,a,a,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:12.410Z,analyses ,l,l,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:12.900Z,analyses ,y,y,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:13.142Z,analyses ,s,s,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:13.372Z,analyses ,i,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:13.513Z,analyses ,s,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:14.424Z,analyses ,e,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:14.528Z,analyses ,s,s,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:14.643Z,analyses , , ,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:15.027Z,matters ,m,m,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:15.129Z,matters ,a,a,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:15.295Z,matters ,t,t,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:15.480Z,matters ,t,t,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:15.633Z,matters ,e,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:15.724Z,matters ,r,r,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:15.972Z,matters ,s,s,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:16.145Z,matters , , ,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:16.388Z,agreed ,a,a,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:16.696Z,agreed ,g,g,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:17.025Z,agreed ,r,r,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:17.417Z,agreed ,e,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:17.594Z,agreed ,e,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:17.754Z,agreed ,d,d,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:17.908Z,agreed , , ,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:18.480Z,computational ,c,c,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:18.665Z,computational ,o,o,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:18.963Z,computational ,m,m,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:19.411Z,computational ,p,p,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:19.569Z,computational ,u,u,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:20.132Z,computational ,t,t,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:20.234Z,computational ,a,a,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:20.846Z,computational ,t,t,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:21.139Z,computational ,i,i,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:21.294Z,computational ,o,o,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:21.492Z,computational ,n,n,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:21.602Z,computational ,a,a,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:21.843Z,computational ,l,l,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:22.133Z,computational , , ,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:22.801Z,flux ,r,f,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:23.337Z,flux ,f,f,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:23.780Z,flux ,l,l,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:24.013Z,flux ,u,u,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:24.200Z,flux ,x,x,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:24.306Z,flux , , ,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:25.210Z,perl,p,p,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:25.716Z,perl,e,e,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:25.825Z,perl,r,r,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:26.430Z,perl,l,l,semicolemakdh,63,words,10,english 10k,null
+2022-12-12T09:19:29.234Z,locking ,l,l,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:29.305Z,locking ,o,o,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:29.592Z,locking ,c,c,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:30.426Z,locking ,k,k,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:30.641Z,locking ,i,i,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:30.818Z,locking ,n,n,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:31.134Z,locking ,g,g,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:31.225Z,locking , , ,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:31.402Z,algeria ,a,a,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:31.947Z,algeria ,l,l,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:32.305Z,algeria ,g,g,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:32.442Z,algeria ,e,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:33.025Z,algeria ,r,r,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:33.240Z,algeria ,i,i,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:33.501Z,algeria ,a,a,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:33.675Z,algeria , , ,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:33.869Z,sitting ,s,s,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:34.139Z,sitting ,i,i,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:34.262Z,sitting ,t,t,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:34.458Z,sitting ,t,t,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:34.593Z,sitting ,i,i,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:34.786Z,sitting ,n,n,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:35.004Z,sitting ,g,g,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:35.144Z,sitting , , ,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:35.517Z,convince ,c,c,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:35.641Z,convince ,o,o,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:36.155Z,convince ,n,n,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:36.409Z,convince ,v,v,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:36.627Z,convince ,i,i,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:37.409Z,convince ,d,n,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:38.107Z,convince ,n,n,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:38.819Z,convince ,c,c,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:38.956Z,convince ,e,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:39.418Z,convince , , ,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:39.794Z,tackle ,t,t,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:39.852Z,tackle ,a,a,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:40.096Z,tackle ,c,c,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:40.497Z,tackle ,j,k,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:40.513Z,tackle ,l,k,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:41.475Z,tackle ,k,k,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:41.797Z,tackle ,l,l,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:42.122Z,tackle ,e,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:42.314Z,tackle , , ,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:42.533Z,torrent ,t,t,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:42.636Z,torrent ,o,o,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:42.828Z,torrent ,r,r,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:43.019Z,torrent ,r,r,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:43.180Z,torrent ,e,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:43.339Z,torrent ,n,n,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:43.449Z,torrent ,t,t,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:43.571Z,torrent , , ,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:44.252Z,punk ,p,p,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:44.466Z,punk ,u,u,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:45.171Z,punk ,n,n,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:45.450Z,punk ,k,k,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:45.602Z,punk , , ,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:45.867Z,expert ,e,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:46.026Z,expert ,s,x,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:46.674Z,expert ,x,x,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:47.187Z,expert ,p,p,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:47.323Z,expert ,r,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:48.308Z,expert ,e,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:48.394Z,expert ,r,r,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:48.548Z,expert ,t,t,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:48.948Z,expert , , ,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:49.100Z,sewer ,s,s,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:49.340Z,sewer ,e,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:49.508Z,sewer ,w,w,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:50.036Z,sewer ,r,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:50.162Z,sewer ,e,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:50.994Z,sewer ,r,r,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:51.099Z,sewer ,e, ,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:51.298Z,sewer , , ,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:51.413Z,seconds,s,s,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:52.411Z,seconds,e,e,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:52.738Z,seconds,c,c,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:53.132Z,seconds,o,o,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:53.253Z,seconds,n,n,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:53.951Z,seconds,d,d,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:54.008Z,seconds,s,s,semicolemakdh,64,words,10,english 10k,null
+2022-12-12T09:19:57.629Z,combinations ,c,c,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:19:57.695Z,combinations ,o,o,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:19:58.346Z,combinations ,n,m,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:19:59.402Z,combinations ,m,m,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:00.148Z,combinations ,k,b,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:00.650Z,combinations ,b,b,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:00.850Z,combinations ,i,i,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:01.066Z,combinations ,n,n,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:01.260Z,combinations ,a,a,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:01.396Z,combinations ,t,t,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:01.555Z,combinations ,i,i,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:01.755Z,combinations ,o,o,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:01.948Z,combinations ,n,n,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:02.060Z,combinations ,s,s,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:02.202Z,combinations , , ,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:02.555Z,completed ,c,c,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:02.705Z,completed ,o,o,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:03.434Z,completed ,m,m,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:03.834Z,completed ,p,p,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:04.156Z,completed ,l,l,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:04.353Z,completed ,e,e,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:04.875Z,completed ,t,t,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:05.061Z,completed ,e,e,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:05.368Z,completed ,d,d,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:05.533Z,completed , , ,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:05.686Z,stating ,s,s,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:05.907Z,stating ,t,t,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:06.027Z,stating ,a,a,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:06.594Z,stating ,t,t,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:06.782Z,stating ,i,i,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:07.702Z,stating ,n,n,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:07.786Z,stating ,g,g,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:07.994Z,stating , , ,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:08.162Z,arrest ,s,a,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:08.869Z,arrest ,a,a,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:08.981Z,arrest ,r,r,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:09.224Z,arrest ,r,r,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:09.445Z,arrest ,e,e,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:09.506Z,arrest ,s,s,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:09.722Z,arrest ,t,t,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:09.872Z,arrest , , ,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:10.297Z,vibrant ,v,v,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:10.421Z,vibrant ,i,i,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:11.306Z,vibrant ,b,b,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:11.636Z,vibrant ,r,r,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:11.756Z,vibrant ,a,a,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:12.022Z,vibrant ,n,n,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:12.122Z,vibrant ,t,t,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:12.291Z,vibrant , , ,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:12.680Z,monopoly ,m,m,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:12.843Z,monopoly ,o,o,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:13.019Z,monopoly ,n,n,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:13.114Z,monopoly ,o,o,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:13.574Z,monopoly ,p,p,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:13.763Z,monopoly ,y,o,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:14.915Z,monopoly ,o,o,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:15.174Z,monopoly ,i,l,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:15.444Z,monopoly ,l,l,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:16.346Z,monopoly ,l,y,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:16.410Z,monopoly ,y,y,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:16.623Z,monopoly , , ,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:16.995Z,encounter ,e,e,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:17.543Z,encounter ,n,n,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:17.974Z,encounter ,c,c,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:18.205Z,encounter ,o,o,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:18.394Z,encounter ,u,u,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:18.615Z,encounter ,t,n,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:19.513Z,encounter ,n,n,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:19.730Z,encounter ,t,t,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:19.867Z,encounter ,e,e,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:20.098Z,encounter ,r,r,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:20.262Z,encounter , , ,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:20.674Z,cached ,c,c,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:20.883Z,cached ,a,a,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:21.115Z,cached ,h,c,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:21.764Z,cached ,c,c,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:22.148Z,cached ,h,h,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:22.585Z,cached ,e,e,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:22.835Z,cached ,d,d,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:23.029Z,cached , , ,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:23.403Z,attended ,a,a,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:23.954Z,attended ,t,t,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:24.152Z,attended ,t,t,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:24.285Z,attended ,e,e,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:24.462Z,attended ,n,n,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:24.817Z,attended ,d,d,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:24.988Z,attended ,e,e,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:25.147Z,attended ,d,d,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:25.301Z,attended , , ,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:25.479Z,rangers,r,r,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:25.651Z,rangers,a,a,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:26.085Z,rangers,n,n,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:26.316Z,rangers,g,g,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:26.471Z,rangers,e,e,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:27.219Z,rangers,r,r,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:27.338Z,rangers,s,s,semicolemakdh,65,words,10,english 10k,null
+2022-12-12T09:20:29.308Z,saved ,s,s,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:29.413Z,saved ,a,a,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:29.824Z,saved ,v,v,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:29.972Z,saved ,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:30.351Z,saved ,r,d,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:30.853Z,saved ,d,d,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:30.988Z,saved , , ,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:31.260Z,mesh ,m,m,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:31.515Z,mesh ,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:31.660Z,mesh ,s,s,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:32.099Z,mesh ,h,h,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:32.264Z,mesh , , ,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:32.437Z,she ,s,s,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:32.613Z,she ,h,h,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:32.668Z,she ,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:32.875Z,she , , ,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:33.221Z,feelings ,f,f,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:33.412Z,feelings ,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:33.609Z,feelings ,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:33.821Z,feelings ,l,l,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:34.059Z,feelings ,i,i,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:34.212Z,feelings ,n,n,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:34.477Z,feelings ,g,g,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:34.595Z,feelings ,s,s,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:34.699Z,feelings , , ,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:34.925Z,resorts ,r,r,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:35.061Z,resorts ,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:35.164Z,resorts ,s,s,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:35.741Z,resorts ,i,o,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:36.404Z,resorts ,o,o,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:36.577Z,resorts ,r,r,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:36.668Z,resorts ,t,t,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:36.884Z,resorts ,s,s,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:37.010Z,resorts , , ,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:38.132Z,comprehensive ,c,c,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:38.235Z,comprehensive ,o,o,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:38.548Z,comprehensive ,m,m,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:38.976Z,comprehensive ,p,p,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:39.156Z,comprehensive ,e,r,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:39.878Z,comprehensive ,r,r,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:39.997Z,comprehensive ,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:40.431Z,comprehensive ,h,h,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:40.605Z,comprehensive ,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:40.764Z,comprehensive ,n,n,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:41.067Z,comprehensive ,s,s,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:41.219Z,comprehensive ,i,i,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:41.420Z,comprehensive ,v,v,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:41.509Z,comprehensive ,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:41.684Z,comprehensive , , ,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:42.027Z,radius ,r,r,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:42.187Z,radius ,a,a,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:42.518Z,radius ,d,d,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:42.700Z,radius ,i,i,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:43.124Z,radius ,u,u,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:43.263Z,radius ,s,s,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:43.420Z,radius , , ,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:43.692Z,grading ,g,g,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:44.105Z,grading ,r,r,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:44.302Z,grading ,a,a,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:44.869Z,grading ,d,d,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:45.029Z,grading ,i,i,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:45.571Z,grading ,n,n,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:45.723Z,grading ,g,g,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:45.870Z,grading , , ,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:46.334Z,corporate ,c,c,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:46.723Z,corporate ,o,o,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:47.039Z,corporate ,r,r,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:47.643Z,corporate ,p,p,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:47.820Z,corporate ,o,o,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:48.029Z,corporate ,r,r,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:48.214Z,corporate ,a,a,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:48.404Z,corporate ,t,t,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:48.580Z,corporate ,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:48.795Z,corporate , , ,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:49.054Z,computed,c,c,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:49.188Z,computed,o,o,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:49.988Z,computed,g,m,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:50.657Z,computed,m,m,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:51.141Z,computed,p,p,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:51.319Z,computed,u,u,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:51.533Z,computed,t,t,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:51.902Z,computed,e,e,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:20:52.211Z,computed,d,d,semicolemakdh,66,words,10,english 10k,null
+2022-12-12T09:21:14.565Z,recently ,r,r,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:14.671Z,recently ,e,e,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:14.902Z,recently ,c,c,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:15.028Z,recently ,e,e,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:15.164Z,recently ,n,n,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:15.412Z,recently ,t,t,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:15.965Z,recently ,l,l,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:16.125Z,recently ,y,y,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:16.317Z,recently , , ,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:16.460Z,selects ,s,s,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:16.644Z,selects ,e,e,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:17.029Z,selects ,l,l,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:17.269Z,selects ,r,e,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:18.297Z,selects ,e,e,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:18.775Z,selects ,c,c,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:19.341Z,selects ,t,t,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:19.422Z,selects ,s,s,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:19.597Z,selects , , ,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:20.029Z,camp ,c,c,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:20.163Z,camp ,a,a,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:20.501Z,camp ,m,m,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:21.031Z,camp ,y,p,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:21.549Z,camp ,p,p,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:21.791Z,camp , , ,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:22.742Z,drift ,d,d,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:22.998Z,drift ,r,r,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:23.375Z,drift ,i,i,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:23.774Z,drift ,f,f,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:24.014Z,drift ,r,t,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:24.245Z,drift , ,t,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:24.937Z,flooding ,p,f,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:25.374Z,flooding ,l,f,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:25.470Z,flooding ,o,f,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:26.535Z,flooding ,f,f,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:27.477Z,flooding ,l,l,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:27.654Z,flooding ,o,o,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:27.854Z,flooding ,o,o,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:28.046Z,flooding ,d,d,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:28.245Z,flooding ,i,i,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:29.104Z,flooding ,n,n,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:29.140Z,flooding ,g,g,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:29.279Z,flooding , , ,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:30.230Z,volume ,v,v,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:30.884Z,volume ,o,o,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:31.061Z,volume ,l,l,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:31.317Z,volume ,u,u,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:31.526Z,volume ,m,m,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:31.703Z,volume ,e,e,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:31.880Z,volume , , ,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:32.124Z,reunion ,r,r,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:32.278Z,reunion ,e,e,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:32.622Z,reunion ,u,u,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:32.897Z,reunion ,n,n,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:33.327Z,reunion ,i,i,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:33.559Z,reunion ,o,o,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:33.701Z,reunion ,n,n,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:33.895Z,reunion , , ,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:34.326Z,stood ,s,s,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:34.500Z,stood ,t,t,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:34.598Z,stood ,o,o,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:34.791Z,stood ,o,o,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:34.949Z,stood ,d,d,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:35.085Z,stood , , ,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:35.359Z,scan ,s,s,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:35.613Z,scan ,c,c,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:35.796Z,scan ,a,a,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:36.009Z,scan ,n,n,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:36.143Z,scan , , ,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:36.574Z,midnight,m,m,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:37.023Z,midnight,i,i,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:37.351Z,midnight,d,d,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:37.685Z,midnight,n,n,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:37.944Z,midnight,i,i,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:38.174Z,midnight,g,g,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:38.407Z,midnight,h,h,semicolemakdh,67,words,10,english 10k,null
+2022-12-12T09:21:38.785Z,midnight,t,t,semicolemakdh,67,words,10,english 10k,null
