@@ -83,10 +83,12 @@ var monkeyListen = () => {
 			}
 
 			if (key == 'Enter' && monkeyQueue.length <= 1) {
+				console.log('Not empty reset');
 				await send();
 			}
 		} catch {
 			if (key == 'Enter') {
+				console.log('Empty reset');
 				await send();
 			}
 		}
