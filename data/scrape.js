@@ -76,7 +76,7 @@ var monkeyListen = () => {
 				monkeyQueue[0] = monkeyQueue[0].substring(1);
 			}
 
-			if (key == ' ') {
+			if (key == ' ' && activeWord != monkeyQueue[0]) {
 				monkeyQueue.shift();
 				console.log(monkeyQueue);
 				activeWord = monkeyQueue[0];

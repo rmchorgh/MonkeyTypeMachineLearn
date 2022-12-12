@@ -31,12 +31,16 @@ const handler = async (req: Request) => {
 				testNum
 			} of test) {
 				// handle potential commas in strings
-				const hasComma = (word: string) =>
-					word.includes(',')
+				const hasComma = (word: string) => {
+					if (word == undefined) {
+						return '';
+					}
+					return word.includes(',')
 						? `"${word}"`
 						: word.includes('"')
 						? word.replace('"', '\\"')
 						: word;
+				};
 
 				// build the csv row
 				let row = `${timestamp},${hasComma(activeWord)},${hasComma(
