@@ -72,7 +72,11 @@ var monkeyListen = () => {
 
 			if (key.length == 1) monkeyList.push(row);
 
-			if (monkeyQueue[0][0].toLowerCase() == key) {
+			console.log(monkeyQueue[0][0], key);
+			if (
+				monkeyQueue[0][0].toLowerCase() == key ||
+				(monkeyQueue[0][0] == '_' && key == '-')
+			) {
 				monkeyQueue[0] = monkeyQueue[0].substring(1);
 			}
 
@@ -94,7 +98,7 @@ var monkeyListen = () => {
 		}
 	};
 
-	document.addEventListener('keyup', async (c) => await listen(c));
+	document.addEventListener('keypress', async (c) => await listen(c));
 };
 
 monkeyListen();
