@@ -48,10 +48,15 @@ var monkeyListen = () => {
 		await fetch('http://localhost:8000', {
 			method: 'post',
 			body: JSON.stringify(monkeyList)
-		}).then(() => {
-			monkeyList = [];
-			setTimeout(setup, 500);
-		});
+		})
+			.then(() => {
+				monkeyList = [];
+				setTimeout(setup, 500);
+			})
+			.catch(() => {
+				monkeyList = [];
+				setTimeout(setup, 500);
+			});
 	};
 
 	setup();
@@ -74,7 +79,7 @@ var monkeyListen = () => {
 
 			console.log(monkeyQueue[0][0], key);
 			if (
-				monkeyQueue[0][0].toLowerCase() == key ||
+				monkeyQueue[0][0].toLowerCase() == key.toLowerCase() ||
 				(monkeyQueue[0][0] == '_' && key == '-')
 			) {
 				monkeyQueue[0] = monkeyQueue[0].substring(1);
@@ -86,7 +91,7 @@ var monkeyListen = () => {
 				activeWord = monkeyQueue[0];
 			}
 
-			if (key == 'Enter' && monkeyQueue.length <= 1) {
+			if (key == 'Enter') {
 				console.log('Not empty reset');
 				await send();
 			}
