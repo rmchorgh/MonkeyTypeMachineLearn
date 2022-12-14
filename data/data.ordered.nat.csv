@@ -1,5 +1,5 @@
 ,timestamp,activeWord,lastChar,correctChar,layout,testNum,type,length,language,funbox,cps
-0,2022-12-12 07:45:16.438,ninth ,n,n,semicolemakdh,1,words,10,wordle,null,
+0,2022-12-12 07:45:16.438,ninth ,n,n,semicolemakdh,1,words,10,wordle,null,0.0
 1,2022-12-12 07:45:16.527,ninth ,i,i,semicolemakdh,1,words,10,wordle,null,0.089
 2,2022-12-12 07:45:16.650,ninth ,n,n,semicolemakdh,1,words,10,wordle,null,0.123
 3,2022-12-12 07:45:16.881,ninth ,t,t,semicolemakdh,1,words,10,wordle,null,0.231
