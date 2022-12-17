@@ -5712,18 +5712,13 @@ timestamp,activeWord,lastChar,correctChar,layout,testNum,type,length,language,fu
 2022-12-12T08:47:49.115Z,fabrique ,u,u,semicolemakdh,10,words,10,french,null
 2022-12-12T08:47:49.548Z,fabrique ,e,e,semicolemakdh,10,words,10,french,null
 2022-12-12T08:47:49.737Z,fabrique , , ,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:50.074Z,obtenir ,o,o,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:50.384Z,obtenir ,b,b,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:50.805Z,obtenir ,t,t,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:51.024Z,obtenir ,e,e,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:51.241Z,obtenir ,n,n,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:51.502Z,obtenir ,i,i,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:51.752Z,obtenir ,r,r,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:51.884Z,obtenir , , ,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:52.602Z,pour,p,p,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:52.688Z,pour,o,o,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:52.905Z,pour,u,u,semicolemakdh,10,words,10,french,null
-2022-12-12T08:47:53.158Z,pour,r,r,semicolemakdh,10,words,10,french,null
+2022-12-12T08:47:50.074Z,obtenir,o,o,semicolemakdh,10,words,10,french,null
+2022-12-12T08:47:50.384Z,obtenir,b,b,semicolemakdh,10,words,10,french,null
+2022-12-12T08:47:50.805Z,obtenir,t,t,semicolemakdh,10,words,10,french,null
+2022-12-12T08:47:51.024Z,obtenir,e,e,semicolemakdh,10,words,10,french,null
+2022-12-12T08:47:51.241Z,obtenir,n,n,semicolemakdh,10,words,10,french,null
+2022-12-12T08:47:51.502Z,obtenir,i,i,semicolemakdh,10,words,10,french,null
+2022-12-12T08:47:51.752Z,obtenir,r,r,semicolemakdh,10,words,10,french,null
 2022-12-12T08:48:01.169Z,trouver ,t,t,semicolemakdh,11,words,10,french,null
 2022-12-12T08:48:01.282Z,trouver ,r,r,semicolemakdh,11,words,10,french,null
 2022-12-12T08:48:01.370Z,trouver ,o,o,semicolemakdh,11,words,10,french,null
@@ -16649,7 +16644,7 @@ timestamp,activeWord,lastChar,correctChar,layout,testNum,type,length,language,fu
 2022-12-12T18:08:43.961Z,bitand , , ,semicolemakdh,1,words,10,code c++,null
 2022-12-12T18:08:44.400Z,co_await ,c,c,semicolemakdh,1,words,10,code c++,null
 2022-12-12T18:08:44.540Z,co_await ,c,o,semicolemakdh,1,words,10,code c++,null
-2022-12-12T18:08:45.857Z,co_await ,o,o,semicolemakdh,1,words,10,code c++,null
+2022-12-12T18:08:44.857Z,co_await ,o,o,semicolemakdh,1,words,10,code c++,null
 2022-12-12T18:08:46.192Z,co_await ,-,_,semicolemakdh,1,words,10,code c++,null
 2022-12-12T18:08:47.331Z,co_await ,-,_,semicolemakdh,1,words,10,code c++,null
 2022-12-12T18:08:47.808Z,co_await ,a,_,semicolemakdh,1,words,10,code c++,null
@@ -16911,7 +16906,7 @@ timestamp,activeWord,lastChar,correctChar,layout,testNum,type,length,language,fu
 2022-12-12T18:25:02.397Z,compl,m,m,semicolemakdh,4,words,10,code c++,null
 2022-12-12T18:25:03.305Z,compl,p,p,semicolemakdh,4,words,10,code c++,null
 2022-12-12T18:25:03.610Z,compl,l,l,semicolemakdh,4,words,10,code c++,null
-2022-12-12T18:25:52.400Z,signed ,v,s,semicolemakdh,5,words,10,code c++,null
+2022-12-12T18:25:57.400Z,signed ,v,s,semicolemakdh,5,words,10,code c++,null
 2022-12-12T18:25:57.437Z,signed ,s,s,semicolemakdh,5,words,10,code c++,null
 2022-12-12T18:25:57.480Z,signed ,i,i,semicolemakdh,5,words,10,code c++,null
 2022-12-12T18:25:57.718Z,signed ,g,g,semicolemakdh,5,words,10,code c++,null
@@ -17521,24 +17516,6 @@ timestamp,activeWord,lastChar,correctChar,layout,testNum,type,length,language,fu
 2022-12-12T20:11:06.892Z,Func,n,F,semicolemakdh,1,words,10,code swift,null
 2022-12-12T20:11:07.169Z,Func,d,F,semicolemakdh,1,words,10,code swift,null
 2022-12-12T20:11:07.895Z,Func,c,F,semicolemakdh,1,words,10,code swift,null
-2022-12-12T20:11:10.107Z,operator ,o,o,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:10.241Z,operator ,p,p,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:10.492Z,operator ,r,e,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:10.572Z,operator ,e,e,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:11.508Z,operator ,e,r,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:11.607Z,operator ,r,r,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:11.702Z,operator ,a,a,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:11.853Z,operator ,t,t,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:12.485Z,operator ,o,o,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:12.796Z,operator ,r,r,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:12.900Z,operator , , ,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:13.500Z,protocol,p,p,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:13.677Z,protocol,o,r,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:13.836Z,protocol,r,r,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:14.731Z,protocol,r,o,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:14.875Z,protocol,o,o,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:14.965Z,protocol,t,t,semicolemakdh,2,words,10,code swift,null
-2022-12-12T20:11:15.148Z,protocol, ,o,semicolemakdh,2,words,10,code swift,null
 2022-12-12T20:11:23.557Z,break ,b,b,semicolemakdh,3,words,10,code swift,null
 2022-12-12T20:11:23.693Z,break ,e,r,semicolemakdh,3,words,10,code swift,null
 2022-12-12T20:11:23.813Z,break ,r,r,semicolemakdh,3,words,10,code swift,null
@@ -18237,20 +18214,11 @@ timestamp,activeWord,lastChar,correctChar,layout,testNum,type,length,language,fu
 2022-12-12T20:19:01.179Z,this ,i,i,semicolemakdh,13,words,10,code javascript,null
 2022-12-12T20:19:01.324Z,this ,s,s,semicolemakdh,13,words,10,code javascript,null
 2022-12-12T20:19:01.531Z,this , , ,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:01.883Z,new ,n,n,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:02.210Z,new ,u,e,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:02.331Z,new ,w,e,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:03.419Z,new ,e,e,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:03.498Z,new ,w,w,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:03.618Z,new , , ,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:03.997Z,Object(),O,O,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:04.307Z,Object(),b,O,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:05.003Z,Object(),j,O,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:05.299Z,Object(),e,O,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:05.443Z,Object(),c,O,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:05.987Z,Object(),t,O,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:06.515Z,Object(),(,O,semicolemakdh,13,words,10,code javascript,null
-2022-12-12T20:19:06.707Z,Object(),),O,semicolemakdh,13,words,10,code javascript,null
+2022-12-12T20:19:01.883Z,new,n,n,semicolemakdh,13,words,10,code javascript,null
+2022-12-12T20:19:02.210Z,new,u,e,semicolemakdh,13,words,10,code javascript,null
+2022-12-12T20:19:02.331Z,new,w,e,semicolemakdh,13,words,10,code javascript,null
+2022-12-12T20:19:03.419Z,new,e,e,semicolemakdh,13,words,10,code javascript,null
+2022-12-12T20:19:03.498Z,new,w,w,semicolemakdh,13,words,10,code javascript,null
 2022-12-12T20:19:13.853Z,console ,c,c,semicolemakdh,14,words,10,code javascript,null
 2022-12-12T20:19:13.973Z,console ,o,o,semicolemakdh,14,words,10,code javascript,null
 2022-12-12T20:19:14.163Z,console ,n,n,semicolemakdh,14,words,10,code javascript,null
@@ -18259,19 +18227,19 @@ timestamp,activeWord,lastChar,correctChar,layout,testNum,type,length,language,fu
 2022-12-12T20:19:15.316Z,console ,e,l,semicolemakdh,14,words,10,code javascript,null
 2022-12-12T20:19:15.507Z,console , ,l,semicolemakdh,14,words,10,code javascript,null
 2022-12-12T20:19:16.390Z,Math.ceil() ,M,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:16.602Z,Math.ceil() ,a,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:16.741Z,Math.ceil() ,t,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:17.987Z,Math.ceil() ,h,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:18.227Z,Math.ceil() ,.,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:18.801Z,Math.ceil() ,c,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:19.299Z,Math.ceil() ,e,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:19.556Z,Math.ceil() ,u,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:19.692Z,Math.ceil() ,i,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:20.667Z,Math.ceil() ,i,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:20.939Z,Math.ceil() ,l,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:21.763Z,Math.ceil() ,(,M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:21.963Z,Math.ceil() ,),M,semicolemakdh,14,words,10,code javascript,null
-2022-12-12T20:19:22.155Z,Math.ceil() , ,M,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:16.602Z,Math.ceil() ,a,a,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:16.741Z,Math.ceil() ,t,t,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:17.987Z,Math.ceil() ,h,h,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:18.227Z,Math.ceil() ,.,.,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:18.801Z,Math.ceil() ,c,c,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:19.299Z,Math.ceil() ,e,e,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:19.556Z,Math.ceil() ,u,i,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:19.692Z,Math.ceil() ,i,i,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:20.667Z,Math.ceil() ,i,l,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:20.939Z,Math.ceil() ,l,l,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:21.763Z,Math.ceil() ,(,(,semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:21.963Z,Math.ceil() ,),),semicolemakdh,14,words,10,code javascript,null
+2022-12-12T20:19:22.155Z,Math.ceil() , , ,semicolemakdh,14,words,10,code javascript,null
 2022-12-12T20:19:22.827Z,${i} ,$,$,semicolemakdh,14,words,10,code javascript,null
 2022-12-12T20:19:23.834Z,${i} ,{,{,semicolemakdh,14,words,10,code javascript,null
 2022-12-12T20:19:24.366Z,${i} ,i,i,semicolemakdh,14,words,10,code javascript,null
